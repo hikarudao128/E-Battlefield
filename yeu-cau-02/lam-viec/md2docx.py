@@ -91,6 +91,37 @@ def callout(text):
            '<w:shd w:val="clear" w:color="auto" w:fill="F6F7F8"/><w:ind w:left="200" w:right="200"/>')
     return para(text, extra_ppr=ppr)
 
+IMAGES = []  # (abs_path, rId, name)
+MD_DIR = '.'
+
+def image_xml(src, caption):
+    from PIL import Image
+    path = src if os.path.isabs(src) else os.path.join(MD_DIR, src)
+    n = len(IMAGES) + 1
+    rid = f'rIdImg{n}'
+    ext = os.path.splitext(path)[1].lower().lstrip('.')
+    name = f'image{n}.{"jpeg" if ext in ("jpg", "jpeg") else ext}'
+    IMAGES.append((path, rid, name))
+    w, h = Image.open(path).size
+    cx = int(6.3 * 914400)
+    cy = int(cx * h / w)
+    max_cy = int(8.2 * 914400)
+    if cy > max_cy:
+        cx, cy = int(cx * max_cy / cy), max_cy
+    drawing = (f'<w:r><w:drawing><wp:inline distT="0" distB="0" distL="0" distR="0"><wp:extent cx="{cx}" cy="{cy}"/>'
+        f'<wp:docPr id="{n}" name="Picture {n}"/>'
+        '<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">'
+        '<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">'
+        '<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">'
+        f'<pic:nvPicPr><pic:cNvPr id="{n}" name="{name}"/><pic:cNvPicPr/></pic:nvPicPr>'
+        f'<pic:blipFill><a:blip r:embed="{rid}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
+        f'<pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="{cx}" cy="{cy}"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom></pic:spPr>'
+        '</pic:pic></a:graphicData></a:graphic></wp:inline></w:drawing></w:r>')
+    out = f'<w:p><w:pPr><w:keepNext/><w:spacing w:before="120" w:after="40"/><w:jc w:val="center"/></w:pPr>{drawing}</w:p>'
+    if caption:
+        out += f'<w:p><w:pPr><w:spacing w:after="200"/><w:jc w:val="center"/></w:pPr>{runs("*" + caption + "*", size=18)}</w:p>'
+    return out
+
 def convert(md):
     body = []
     lines = md.split('\n')
@@ -101,6 +132,9 @@ def convert(md):
             i += 1; continue
         if ln.strip() == '---pagebreak---':
             body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>'); i += 1; continue
+        mimg = re.match(r'!\[(.*?)\]\((.+?)\)\s*$', ln.strip())
+        if mimg:
+            body.append(image_xml(mimg.group(2), mimg.group(1))); i += 1; continue
         if ln.strip().startswith('```'):
             code = []
             i += 1
@@ -159,6 +193,9 @@ def convert(md):
     return ''.join(body)
 
 def main(inp, out, header):
+    global MD_DIR
+    MD_DIR = os.path.dirname(os.path.abspath(inp))
+    IMAGES.clear()
     md = open(inp, encoding='utf8').read()
     tmp = out + '.dir'
     if os.path.exists(tmp):
@@ -169,6 +206,20 @@ def main(inp, out, header):
     sect = doc.rindex('<w:sectPr')
     doc = doc[:start] + convert(md) + doc[sect:]
     open(os.path.join(tmp, 'word/document.xml'), 'w', encoding='utf8').write(doc)
+    if IMAGES:
+        os.makedirs(os.path.join(tmp, 'word/media'), exist_ok=True)
+        rels_p = os.path.join(tmp, 'word/_rels/document.xml.rels')
+        rels = open(rels_p, encoding='utf8').read()
+        add = ''
+        for src, rid, name in IMAGES:
+            shutil.copy(src, os.path.join(tmp, 'word/media', name))
+            add += f'<Relationship Id="{rid}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Target="media/{name}"/>'
+        open(rels_p, 'w', encoding='utf8').write(rels.replace('</Relationships>', add + '</Relationships>'))
+        ct_p = os.path.join(tmp, '[Content_Types].xml')
+        ct = open(ct_p, encoding='utf8').read()
+        if 'Extension="png"' not in ct:
+            ct = ct.replace('<Default Extension="rels"', '<Default Extension="png" ContentType="image/png"/><Default Extension="rels"')
+        open(ct_p, 'w', encoding='utf8').write(ct)
     hp = os.path.join(tmp, 'word/header1.xml')
     h = open(hp, encoding='utf8').read()
     h = re.sub(r'(<w:t[^>]*>)[^<]*SIXDO[^<]*(</w:t>)', lambda m: m.group(1) + esc(header) + m.group(2), h, count=1)
