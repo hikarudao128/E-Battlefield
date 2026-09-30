@@ -161,7 +161,7 @@ const LABELS = { '01': 'Main', '02': 'Occasion 1', '03': 'Occasion 2', '04': 'La
     const cells = SLOTS.map(n => {
       const img = p.ai[n] ? path.join(AI, p.ai[n]) : path.join(dir, `${p.id}_${n}_${LABELS[n].replace(/\W+/g, '-')}.png`);
       const src = 'data:image/' + (img.endsWith('.png') ? 'png' : 'jpeg') + ';base64,' + fs.readFileSync(img).toString('base64');
-      const badge = p.ai[n] ? `<div style="position:absolute;right:10px;top:10px;background:${INK};color:#fff;font-size:22px;padding:6px 12px">Canva AI</div>` : '';
+      const badge = '';
       return `<div style="position:relative;border:2px solid ${LINE};background:#fff">
         <img src="${src}" style="width:100%;height:560px;object-fit:cover;display:block">${badge}
         <div style="padding:14px 18px;font-size:30px"><b>${n}</b> · ${LABELS[n]}</div></div>`;

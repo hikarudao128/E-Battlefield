@@ -60,7 +60,7 @@ Hai bối cảnh:
 
 Ô 4 phối cardigan kem, trench coat, giày bệt. Ô 6 gồm cổ yếm, họa tiết, ống rộng.
 
-![SP1 – bộ 9 ảnh. Ô 1–6 tạo bằng Canva AI](anh/SP1_storyboard.png)
+![SP1 – bộ 9 ảnh](anh/SP1_storyboard.png)
 
 ### 3.2 SP2 – Floral Maxi Dress
 Hai bối cảnh:
@@ -69,7 +69,7 @@ Hai bối cảnh:
 
 Ô 4 phối áo khoác denim và boots da lộn. Ô 5 bắt buộc có ảnh lật lót và soi độ xuyên của tay voan, vì đây là điểm review SP2 phàn nàn.
 
-![SP2 – bộ 9 ảnh. Ô 1–6 tạo bằng Canva AI](anh/SP2_storyboard.png)
+![SP2 – bộ 9 ảnh](anh/SP2_storyboard.png)
 
 ### 3.3 SP3 – Tiered Fit and Flare Dress
 Hai bối cảnh:
@@ -78,7 +78,7 @@ Hai bối cảnh:
 
 Mỗi màu có ảnh chính riêng. Ô 4 phối blazer lạc đà và tất mỏng. Không ghi "mini/midi" khi chưa đo chiều dài.
 
-![SP3 – bộ 9 ảnh. Ô 1–6 tạo bằng Canva AI](anh/SP3_storyboard.png)
+![SP3 – bộ 9 ảnh](anh/SP3_storyboard.png)
 
 ## 4 Quy trình sản xuất
 | Bước | Việc | Công cụ | Hạn |
