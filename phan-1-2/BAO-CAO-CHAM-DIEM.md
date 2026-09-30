@@ -10,16 +10,16 @@ _30/09/2026 · Barem: Phần 1 = 20 điểm (1.1 Nghiên cứu thị trường 1
 
 ## 2. Kết quả
 
-| Mục | Bản gốc (TB 4 GK) | Bản viết lại (TB 4 GK) | Bản cuối (hội đồng, trước lượt sửa cuối) |
-|---|---|---|---|
-| 1.1 Thị trường (10) | 5,3 | 7,9 | 8,5 |
-| 1.2 SIXDO và đối thủ (10) | 3,6 | 7,5 | 8,0 |
-| 2.1 Đối tượng (10) | 2,8 | 7,4 | 8,0 |
-| 2.2 Insight (12) | 4,5 | 9,0 | 10,0 |
-| **Tổng (42)** | **16,1** | **31,8** | **34,5** |
+| Mục | Bản gốc (TB 4 GK) | Bản viết lại (TB 4 GK) | v3 (hội đồng) | v4 + dữ liệu Best Seller (hội đồng) |
+|---|---|---|---|---|
+| 1.1 Thị trường (10) | 5,3 | 7,9 | 8,5 | 9,0 |
+| 1.2 SIXDO và đối thủ (10) | 3,6 | 7,5 | 8,0 | 8,5 |
+| 2.1 Đối tượng (10) | 2,8 | 7,4 | 8,0 | 8,5 |
+| 2.2 Insight (12) | 4,5 | 9,0 | 10,0 | 10,5 |
+| **Tổng (42)** | **16,1** | **31,8** | **34,5** | **36,5** |
 
 Điểm từng giám khảo: bản gốc 15 / 17 / 16,5 / 16; bản viết lại 31 / 33 / 31 / 32.
-Sau khi hội đồng chấm 34,5, mình đã sửa thêm 6 lỗi câu chữ (N1–N6). Hội đồng ước tính các sửa này đưa bài lên khoảng **37/42**. Bản sau sửa này chưa được chấm lại.
+v4 = v3 đã sửa N1–N6, cộng dữ liệu từ báo cáo SellerSprite "Best Seller Market Analysis" (top 100 Best Seller Amazon US): mục 1.1.2 mới về doanh số theo tháng, bảng chuẩn Best Seller ở 1.2.3. Hội đồng đối chiếu từng số với ảnh gốc và không thấy số bịa. Sau đó mình sửa thêm 3 chỗ đọc quá mức và 2 chỗ suy diễn nhân quả mà hội đồng chỉ ra (vùng giá, so Q1 với Q3, tháng 2, A+ "bắt buộc", ghi rõ danh mục). Bản sau sửa này chưa được chấm lại.
 
 ## 3. Vì sao bản gốc mất điểm
 1. **Không chốt quyết định.** Bài không chọn phân khúc và không xếp hạng sản phẩm. Trong văn bản có 26 lần "chưa".
