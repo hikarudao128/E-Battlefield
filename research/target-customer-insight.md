@@ -3,6 +3,9 @@
 
 _Tiêu chí 2 của barem (22 điểm) gồm Đối tượng mục tiêu (10 điểm) và Insight (12 điểm). Cập nhật 30/09/2026. Tiếp nối [Phần 1 – Nghiên cứu tổng quan](part1-nghien-cuu-tong-quan.md)._
 
+
+> 📌 **Bản đã được rà soát và cập nhật nằm trong [SIXDO-ke-hoach-xuyen-mua-tong-hop.md](SIXDO-ke-hoach-xuyen-mua-tong-hop.md).** Khi tài liệu này mâu thuẫn với bản tổng hợp, lấy bản tổng hợp làm chuẩn (ví dụ: SIXDO đã có Brand Store trên Amazon; 3 sản phẩm thật có giá 25,99–51,99 USD).
+
 ---
 
 ## 0. Cách phân khúc

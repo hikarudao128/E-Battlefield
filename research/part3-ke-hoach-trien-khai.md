@@ -3,6 +3,9 @@
 
 _Theo barem: Amazon Operations & Commercial (25 điểm), Product Repositioning (10 điểm), Marketing trong và ngoài Amazon (10 điểm), Dùng AI tạo sinh làm bộ hình cho 3 sản phẩm (5 điểm). Cập nhật 30/09/2026. Dựa trên [Phần 1 – Nghiên cứu tổng quan](part1-nghien-cuu-tong-quan.md) và [Phần 2 – Khách hàng mục tiêu & Insight](target-customer-insight.md)._
 
+
+> 📌 **Bản đã được rà soát và cập nhật nằm trong [SIXDO-ke-hoach-xuyen-mua-tong-hop.md](SIXDO-ke-hoach-xuyen-mua-tong-hop.md).** Khi tài liệu này mâu thuẫn với bản tổng hợp, lấy bản tổng hợp làm chuẩn (ví dụ: SIXDO đã có Brand Store trên Amazon; 3 sản phẩm thật có giá 25,99–51,99 USD).
+
 ---
 
 ## 0. Giả định đầu vào

@@ -25,7 +25,7 @@ Phụ nữ trung lưu khá giả, biết ăn mặc nhưng nhạy cảm về giá
 - Trình diễn tại **New York Fashion Week** (Xuân–Hè 2024, Spring Studios).
 - Có mặt/quảng bá tại **Rodeo Drive, Beverly Hills** (2025).
 - Trình diễn ở **Úc**, **Mỹ**, và **Shanghai Fashion Week** (Trung Quốc là thị trường thứ 3).
-- ⇒ Đã có nhận diện ở Mỹ ở tầng "runway/PR", **chưa thấy kênh thương mại điện tử quy mô tại Mỹ** (không tìm thấy store SIXDO trên Amazon US).
+- ⇒ **Đính chính (30/09/2026):** SIXDO **đã có Amazon Brand Store tại Mỹ** (các trang Collections, Dresses & Skirts, New Arrivals), đồng thời đã được South Coast Plaza (California) chấp thuận mở cửa hàng. Chi tiết xem [`sixdo-vision-international.md`](./sixdo-vision-international.md).
 
 ### SWOT nhanh (góc nhìn Amazon US)
 | Điểm mạnh | Điểm yếu |
@@ -93,7 +93,7 @@ _Số liệu giá vốn/vận chuyển là giả định minh hoạ – cần th
 
 ## 4. Khuyến nghị lộ trình vào Amazon US
 
-1. **Pháp lý & thương hiệu**: đăng ký nhãn hiệu SIXDO tại USPTO → **Amazon Brand Registry** (mở khoá A+ Premium, Brand Store, Brand Story, Vine, Sponsored Brands/Video).
+1. **Pháp lý & thương hiệu**: SIXDO đã có Brand Store (tức đã qua Brand Registry) → tập trung khai thác triệt để A+ Premium, Brand Story, Vine, Sponsored Brands/Video.
 2. **Chọn sản phẩm pilot 15–25 SKU**: váy đầm hoạ tiết hoa hồng, váy dự tiệc/wedding guest, sơ mi trắng signature; tránh cạnh tranh trực diện ở nhóm < 40 USD.
 3. **Chuẩn hoá size US** + bảng size chi tiết, ảnh người mẫu nhiều dáng người (gồm Plus) để giảm tỷ lệ hoàn.
 4. **Nội dung**: tận dụng runway NYFW / Rodeo Drive / câu chuyện "6 người con" cho Brand Story, video; từ khoá tiếng Anh theo dịp (wedding guest, cocktail, office).

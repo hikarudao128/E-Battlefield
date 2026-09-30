@@ -3,6 +3,9 @@
 
 _Theo barem: Nghiên cứu thị trường (10 điểm) và Hiểu biết về SIXDO & đối thủ (10 điểm). Cập nhật 30/09/2026. Số liệu nền về thương hiệu và phí Amazon nằm ở [sixdo-amazon-us.md](sixdo-amazon-us.md); chân dung khách hàng và insight nằm ở [target-customer-insight.md](target-customer-insight.md)._
 
+
+> 📌 **Bản đã được rà soát và cập nhật nằm trong [SIXDO-ke-hoach-xuyen-mua-tong-hop.md](SIXDO-ke-hoach-xuyen-mua-tong-hop.md).** Khi tài liệu này mâu thuẫn với bản tổng hợp, lấy bản tổng hợp làm chuẩn (ví dụ: SIXDO đã có Brand Store trên Amazon; 3 sản phẩm thật có giá 25,99–51,99 USD).
+
 ---
 
 ## Tóm tắt 5 ý chính
