@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><title>Cây KPI SIXDO</title>
+<style>
+:root{--bg:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--line:#c9c7c1;--card:#ffffff;--blue:#2a78d6;--blueSoft:#e8f1fc;--orange:#eb6834;--orangeSoft:#fdeee7;--aqua:#1baf7a;--aquaSoft:#e4f6ef}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);font:15px/1.35 Arial,Helvetica,sans-serif;color:var(--ink)}
+.wrap{width:1600px;padding:28px 32px;position:relative}
+h1{font-size:24px;margin:0 0 4px}.sub{color:var(--ink2);margin:0 0 22px;font-size:15px}
+.grid{display:grid;grid-template-columns:230px 250px 300px 1fr;column-gap:56px;row-gap:12px;position:relative;z-index:1}
+.col{display:flex;flex-direction:column;justify-content:space-around;gap:12px}
+.box{background:var(--card);border:1.5px solid var(--line);border-radius:8px;padding:10px 12px}
+.box b{display:block;font-size:16px;margin-bottom:2px}.box .f{font-size:13px;color:var(--ink2)}
+.box .t{font-size:13px;margin-top:4px}.box .t span{font-weight:bold}
+.l0{border-color:var(--blue);background:var(--blueSoft)}
+.lever{border-left:4px solid var(--orange)}
+.src{font-size:12px;color:var(--ink2);margin-top:3px}
+svg.links{position:absolute;left:0;top:0;z-index:0;pointer-events:none}
+.side{margin-top:26px;display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.side .box{border-color:var(--aqua);background:var(--aquaSoft)}
+.label{font-size:13px;font-weight:bold;color:var(--ink2);text-transform:uppercase;letter-spacing:.04em;margin:22px 0 8px}
+.legend{display:flex;gap:18px;font-size:13px;color:var(--ink2);margin-top:14px}
+.legend i{display:inline-block;width:14px;height:14px;border-radius:3px;vertical-align:-2px;margin-right:6px}
+</style></head><body><div class="wrap" id="w">
+<h1>Cây KPI: từ lượt hiển thị đến doanh thu</h1>
+<p class="sub">Mỗi tầng là tích của tầng dưới. Mục tiêu theo kịch bản cơ sở (71 units) / mục tiêu (110 units), 01/10/2026 – 31/03/2027.</p>
+<div class="grid" id="g">
+ <div class="col">
+  <div class="box l0" id="rev"><b>Doanh thu</b><div class="f">= Units × giá bán TB</div><div class="t">Cơ sở <span>2.937</span> · Mục tiêu <span>4.544 USD</span></div><div class="src">theo giá niêm yết, trước coupon</div></div>
+ </div>
+ <div class="col">
+  <div class="box l0" id="units"><b>Units (orders)</b><div class="f">= Sessions × Unit Session %</div><div class="t">Cơ sở <span>71</span> · Mục tiêu <span>110</span></div></div>
+  <div class="box" id="price"><b>Giá bán TB</b><div class="f">Doanh số ÷ (units × giá niêm yết)</div><div class="t">≥ <span>95%</span> giá niêm yết</div></div>
+ </div>
+ <div class="col">
+  <div class="box" id="sess"><b>Sessions</b><div class="f">Tự nhiên + click PPC + click ngoài sàn</div><div class="t">Cơ sở <span>1.009</span> · Mục tiêu <span>1.307</span></div></div>
+  <div class="box" id="cvr"><b>Unit Session % (CVR)</b><div class="f">Units ÷ sessions Amazon</div><div class="t">6% → <span>9%</span> (1,5 lần baseline)</div></div>
+  <div class="box lever" id="pricel"><b>Đòn bẩy giá</b><div class="t">Coupon 10% theo dịp, không giảm quá 15%</div><div class="src">Doanh số ÷ giá niêm yết</div></div>
+ </div>
+ <div class="col">
+  <div class="box lever" id="org"><b>Sessions tự nhiên = impression × CTR</b><div class="t">Title, ảnh chính, từ khóa theo dịp, nhãn coupon</div><div class="src">Search Query Performance · Cơ sở 655 · Mục tiêu 922</div></div>
+  <div class="box lever" id="ppc"><b>Click PPC = chi ÷ CPC</b><div class="t">181 USD, 4 đợt dịp, ACoS dưới hòa vốn</div><div class="src">Advertising console · 234 click</div></div>
+  <div class="box lever" id="off"><b>Click ngoài sàn</b><div class="t">Creator, Instagram boost (Yêu cầu 04)</div><div class="src">Amazon Attribution · Cơ sở 120 · Mục tiêu 150</div></div>
+  <div class="box lever" id="cvrl"><b>Đòn bẩy CVR</b><div class="t">Ảnh khớp hàng thật, size chart inch, vải và lót, review, coupon</div><div class="src">Business Report theo ASIN con · tỷ lệ thêm giỏ (SQP)</div></div>
+ </div>
+</div>
+<svg class="links" id="svg"></svg>
+<div class="label">Chỉ số đi kèm (đề bài: duy trì doanh số, sell-through, khách mới)</div>
+<div class="side">
+ <div class="box"><b>Duy trì doanh số</b><div class="f">Units tháng ÷ kế hoạch tháng</div><div class="t">Đạt ≥ <span>90%</span>; cảnh báo &lt; 70%</div></div>
+ <div class="box"><b>Sell-through</b><div class="f">Units lũy kế ÷ 110 units đầu kỳ</div><div class="t">Cơ sở <span>65%</span> · Mục tiêu <span>100%</span> vào 31/03</div></div>
+ <div class="box"><b>Khách mới</b><div class="f">% units từ truy vấn theo dịp; units khách mới</div><div class="t">Truy vấn dịp <span>20% → 50%</span></div></div>
+ <div class="box"><b>Chất lượng</b><div class="f">Tỷ lệ hoàn; rating</div><div class="t">Hoàn &lt; <span>20%</span>; rating ≥ <span>4,3</span></div></div>
+</div>
+<div class="legend"><span><i style="background:var(--blueSoft);border:1.5px solid var(--blue)"></i>Kết quả</span><span><i style="background:#fff;border-left:4px solid var(--orange)"></i>Đòn bẩy và nguồn số liệu</span><span><i style="background:var(--aquaSoft);border:1.5px solid var(--aqua)"></i>Chỉ số đi kèm</span></div>
+</div>
+<script>
+const links=[['rev','units'],['rev','price'],['units','sess'],['units','cvr'],['sess','org'],['sess','ppc'],['sess','off'],['cvr','cvrl'],['price','pricel']];
+const w=document.getElementById('w').getBoundingClientRect(),svg=document.getElementById('svg');
+svg.setAttribute('width',w.width);svg.setAttribute('height',w.height);
+for(const [a,b] of links){const A=document.getElementById(a).getBoundingClientRect(),B=document.getElementById(b).getBoundingClientRect();
+const x1=A.right-w.left,y1=A.top+A.height/2-w.top,x2=B.left-w.left,y2=B.top+B.height/2-w.top,mx=(x1+x2)/2;
+const p=document.createElementNS('http://www.w3.org/2000/svg','path');p.setAttribute('d',`M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}`);
+p.setAttribute('fill','none');p.setAttribute('stroke','#a8a69f');p.setAttribute('stroke-width','2');svg.appendChild(p);}
+</script></body></html>

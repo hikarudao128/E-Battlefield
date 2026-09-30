@@ -312,12 +312,13 @@ Marketing tính cố định 400 USD, dự phòng hoàn hàng 8%.
 
 | Giai đoạn | Việc chính | Units | Unit Session % | ACoS |
 |---|---|---|---|---|
-| 01–14/10 Áp dụng | Lấy baseline; đăng title, bullet, ảnh thật, size chart; gửi A+ trước 07/10 | 10 (T10) | Ghi nhận baseline | – |
-| 15/10–15/11 Mùa thu | PPC SP2 vàng; Store: Layer It | 13 (T11) | 7,5% → 9% | 21–32% |
-| 16/11–31/12 Tiệc | PPC SP3 đen đến 19/12; coupon Holiday Party | 12 (T12) | 7,5% → 9% | 24–35% |
-| 01/01–14/02 Chuyến đi | PPC SP1, SP2 xanh; coupon Getaway, Valentine | 15 (T1) + 11 (T2) | 7,5% → 9% | 19–29% |
-| 15/02–31/03 Mùa xuân | PPC SP3 hồng; coupon Easter | 10 (T3) | 7,5% → 9% | 24–35% |
+| 01–14/10 Áp dụng | Lấy baseline; đăng title, bullet, ảnh thật, size chart; gửi A+ trước 07/10 | 8 (T10) | Baseline 6% | – |
+| 15/10–15/11 Mùa thu | PPC SP2 vàng; Store: Layer It | 11 (T11) | 6,5% | 21–32% |
+| 16/11–31/12 Tiệc | PPC SP3 đen đến 19/12; coupon Holiday Party | 12 (T12) | 7,5% | 24–35% |
+| 01/01–14/02 Chuyến đi | PPC SP1, SP2 xanh; coupon Getaway, Valentine | 15 (T1) + 13 (T2) | 7,5% → 8,5% | 19–29% |
+| 15/02–31/03 Mùa xuân | PPC SP3 hồng; coupon Easter | 12 (T3) | 9% | 24–35% |
 
+- **Units và Unit Session % theo tháng** là kịch bản cơ sở, tính từ session × CVR tăng dần (Yêu cầu 06 mục 4). Dashboard theo dõi nằm ở Yêu cầu 06.
 - **KPI giữ cố định mỗi tháng:** giá bán trung bình ≥ 95% niêm yết, rating ≥ 4,3, tỷ lệ hoàn < 20%, tỷ lệ units từ từ khóa dịp mới tăng từ 20% lên 50%.
 - **Nguồn lực:** khoảng 25 giờ trong tháng 10, sau đó 2–3 giờ mỗi tuần.
 

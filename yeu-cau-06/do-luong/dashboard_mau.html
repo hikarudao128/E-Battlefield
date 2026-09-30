@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><title>Dashboard mẫu SIXDO</title>
+<style>
+:root{--bg:#fcfcfb;--card:#ffffff;--ink:#0b0b0b;--ink2:#52514e;--mute:#8a8983;--grid:#e8e6e1;--line:#d9d7d1;
+--s1:#2a78d6;--s2:#1baf7a;--s3:#eb6834;--good:#0ca30c;--warn:#fab219;--crit:#d03b3b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);font:14px/1.35 Arial,Helvetica,sans-serif;color:var(--ink)}
+.wrap{width:1600px;padding:24px 28px}
+.top{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:14px}
+h1{font-size:22px;margin:0}.sub{color:var(--ink2);font-size:14px;margin-top:4px}
+.stamp{border:2px solid var(--crit);color:var(--crit);font-weight:bold;padding:6px 12px;border-radius:6px;font-size:14px}
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.tile .k{font-size:13px;color:var(--ink2)}.tile .v{font-size:30px;font-weight:bold;margin:4px 0 2px}
+.tile .c{font-size:13px;color:var(--ink2)}
+.st{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:bold;margin-top:6px}
+.st i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.card h2{font-size:15px;margin:0 0 2px}.card .h{font-size:12px;color:var(--ink2);margin-bottom:6px}
+.legend{display:flex;gap:16px;font-size:12px;color:var(--ink2);margin:2px 0 4px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:6px 8px;border-bottom:1px solid var(--grid);text-align:right}
+th{color:var(--ink2);font-weight:bold;background:#f5f4f1}th:first-child,td:first-child,th:last-child{text-align:left}td.l{text-align:left}
+.foot{font-size:12px;color:var(--ink2);margin-top:6px}
+</style></head><body><div class="wrap">
+<div class="top"><div><h1>SIXDO – Dashboard đo lường Amazon US</h1><div class="sub">Kỳ xem: hết tháng 12/2026 (3/6 tháng) · So với kịch bản cơ sở 71 units và mục tiêu 110 units</div></div>
+<div class="stamp">SỐ MINH HỌA – không phải dữ liệu thật</div></div>
+<div class="tiles" id="tiles"></div>
+<div class="row">
+ <div class="card"><h2>Units theo tháng</h2><div class="h">Thực tế so với kế hoạch cơ sở và mục tiêu</div>
+ <div class="legend"><span><i style="background:var(--s1)"></i>Thực tế</span><span><i style="background:var(--s2)"></i>Kế hoạch cơ sở</span><span><i style="background:var(--s3)"></i>Kế hoạch mục tiêu</span></div>
+ <svg id="bar" viewBox="0 0 760 270" style="width:100%;height:auto"></svg></div>
+ <div class="card"><h2>Unit Session % (CVR) theo tháng</h2><div class="h">Đường nét đứt: baseline 6% và mốc 1,5 lần baseline (9%)</div>
+ <div class="legend"><span><i style="background:var(--s1)"></i>Thực tế</span><span><i style="background:var(--s2)"></i>Kế hoạch cơ sở</span><span><i style="background:var(--s3)"></i>Kế hoạch mục tiêu</span></div>
+ <svg id="line" viewBox="0 0 760 270" style="width:100%;height:auto"></svg></div>
+</div>
+<div class="row">
+ <div class="card"><h2>Phễu tháng 12</h2><div class="h">Traffic → CTR → CVR → Orders → Revenue</div>
+ <table><tr><th>Bước</th><th>Thực tế</th><th>Kế hoạch cơ sở</th><th>Trạng thái</th></tr>
+ <tr><td>Impression tìm kiếm (SQP)</td><td>31.400</td><td>–</td><td class="l" data-s="n">Theo dõi xu hướng</td></tr>
+ <tr><td>CTR tìm kiếm</td><td>0,42%</td><td>≥ 0,40%</td><td class="l" data-s="g">Đạt</td></tr>
+ <tr><td>Sessions (tự nhiên · PPC · ngoài sàn)</td><td>160 (118 · 33 · 9)</td><td>165 (120 · 35 · 10)</td><td class="l" data-s="g">Đạt</td></tr>
+ <tr><td>Unit Session %</td><td>7,6%</td><td>7,5%</td><td class="l" data-s="w">Theo dõi: 1,27x, chưa tới 1,5x</td></tr>
+ <tr><td>Units</td><td>11</td><td>12</td><td class="l" data-s="g">Đạt (92%)</td></tr>
+ <tr><td>Doanh số (USD)</td><td>352</td><td>416</td><td class="l" data-s="w">Theo dõi: nhiều SP3 hơn dự kiến</td></tr>
+ <tr><td>ACoS (SP3 đen, bid ≤ 0,55)</td><td>29%</td><td>≤ 36,5%</td><td class="l" data-s="g">Đạt</td></tr>
+ </table></div>
+ <div class="card"><h2>Tồn kho theo SKU</h2><div class="h">Đến hết tháng 12 · biến thể còn ≤ 1 unit thì dừng quảng cáo</div>
+ <table><tr><th>SKU</th><th>Tồn đầu</th><th>Đã bán</th><th>Còn lại</th><th>Sell-through</th><th>Việc cần làm</th></tr>
+ <tr><td>SP1</td><td>20</td><td>3</td><td>17</td><td>15%</td><td class="l" data-s="n">Đợt Getaway từ 02/01</td></tr>
+ <tr><td>SP2 xanh</td><td>20</td><td>3</td><td>17</td><td>15%</td><td class="l" data-s="n">Đợt Getaway từ 02/01</td></tr>
+ <tr><td>SP2 vàng</td><td>20</td><td>11</td><td>9</td><td>55%</td><td class="l" data-s="c">Size M còn 1: dừng quảng cáo biến thể M</td></tr>
+ <tr><td>SP3 đen</td><td>25</td><td>11</td><td>14</td><td>44%</td><td class="l" data-s="g">Coupon Holiday Party 20–31/12</td></tr>
+ <tr><td>SP3 hồng</td><td>25</td><td>2</td><td>23</td><td>8%</td><td class="l" data-s="w">Tồn cao: chuẩn bị Valentine, creator D</td></tr>
+ </table></div>
+</div>
+<div class="foot">Nguồn khi dùng thật: Business Report theo ASIN con, Search Query Performance, Advertising console, Amazon Attribution, Manage FBA Inventory, FBA Customer Returns. Ngưỡng trạng thái ở sheet ThamSo của file Excel.</div>
+</div>
+<script>
+const C={g:'#0ca30c',w:'#fab219',c:'#d03b3b',n:'#b4b2ab'},L={g:'Đạt',w:'Theo dõi',c:'Cảnh báo',n:''};
+document.querySelectorAll('td[data-s]').forEach(td=>{const s=td.dataset.s;td.innerHTML=`<span class="st" style="margin:0;font-weight:normal"><i style="background:${C[s]}"></i>${td.textContent}</span>`});
+const tiles=[
+ ['Units lũy kế','30','Kế hoạch cơ sở 31 · mục tiêu 55','g','Đạt: 97% kế hoạch'],
+ ['Sell-through lũy kế','27%','Cơ sở 28% · mục tiêu 50%','g','Đạt'],
+ ['Unit Session % tháng 12','7,6%','Baseline 6% · đạt 1,27 lần','w','Theo dõi: mục tiêu 1,5 lần'],
+ ['Giá bán TB','97%','của giá niêm yết · tối thiểu 95%','g','Đạt: giữ giá'],
+ ['% units từ truy vấn theo dịp','31%','Kế hoạch tháng 12: 30%','g','Đạt'],
+ ['Tỷ lệ hoàn','12%','Tối đa 20%','g','Đạt'],
+ ['Rating thấp nhất','4,4','Tối thiểu 4,3','g','Đạt'],
+ ['Chi quảng cáo lũy kế','79 USD','của 181 USD PPC · TACoS 8%','g','Đúng lịch'],
+];
+document.getElementById('tiles').innerHTML=tiles.map(t=>`<div class="tile"><div class="k">${t[0]}</div><div class="v">${t[1]}</div><div class="c">${t[2]}</div><div class="st"><i style="background:${C[t[3]]}"></i>${t[4]}</div></div>`).join('');
+const M=['T10','T11','T12','T1','T2','T3'],act=[7,12,11,null,null,null],base=[8,11,12,15,13,12],tgt=[16,20,19,22,17,16];
+const NS='http://www.w3.org/2000/svg';function el(p,t,a,txt){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;p.appendChild(e);return e}
+(function(){const s=document.getElementById('bar'),W=760,H=270,l=40,r=10,t=14,b=30,max=25,iw=W-l-r,ih=H-t-b,gw=iw/6;
+for(let v=0;v<=25;v+=5){const y=t+ih-ih*v/max;el(s,'line',{x1:l,x2:W-r,y1:y,y2:y,stroke:'#e8e6e1'});el(s,'text',{x:l-6,y:y+4,'text-anchor':'end','font-size':11,fill:'#8a8983'},v)}
+M.forEach((m,i)=>{const x0=l+gw*i+gw*0.14,bw=(gw*0.72-4)/3;[[act[i],'#2a78d6'],[base[i],'#1baf7a'],[tgt[i],'#eb6834']].forEach(([v,c],j)=>{if(v==null)return;const h=ih*v/max,x=x0+j*(bw+2),y=t+ih-h;
+el(s,'path',{d:`M${x},${t+ih} V${y+4} Q${x},${y} ${x+4},${y} H${x+bw-4} Q${x+bw},${y} ${x+bw},${y+4} V${t+ih} Z`,fill:c});
+el(s,'text',{x:x+bw/2,y:y-4,'text-anchor':'middle','font-size':11,fill:'#52514e'},v)});
+el(s,'text',{x:l+gw*i+gw/2,y:H-10,'text-anchor':'middle','font-size':12,fill:'#52514e'},m)});
+el(s,'line',{x1:l,x2:W-r,y1:t+ih,y2:t+ih,stroke:'#8a8983'});})();
+(function(){const s=document.getElementById('line'),W=760,H=270,l=44,r=70,t=14,b=30,mn=0.04,mx=0.10,iw=W-l-r,ih=H-t-b,X=i=>l+iw*(i+0.5)/6,Y=v=>t+ih-ih*(v-mn)/(mx-mn);
+for(let v=0.04;v<=0.1001;v+=0.01){el(s,'line',{x1:l,x2:W-r,y1:Y(v),y2:Y(v),stroke:'#e8e6e1'});el(s,'text',{x:l-6,y:Y(v)+4,'text-anchor':'end','font-size':11,fill:'#8a8983'},Math.round(v*100)+'%')}
+[[0.06,'Baseline 6%'],[0.09,'1,5x = 9%']].forEach(([v,tx])=>{el(s,'line',{x1:l,x2:W-r,y1:Y(v),y2:Y(v),stroke:'#8a8983','stroke-dasharray':'5 4'});el(s,'text',{x:W-r+4,y:Y(v)+4,'font-size':11,fill:'#52514e'},tx)});
+const ser=[[[0.06,0.065,0.075,0.075,0.085,0.09],'#1baf7a'],[[0.09,0.09,0.09,0.09,0.09,0.09],'#eb6834'],[[0.058,0.069,0.076,null,null,null],'#2a78d6']];
+ser.forEach(([d,c])=>{const pts=d.map((v,i)=>v==null?null:[X(i),Y(v)]).filter(Boolean);el(s,'polyline',{points:pts.map(p=>p.join(',')).join(' '),fill:'none',stroke:c,'stroke-width':2.5});
+pts.forEach(p=>el(s,'circle',{cx:p[0],cy:p[1],r:4.5,fill:c,stroke:'#ffffff','stroke-width':2}))});
+[0.058,0.069,0.076].forEach((v,i)=>el(s,'text',{x:X(i),y:i==0?Y(v)+18:Y(v)-10,'text-anchor':'middle','font-size':11,fill:'#0b0b0b'},(v*100).toFixed(1).replace('.',',')+'%'));
+M.forEach((m,i)=>el(s,'text',{x:X(i),y:H-10,'text-anchor':'middle','font-size':12,fill:'#52514e'},m));})();
+</script></body></html>
