@@ -25,7 +25,7 @@ Phụ nữ trung lưu khá giả, biết ăn mặc nhưng nhạy cảm về giá
 - Trình diễn tại **New York Fashion Week** (Xuân–Hè 2024, Spring Studios).
 - Có mặt/quảng bá tại **Rodeo Drive, Beverly Hills** (2025).
 - Trình diễn ở **Úc**, **Mỹ**, và **Shanghai Fashion Week** (Trung Quốc là thị trường thứ 3).
-- ⇒ Đã có nhận diện ở Mỹ ở tầng "runway/PR", **chưa thấy kênh thương mại điện tử quy mô tại Mỹ** (không tìm thấy store SIXDO trên Amazon US).
+- ⇒ Đã có nhận diện ở Mỹ ở tầng "runway/PR". **SIXDO đã có Brand Store và nhiều listing váy trên Amazon US** (xem `phan-tich-de-bai.md`, mục 3.2–3.3).
 
 ### SWOT nhanh (góc nhìn Amazon US)
 | Điểm mạnh | Điểm yếu |
