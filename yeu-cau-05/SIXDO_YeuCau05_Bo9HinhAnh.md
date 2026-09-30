@@ -23,6 +23,7 @@ Những gì đã có trong bài nộp:
   - Khung và chữ của ô 4, 5, 6.
   - Size chart ô 7, chỉ còn chờ điền số đo.
 - **Ảnh Canva AI cho ô 1–6:** đủ 18 ảnh cho cả 3 sản phẩm (link ở mục 5).
+- **Thiết kế Canva hoàn chỉnh:** 28 trang 2000×2000 px, gồm trang bìa và 3 bộ × 9 ô đã ghép sẵn ảnh, chữ, size chart và thẻ thương hiệu. Link: https://canva.link/koy4gc0mpxymsf2
 - **Khung chờ ảnh thật:** chỉ còn ô 8, vì ô này theo quy tắc không dùng AI.
 - **Bộ prompt ChatGPT:** để thay khung bằng ảnh thành phẩm.
 
@@ -102,7 +103,8 @@ Checklist kiểm tra (chi tiết trong bộ prompt, mục 7):
 ## 5 Trạng thái và link ảnh
 | Hạng mục | Trạng thái |
 |---|---|
-| Ô 1–6 của cả 3 sản phẩm (18 ảnh) | Xong bằng Canva AI; bản đầy đủ mở qua link bên dưới |
+| Thiết kế Canva 28 trang (bìa + 3 × 9 ô) | Xong; trang 2–10 là SP1, 11–19 là SP2, 20–28 là SP3. Link: https://canva.link/koy4gc0mpxymsf2 |
+| Ô 1–6 của cả 3 sản phẩm (18 ảnh) | Xong bằng Canva AI, đã ghép vào thiết kế |
 | Ô 7 size chart | Xong khung; chờ số đo thật |
 | Ô 9 thương hiệu; chữ của ô 4, 5, 6 | Xong (2000×2000 px, trong thư mục `anh/`) |
 | Ô 8 ảnh thật không chỉnh | Chờ chụp, vì ô này không dùng AI |
@@ -110,7 +112,8 @@ Checklist kiểm tra (chi tiết trong bộ prompt, mục 7):
 Lưu ý khi dùng ảnh Canva AI:
 - Váy trong ảnh do AI dựng theo mô tả sản phẩm, nên mỗi ảnh có thể lệch một chút về họa tiết, dáng hoặc độ dài so với hàng thật. Trước khi đăng lên Amazon, phải so từng ảnh với hàng thật theo checklist ở mục 4.
 - Ảnh có người do AI tạo cần gắn nhãn theo quy định [KC]. Cách an toàn nhất: dùng bộ ảnh này làm hướng bối cảnh, rồi thay người mẫu và sản phẩm bằng ảnh thật theo bộ prompt [N3].
-- Chữ của ô 4 ("Add a layer for cooler evenings"), ô 5 (chú thích chất liệu) và ô 6 (nhãn chi tiết) lấy từ các file khung trong `anh/`, rồi đặt lên ảnh trong Canva.
+- Chữ của ô 4 ("Add a layer for cooler evenings"), ô 5 (chú thích chất liệu) và ô 6 (nhãn chi tiết) đã đặt sẵn trong thiết kế Canva. Khi có ảnh thật, chỉ cần thay ảnh (Replace), chữ giữ nguyên.
+- Trước khi tải lên Amazon: điền số đo ở ô 7, thay ô 8 bằng ảnh thật, rồi tải từng trang dưới dạng PNG.
 
 | SKU | Ô 1 Main | Ô 2 Occasion 1 | Ô 3 Occasion 2 | Ô 4 Layer it | Ô 5 Fabric | Ô 6 Details |
 |---|---|---|---|---|---|---|

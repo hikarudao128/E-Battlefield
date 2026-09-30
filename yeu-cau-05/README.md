@@ -5,3 +5,4 @@
 - `anh/SPx_storyboard.png`: bảng tổng hợp 9 ô của từng sản phẩm.
 - `ai-mau/`: bản xem trước 200 px của ảnh AI minh họa. Bản đầy đủ mở trong Canva (link trong báo cáo).
 - `build/build-images.js`: script dựng lại ảnh. Chạy bằng `NODE_PATH=$(npm root -g) node build/build-images.js`.
+- Thiết kế Canva hoàn chỉnh (28 trang: bìa + 3 bộ × 9 ô, đã ghép ảnh và chữ): https://canva.link/koy4gc0mpxymsf2
