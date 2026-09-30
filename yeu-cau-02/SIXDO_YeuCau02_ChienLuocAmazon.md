@@ -144,7 +144,7 @@ Quy định title:
 | SP3 | SIXDO Raw Flared Dress for Women, Sleek and Versatile for Work Events and Formal Celebrations (93) | `SIXDO Women's Spaghetti Strap Tiered Fit and Flare Dress` (56) | Đen: `Solid black polyester; for holiday parties, cocktail hour, New Year's Eve; layer with a blazer or cardigan`<br>Hồng: `Solid blush pink polyester; for Valentine's Day, Easter, bridal showers, brunch; layer with a denim jacket` |
 
 ### 3.2 Bullet
-Thứ tự: dịp dùng → thương hiệu → chất liệu → size (inch) → cách giặt. Phần [ ] là số liệu thật, phải điền trước khi đăng. Không claim "true to size", "warm" hay "non-see-through" khi chưa kiểm chứng.
+Bản đầy đủ 5 bullet của từng sản phẩm, kèm nghĩa tiếng Việt và cách điền số liệu, nằm ở file riêng *SIXDO_YeuCau02_Bullet_LamRo*. Thứ tự: dịp dùng → thương hiệu → chất liệu → size (inch) → cách giặt. Phần [ ] là số liệu thật, phải điền trước khi đăng. Không claim "true to size", "warm" hay "non-see-through" khi chưa kiểm chứng.
 
 Bullet 2 dùng chung cho cả ba sản phẩm: `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese fashion brand whose collections have been shown at New York Fashion Week.` Đây là thành tích của thương hiệu, không phải của từng mẫu.
 
