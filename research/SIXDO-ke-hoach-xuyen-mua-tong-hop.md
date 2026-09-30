@@ -1,6 +1,8 @@
 # SIXDO trên Amazon US: Kế hoạch bán hàng xuyên mùa
 ### Bán tiếp 3 sản phẩm Xuân/Hè trong mùa Thu/Đông (10/2026 – 03/2027)
 
+> 📌 **Đã được thay thế bởi [SIXDO-ke-hoach-FINAL.md](SIXDO-ke-hoach-FINAL.md).**
+
 _Phiên bản 2 · 30/09/2026 · Lịch sử rà soát và các lỗi đã sửa: xem [nhat-ky-ra-soat.md](nhat-ky-ra-soat.md)._
 
 **Quy ước về mức độ chắc chắn của số liệu:**

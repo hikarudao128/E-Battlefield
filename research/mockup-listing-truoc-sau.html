@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SIXDO Listing Mockup</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --card: #ffffff; --ink: #1d1d1f; --muted: #5f6368; --line: #e3e1dc;
+    --before: #b3261e; --before-bg: #fdecea; --after: #1e6b3a; --after-bg: #e8f4ec;
+    --slot: #efece6; --accent: #7a4b2a; --warn: #8a5a00; --warn-bg: #fff4d6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #151515; --card: #1f1f1f; --ink: #ececec; --muted: #a8a8a8; --line: #333;
+      --before: #ff8a80; --before-bg: #3a1f1d; --after: #7fd49b; --after-bg: #183024;
+      --slot: #2a2825; --accent: #e0a878; --warn: #f5c451; --warn-bg: #3a3017;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #151515; --card: #1f1f1f; --ink: #ececec; --muted: #a8a8a8; --line: #333;
+    --before: #ff8a80; --before-bg: #3a1f1d; --after: #7fd49b; --after-bg: #183024;
+    --slot: #2a2825; --accent: #e0a878; --warn: #f5c451; --warn-bg: #3a3017;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.5 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 24px; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 16px; }
+  .note { background: var(--warn-bg); color: var(--warn); border-radius: 8px; padding: 10px 14px; margin-bottom: 24px; font-size: 14px; }
+  .product { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 20px; margin-bottom: 28px; }
+  .product h2 { margin: 0 0 4px; font-size: 19px; }
+  .meta { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 760px) { .cols { grid-template-columns: 1fr; } }
+  .side { border-radius: 10px; padding: 14px; }
+  .before { background: var(--before-bg); }
+  .after { background: var(--after-bg); }
+  .tag { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; margin-bottom: 8px; }
+  .before .tag { color: var(--before); }
+  .after .tag { color: var(--after); }
+  .title { font-weight: 600; margin: 0 0 8px; }
+  .price { font-size: 20px; font-weight: 700; margin: 4px 0 8px; }
+  .badge { display: inline-block; background: var(--card); border: 1px solid var(--line); border-radius: 6px; font-size: 12px; padding: 2px 8px; margin-right: 6px; }
+  ul { margin: 8px 0 0; padding-left: 18px; }
+  li { margin-bottom: 4px; }
+  .slots { display: grid; grid-template-columns: repeat(9, 1fr); gap: 6px; margin: 10px 0; }
+  @media (max-width: 760px) { .slots { grid-template-columns: repeat(3, 1fr); } }
+  .slot { background: var(--slot); border: 1px dashed var(--line); border-radius: 6px; aspect-ratio: 3/4;
+          display: flex; align-items: center; justify-content: center; text-align: center;
+          font-size: 10.5px; color: var(--muted); padding: 4px; }
+  .slot.main { border-style: solid; border-color: var(--accent); color: var(--accent); font-weight: 600; }
+  .why { margin-top: 12px; font-size: 13.5px; }
+  .why b { color: var(--accent); }
+  .fill { color: var(--warn); font-style: italic; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>SIXDO trên Amazon US: listing trước và sau</h1>
+  <p class="sub">Mockup cho kế hoạch bán hàng xuyên mùa (10/2026 – 03/2027) · Thông điệp: <i>“Runway-inspired style for your winter escape.”</i></p>
+  <div class="note">⚠️ Bản khung. Phần “Trước” lấy từ tiêu đề quan sát được qua công cụ tìm kiếm, <b>cần xác minh lại ASIN</b>. Các ô ảnh sẽ được thay bằng ảnh thật và ảnh AI khi có ảnh gốc sản phẩm. Chữ <span class="fill">[in nghiêng]</span> là chỗ điền số đo thật.</div>
+
+  <section class="product">
+    <h2>SP1 · Floral Woven Long Jumpsuit</h2>
+    <div class="meta">ASIN đề: B0GRGWVHWC · Cotton · Xanh trắng · S–XL · Vai trò: chủ lực cho nhóm Winter Escapers</div>
+    <div class="cols">
+      <div class="side before">
+        <span class="tag">Trước</span>
+        <p class="title">SIXDO G White Blue Floral Woven Long Jumpsuit for Women 2026, Feminine Breezy Jumpsuit for Beach and Summer Events</p>
+        <div class="price">$51.99</div>
+        <ul><li>Mã màu nội bộ “G-” lộ ra ngoài</li><li>Gắn với “Summer Events”, lệch với nhu cầu tìm kiếm mùa đông</li><li>Chưa có bảng size bằng inch; chưa nhắc tới thương hiệu</li></ul>
+      </div>
+      <div class="side after">
+        <span class="tag">Sau</span>
+        <p class="title">SIXDO Women's Blue Floral Cotton Halter Jumpsuit – Wide Leg Resort Wear for Cruise, Tropical Vacation &amp; Beach Dinner</p>
+        <div class="price">$51.99 <span class="badge">Coupon 10% · 05/01–05/02</span></div>
+        <ul>
+          <li><b>THE ESCAPE JUMPSUIT</b> – Wide-leg cotton halter jumpsuit for cruise days, resort dinners and tropical getaways.</li>
+          <li><b>FROM A RUNWAY BRAND</b> – SIXDO by Vietnamese designer Do Manh Cuong, whose collections have been shown at New York Fashion Week.</li>
+          <li><b>BREATHABLE COTTON</b> – Add a cropped cardigan for air-conditioned evenings.</li>
+          <li><b>SIZE GUIDE</b> – <span class="fill">[bust / waist / torso / inseam in inches per size]</span></li>
+          <li><b>CARE</b> – Hand wash cold.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="slots">
+      <div class="slot main">1 · Ảnh thật nền trắng</div><div class="slot">2 · Boong du thuyền lúc hoàng hôn (AI)</div><div class="slot">3 · + cardigan (AI)</div>
+      <div class="slot">4 · Resort / bữa tối / sân bay</div><div class="slot">5 · Cổ yếm (thật)</div><div class="slot">6 · Cận cotton (thật)</div>
+      <div class="slot">7 · Bảng size bằng inch</div><div class="slot">8 · Show NYFW của thương hiệu</div><div class="slot">9 · Bundle SP1 + SP2</div>
+    </div>
+    <p class="why"><b>Vì sao đổi:</b> chuyển từ “đồ đi biển mùa hè” sang “chuyến trốn đông”, để khớp nhóm từ khóa chuyến đi (đỉnh vào tháng 11 và tháng 1).</p>
+  </section>
+
+  <section class="product">
+    <h2>SP2 · Voile Floral Flared Maxi Dress</h2>
+    <div class="meta">ASIN đề: B0FDKS69GR · Polyester voan · Xanh, Vàng · S–XL · Vai trò: cầu nối mùa thu → Winter Escape</div>
+    <div class="cols">
+      <div class="side before">
+        <span class="tag">Trước</span>
+        <p class="title">SIXDO Voile Floral Flared Maxi Dress … Garden Party and Vacation</p>
+        <div class="price">$51.99</div>
+        <ul><li>Không khai thác lợi thế tay dài cho mùa thu</li><li>Chưa ghi voan có lót hay không (rủi ro đánh giá “see-through”)</li><li>Đắt hơn PRETTYGARDEN (~$30) khoảng 70% nhưng chưa giải thích vì sao</li></ul>
+      </div>
+      <div class="side after">
+        <span class="tag">Sau</span>
+        <p class="title">SIXDO Women's Long Sleeve Floral Maxi Dress – Tiered Tie-Neck Flowy Dress for Vacation, Fall Events &amp; Wedding Guest</p>
+        <div class="price">$51.99 <span class="badge">Bundle “Fall Layers” −10%</span></div>
+        <ul>
+          <li><b>VACATION-TO-FALL MAXI</b> – Long puff sleeves and tiered floral voile for getaways, fall gatherings and garden weddings.</li>
+          <li><b>FROM A RUNWAY BRAND</b> – SIXDO by designer Do Manh Cuong, shown at New York Fashion Week.</li>
+          <li><b>LIGHTWEIGHT VOILE</b> – <span class="fill">[lined / unlined]</span>. Layer with a denim jacket for cooler evenings.</li>
+          <li><b>SIZE GUIDE</b> – <span class="fill">[inches per size]</span> · Model is <span class="fill">[height]</span> wearing <span class="fill">[size]</span>.</li>
+          <li><b>CARE</b> – <span class="fill">[theo nhãn]</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="slots">
+      <div class="slot main">1 · Ảnh thật nền trắng</div><div class="slot">2 · Bữa tối ở resort (AI)</div><div class="slot">3 · + denim, boot (AI)</div>
+      <div class="slot">4 · Resort / mùa thu / đám cưới</div><div class="slot">5 · Tay bồng, cổ buộc dây</div><div class="slot">6 · Cận voan, lớp lót</div>
+      <div class="slot">7 · Bảng size bằng inch</div><div class="slot">8 · Show NYFW</div><div class="slot">9 · Bundle SP2 + SP3 đen</div>
+    </div>
+    <p class="why"><b>Vì sao đổi:</b> tay dài là lợi thế để bán mùa thu; ảnh cận chất liệu và câu chuyện thương hiệu phải giải thích mức giá cao hơn đối thủ.</p>
+  </section>
+
+  <section class="product">
+    <h2>SP3 · Raw Flared Dress (Đen / Hồng)</h2>
+    <div class="meta">ASIN đề: B0FDKRBQVZ · Polyester · Đen, Hồng · S–XXL · Vai trò: Đen → tiệc cuối năm · Hồng → Valentine, Phục sinh (Tết có điều kiện)</div>
+    <div class="cols">
+      <div class="side before">
+        <span class="tag">Trước</span>
+        <p class="title">SIXDO Raw Flared Dress … Sleek and Versatile for Work Events and Formal Celebrations</p>
+        <div class="price">$25.99</div>
+        <ul><li>“Raw” dễ bị hiểu là “thô, chưa hoàn thiện”</li><li>Mô tả “fall and winter fabric” mâu thuẫn với định vị Xuân/Hè</li><li>Không gắn với dịp cụ thể mà khách tìm kiếm</li></ul>
+      </div>
+      <div class="side after">
+        <span class="tag">Sau</span>
+        <p class="title">SIXDO Women's Spaghetti Strap Tiered Fit and Flare Dress – Party Dress for Holiday, Cocktail, Valentine's &amp; Easter</p>
+        <div class="price">$25.99 <span class="badge">Coupon 10% · Holiday / Pink Edit</span></div>
+        <ul>
+          <li><b>THE PARTY DRESS</b> – Tiered fit-and-flare silhouette for holiday parties and cocktail nights (Black).</li>
+          <li><b>THE PINK EDIT</b> – Blush Pink for Valentine's dinners and Easter brunch.</li>
+          <li><b>LAYER IT</b> – Blazer and sheer tights for indoor winter events.</li>
+          <li><b>SIZE GUIDE</b> – S–XXL · <span class="fill">[inches per size]</span></li>
+          <li><b>FROM A RUNWAY BRAND</b> – SIXDO, shown at New York Fashion Week.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="slots">
+      <div class="slot main">1 · Ảnh thật nền trắng (đen)</div><div class="slot">2 · Tiệc trong nhà (AI)</div><div class="slot">3 · + blazer, tất (AI)</div>
+      <div class="slot">4 · Tiệc / Valentine / Phục sinh</div><div class="slot">5 · Dây vai</div><div class="slot">6 · Tầng váy</div>
+      <div class="slot">7 · Bảng size S–XXL</div><div class="slot">8 · Show NYFW</div><div class="slot">9 · Bundle SP3 + SP2</div>
+    </div>
+    <p class="why"><b>Vì sao đổi:</b> bỏ chữ “Raw”, gắn mỗi màu với một dịp khách thật sự tìm kiếm, để SP3 hồng có đường bán kể cả khi không chạy chiến dịch Tết.</p>
+  </section>
+</div>
+</body>
+</html>

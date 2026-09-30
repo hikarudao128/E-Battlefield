@@ -36,3 +36,18 @@ _Tách khỏi nội dung chính để bài nộp tập trung vào quyết địn
 | – | Thông điệp "Winter-ready" | Đổi thành "Runway-inspired style for your winter escape"; tách uy tín thương hiệu khỏi từng sản phẩm |
 | – | Barem 55 và 50 | Ghi chú lỗi cộng điểm, thêm vào câu hỏi gửi BTC |
 | – | Chưa có bộ hình và slide | **Chưa làm được, cần ảnh gốc sản phẩm.** Ghi rõ trạng thái trong tài liệu |
+
+## Lần 4: bản FINAL, sửa theo nhận xét chấm thử lần 2 (73/100)
+
+| # | Nhận xét | Đã sửa trong `SIXDO-ke-hoach-FINAL.md` |
+|---|---|---|
+| A | Lịch hoàn thiện vượt hạn nộp (20:00 ngày 04/10) | Tách 2 lịch: Lịch A hoàn thiện bài thi 30/09–04/10, Lịch B vận hành chiến dịch sau khi được duyệt |
+| B | Lẫn lộn giữa sản phẩm/session và đơn/session | Dùng thống nhất Unit Session % để tính thẳng ra số sản phẩm, bỏ hệ số sản phẩm/đơn; định nghĩa session tự nhiên = tổng − PPC − ngoài Amazon để không đếm trùng |
+| C | "≥ 3 session/ngày là đủ" sai về lượng | Sửa: baseline 3/ngày = 546 session, cần 830 (4,6/ngày), tức tăng khoảng 52% và phần tăng này chưa được xác nhận; thêm bước kiểm tra listing có xuất hiện trên từ khóa mới vào 01/10 |
+| D | Ngân sách không khớp cách chạy; điều chuyển 300/100 | Bảng PPC theo ngày × 1 USD/ngày × số chiến dịch, chi tối đa đúng 210 USD, có lịch tạm dừng; 45 USD creator ở lại trong ngân sách ngoài Amazon; thêm câu hỏi gửi BTC về việc điều chuyển |
+| E | Chưa chứng minh bán được theo đúng cơ cấu tồn kho; SP3 hồng | Dự báo theo 4 SKU (SP1, SP2, SP3 đen, SP3 hồng), cộng lại khớp tổng; SP3 hồng có đường bán riêng (Valentine, Phục sinh 28/03, PPC đợt 4, coupon Pink Edit), Tết chỉ là phần cộng thêm; tài chính tính theo cơ cấu SKU; KPI đổi thành "0 USD quảng cáo cho biến thể hết hàng" |
+| F | Insight cần bằng chứng cho lời hứa khác biệt; ngưỡng 1.000 lượt/tháng tùy ý | Tách insight thành 3 nhận định N1/N2/N3, mỗi nhận định có bằng chứng và cách kiểm chứng riêng; khung mã hóa đánh giá kèm cảnh báo suy diễn; chọn từ khóa theo điểm (độ phù hợp × lượng tìm kiếm × cạnh tranh × CPC) |
+| + | Dữ liệu đối thủ | Bảng đối thủ cấp sản phẩm có dữ liệu quan sát thật (PRETTYGARDEN ~30 USD, tiêu đề nhiều dịp; ZESICA vẫn dùng "2026 Summer" nên lời khuyên về năm được viết lại); SP2 đắt hơn khoảng 70% được nêu là rủi ro chính |
+| + | Mockup | Thêm `mockup-listing-truoc-sau.html` (tiêu đề, bullet, bộ 9 ô ảnh trước và sau) |
+| + | Session "Phân tích lỗi suy nghĩ và chiến lược" (nhận xét bộ slide Instagram/Beacons: thiếu attribution, phễu, số Q4) | Thêm phễu có đo từng bước bằng Amazon Attribution, gắn cả link trong trang link-in-bio (Beacons); bổ sung số Q4 và mô hình nguồn |
+| – | Còn thiếu | Dữ liệu Helium 10 / Business Report / đối chiếu ASIN / mã hóa đánh giá và ảnh gốc sản phẩm: **nhóm phải làm theo Lịch A trước 04/10**. Claude không truy cập được Amazon, và SellerSprite chưa được cấp quyền |
