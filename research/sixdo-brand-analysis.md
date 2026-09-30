@@ -101,7 +101,7 @@ Vai trò hợp lý của từng kênh:
 | Điểm | Slide nói | Dữ liệu nghiên cứu | Gợi ý |
 |---|---|---|---|
 | Độ tuổi mục tiêu | 25–45 | Tài liệu phân khúc dùng 25–55 (Sun Belt & snowbirds lớn tuổi hơn) | Thống nhất: **lõi 25–45**, mở rộng tới 55 cho 🅑 |
-| "Tăng trưởng tại Mỹ" | Ngụ ý đã có hoạt động thương mại ở Mỹ | Chưa tìm thấy store SIXDO trên Amazon US; hiện diện chủ yếu ở mức PR/runway | Diễn đạt là "mở rộng" hoặc "xây nền tảng" nếu chưa có doanh số Mỹ |
+| "Tăng trưởng tại Mỹ" | Đã có hoạt động thương mại ở Mỹ | **Đúng:** SIXDO đã có Amazon Brand Store và được duyệt mở cửa hàng tại South Coast Plaza (xem `sixdo-vision-international.md`) | Nên kèm 1 con số (số SKU, doanh số, rating) để câu này có bằng chứng |
 | Danh mục | Chỉ nói về phụ nữ | SIXDO còn có đồ nam, trẻ em, SIXDO HOME | Tập trung nữ là **đúng** cho giai đoạn pilot Amazon |
 | Mức giá | "Vừa túi tiền" | 60–150 USD, cao hơn mặt bằng Amazon (< 50 USD) | "Vừa túi tiền" phải hiểu **so với designer**, không so với Amazon; listing cần giải thích giá trị |
 
@@ -130,7 +130,7 @@ Vai trò hợp lý của từng kênh:
 3. **Đổi ngôn ngữ đối ngoại:** "haute couture" → "runway-designed / shown at NYFW".
 4. **Lấp lỗ hổng "Real women":** chuẩn hoá size US, bổ sung plus size cho SKU bán chạy, ảnh người mẫu nhiều dáng người, chương trình Vine để có review sớm.
 5. **Bổ sung câu chuyện Việt Nam và "6 người con"** vào Brand Story, vừa tạo khác biệt vừa phục vụ phân khúc 🅓.
-6. **Chỉnh câu chữ slide 3** nếu chưa có doanh số tại Mỹ: "Không chỉ **mở rộng** sang Mỹ…" để tránh bị giám khảo bắt lỗi.
+6. **Bổ sung số liệu cho slide 3**: câu "tăng trưởng tại Mỹ" là đúng (SIXDO đã có Amazon Brand Store), nên kèm một con số thật (số SKU, doanh số, rating) làm bằng chứng.
 
 ---
 
