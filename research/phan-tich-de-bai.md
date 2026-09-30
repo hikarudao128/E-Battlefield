@@ -11,7 +11,9 @@ _Cập nhật 30/09/2026. Tài liệu này giải mã đề bài, chỉ ra các 
 - **Ràng buộc cứng:**
   - **Không ra sản phẩm mới, không đổi sản phẩm vật lý.** Chỉ được tái định vị, tái đóng gói (listing, hình ảnh, content, bundle, giá…).
   - **Giữ DNA "Accessible Haute Couture".** Không giảm giá sâu kiểu xả hàng.
-  - **Tồn kho chỉ 110 units** (câu hỏi gợi mở số 5).
+  - **Tồn kho chỉ 110 units.**
+  - **Ngân sách chỉ 400 USD cho 6 tháng:** 300 USD nội sàn (Amazon PPC, làm lại A+ Content, Coupon/Bundle) và 100 USD ngoại sàn (Meta, Google, TikTok, Affiliate, KOL). Xem mục 3.4.
+  - Thị trường Hoa Kỳ, kênh bán chính Amazon; kênh quảng bá: Google, Meta, TikTok, Affiliate, KOL/Influencer, Livestream.
 - **Sản phẩm cuối:** Kế hoạch Bán hàng & Marketing Xuyên mùa (Cross-Seasonal Sales Plan).
 
 > **Một câu:** Bán hết 110 chiếc váy mùa hè ở giá gốc vào mùa đông, bằng cách bán theo *nơi mặc và dịp mặc* thay vì theo mùa trên lịch.
@@ -37,7 +39,7 @@ _Cập nhật 30/09/2026. Tài liệu này giải mã đề bài, chỉ ra các 
 - Trong 6 tháng (10/2026 đến 3/2027), trung bình chỉ cần bán **khoảng 18 chiếc/tháng**.
 - **Hệ quả:**
   - Bài toán không phải "tăng quy mô" mà là **bán hết ở giá cao nhất có thể, trước khi mùa Xuân/Hè 2027 mới về**.
-  - Ngân sách quảng cáo phải nhỏ và tính theo lợi nhuận. Với biên lợi nhuận góp khoảng 29%, không thể chi hàng nghìn USD cho KOL/Meta.
+  - Ngân sách BTC cho là 400 USD, tức chỉ khoảng **3,6 USD cho mỗi chiếc váy** (phân tích chi tiết ở mục 3.4).
   - Cần phân bổ 110 units theo **size và màu**: size nào còn nhiều thì đẩy quảng cáo, size nào sắp hết thì tắt quảng cáo để tránh hết hàng làm tụt thứ hạng.
   - Ngoại sàn (Meta, TikTok, KOL) nên đóng vai **tạo nội dung và bằng chứng thương hiệu**, không phải kênh kéo doanh số chính. Có thể dùng Amazon Attribution và Brand Referral Bonus (hoàn khoảng 10% phí) để đo và giảm chi phí.
 - Đây là **điểm dễ bị bỏ qua** và là cơ hội để bài làm nổi bật: một kế hoạch "tham vọng" với ngân sách lớn cho 110 chiếc váy sẽ thiếu thực tế.
@@ -55,6 +57,98 @@ _Chỉ dựa trên tiêu đề hiển thị trong kết quả tìm kiếm; chưa
 | Chất liệu voan (voile), dáng xòe, maxi, họa tiết hoa | Mỏng, hợp khí hậu ấm; dễ phối lớp | Đúng với 3 hướng: du lịch vùng ấm, layering, tiệc trong nhà |
 | Đã có mẫu "Sequin Bodice... Evening and Seasonal Events" và "Silk White... Work Office" | Có sẵn sản phẩm hợp tiệc cuối năm và công sở | Ưu tiên đưa vào danh mục 3 sản phẩm chủ lực |
 | Ít thấy chữ "Vietnamese designer", "NYFW" | Chưa khai thác bằng chứng "Haute Couture" | Đưa vào A+ Brand Story, hình ảnh số 8–9 |
+
+### 3.4. Ngân sách 400 USD: đòn bẩy chính là CVR, không phải traffic
+
+**Thông tin chiến dịch (BTC cung cấp):**
+
+| Hạng mục | Giá trị |
+|---|---|
+| Thời gian | Q4/2026 – Q1/2027 (khoảng 26 tuần, 10/2026 đến 3/2027) |
+| Tồn kho | 110 units Xuân/Hè |
+| Nội sàn | **300 USD**: Amazon PPC, làm lại A+ Content theo góc nhìn mùa mới, Coupon/Bundle |
+| Ngoại sàn | **100 USD**: Meta, Google, TikTok, Affiliate, KOL (nội dung tái định vị theo mùa) |
+| Kênh quảng bá | Google, Meta, TikTok, Affiliate, KOL/Influencer, Livestream |
+
+#### a. Ngân sách này nhỏ đến mức nào?
+| Chỉ số | Giá trị | Ghi chú |
+|---|---|---|
+| Tổng ngân sách / unit | 400 ÷ 110 ≈ **3,6 USD/unit** | |
+| Doanh thu tối đa (giả định giá TB 89 USD) | ≈ 9.800 USD | ⚠️ Cần giá thực của listing |
+| Tỷ lệ chi marketing trên doanh thu (TACoS) nếu bán hết | ≈ **4%** | Mức thường gặp trong ngành thời trang: 10–20% |
+| Nội sàn mỗi tháng | 300 ÷ 6 = **50 USD/tháng**, khoảng 1,7 USD/ngày | Ngân sách ngày tối thiểu của Sponsored Products là 1 USD |
+| Ngoại sàn mỗi tháng | 100 ÷ 6 ≈ **17 USD/tháng** | |
+
+#### b. PPC chỉ bán được khoảng 1/4 đến 1/3 tồn kho
+- CPC tham khảo ngành quần áo 2026: **0,72–0,95 USD** (Ad Badger, Keywords.am).
+- Nếu dành khoảng 200 USD cho PPC: **210–280 lượt click**.
+
+| CVR quảng cáo | Đơn từ PPC | Chi phí mỗi đơn | ACoS (giá 89 USD) |
+|---|---|---|---|
+| 8% (mức nền) | ~17–22 | ~11 USD | ~12% |
+| **12% (sau khi tăng CVR 50%)** | **~25–34** | **~7,5 USD** | **~8%** |
+
+- Với giá bán cao (~89 USD), ACoS vẫn thấp dù ngành quần áo có ACoS trung bình tới 42%. Đây là lợi thế của SIXDO so với váy 25 USD.
+- **Kết luận:** Khoảng **75 chiếc còn lại phải đến từ organic, coupon và nguồn ngoài**. Vì vậy ưu tiên số 1 là **tăng CVR bằng các công cụ miễn phí**: mỗi điểm CVR tăng thêm sẽ làm cả lượng traffic organic lẫn traffic trả phí ra nhiều đơn hơn. Điều này khớp với mục tiêu kinh doanh "Uplift CVR 50%".
+
+#### c. Chi phí thực của các công cụ nội sàn
+| Công cụ | Chi phí | Ghi chú |
+|---|---|---|
+| A+ Content, Brand Story, Brand Store | **0 USD** (có Brand Registry) | Chi phí chỉ là thiết kế → làm bằng AI, theo đề bài cho phép |
+| Manage Your Experiments (A/B test ảnh chính, title, A+) | 0 USD | Dùng để chứng minh CVR tăng |
+| Amazon Posts | 0 USD | Nội dung theo mùa trên feed |
+| Virtual Bundle | 0 USD | Gộp 2 váy thành set "Resort Capsule" |
+| Coupon | **5 USD/lần chạy + 2,5% doanh thu có dùng coupon** | Áp dụng từ 06/2025. Ví dụ: 5 đợt coupon, 40 đơn × 80 USD → 25 + 80 = **~105 USD** |
+| Amazon Vine | ⚠️ Nguồn chưa thống nhất: có nguồn nói miễn phí cho sản phẩm < 100 USD (từ 03/2026), có nguồn nói 0 USD cho tối đa 2 review | Tốn thêm units tặng. Cần kiểm tra trong Seller Central |
+| Amazon Live (livestream) | 0 USD | Đáp ứng kênh "Livestream" mà không tốn ngân sách |
+
+**Hệ quả:** Tiền mặt chỉ thực sự cần cho **PPC và phí coupon**. Phần "làm lại A+ Content" trong ngân sách 300 USD gần như có thể để ở mức 0 nhờ AI.
+
+**Phân bổ đề xuất cho 300 USD nội sàn:**
+| Hạng mục | USD | % |
+|---|---|---|
+| PPC (Sponsored Products, dồn vào các đỉnh mùa) | 190 | 63% |
+| Phí coupon (5 đợt theo dịp) | 90 | 30% |
+| Dự phòng: A+ / Vine / công cụ AI | 20 | 7% |
+
+#### d. 100 USD ngoại sàn: dùng để tạo nội dung, không dùng để mua traffic
+- Nếu chạy 100 USD quảng cáo Meta (CPM ~10–15 USD): khoảng 7.000–10.000 lượt hiển thị, ~70–100 click. Với CVR traffic ngoài sàn ~3–5%, chỉ ra **2–5 đơn**. Không đáng.
+- Cách dùng hiệu quả hơn:
+  1. **Tặng sản phẩm cho 3–5 micro/nano KOL** (mỗi người 5–50k follower, chủ đề cruise, wedding guest, người Việt ở Mỹ). Chi phí là **units trong kho**, không phải tiền mặt; 100 USD dùng cho phí gửi hàng và thù lao nhỏ. Đổi lại được video/ảnh UGC để đưa vào listing, A+ và TikTok.
+  2. **Amazon Creator Connections**: chỉ trả hoa hồng khi có đơn (brand tự đặt 10–50%). Đặt khoảng 15% (~13 USD/đơn) → rủi ro thấp.
+  3. **Amazon Attribution + Brand Referral Bonus**: gắn link theo dõi cho mọi traffic ngoài sàn; Amazon hoàn trung bình **~10%** doanh thu từ nguồn này, dùng để tái đầu tư vào PPC.
+  4. Chỉ dùng tiền để **boost 1–2 bài UGC tốt nhất**, nhắm vị trí (FL/TX/CA; Orange County, San Jose, Houston cho chiến dịch Tết).
+  5. **Google Ads** có CPC cao và cạnh tranh với chính Amazon → ưu tiên thấp.
+
+**Phân bổ đề xuất cho 100 USD ngoại sàn:**
+| Hạng mục | USD |
+|---|---|
+| Gửi hàng và thù lao nhỏ cho 3–5 KOL/UGC | 45 |
+| Boost bài UGC trên Meta/TikTok (Winter Escape + Tết) | 40 |
+| Hoa hồng Creator Connections | 15 (chỉ phát sinh khi có đơn) |
+
+#### e. Lộ trình bán 110 units theo tháng và theo nguồn (giả thuyết)
+| Tháng | Dịp chính | Units mục tiêu | Ngân sách nội sàn |
+|---|---|---|---|
+| 10/2026 | Sửa listing, A/B test, tặng KOL, layering mùa thu | 10 | 30 |
+| 11/2026 | BFCM, bắt đầu mùa du thuyền | 22 | 65 |
+| 12/2026 | Tiệc cuối năm, quà tặng, nghỉ đông | 22 | 65 |
+| 01/2027 | **Đỉnh tìm kiếm resort wear (cuối tháng 1)**, du thuyền | 22 | 60 |
+| 02/2027 | Tết (06/02/2027), Valentine | 20 | 50 |
+| 03/2027 | Spring break, xả nốt size lẻ | 14 | 30 |
+| **Tổng** | | **110** | **300** |
+
+| Nguồn | Units ước tính |
+|---|---|
+| PPC | ~30 |
+| Organic (nhờ listing mới + thứ hạng từ khóa dịp) | ~60 |
+| Ngoại sàn (KOL, Creator Connections, Meta/TikTok) | ~10–15 |
+| Tặng KOL / Vine (không tạo doanh thu) | ~5 |
+
+#### f. Những rủi ro về tồn kho cần tính
+- **Hết size bán chạy:** 110 units chia theo size/màu thì mỗi biến thể chỉ còn vài chiếc. Phải **tắt quảng cáo biến thể sắp hết** và đẩy biến thể còn nhiều.
+- **Phí lưu kho:** phí lưu kho FBA cao hơn trong tháng 10–12, và hàng tồn trên 181 ngày có thể bị phụ phí. ⚠️ Cần biết ngày hàng nhập kho. Nếu hàng Xuân/Hè về từ đầu 2026, đây là thêm một lý do phải bán hết trước tháng 3/2027.
+- **Coupon quá sâu:** làm hỏng định vị "Accessible Haute Couture". Giữ mức 10–15% và gắn với dịp ("Holiday Gift", "Cruise Ready"), không gắn với "xả hàng".
 
 ---
 
@@ -90,7 +184,7 @@ _Chỉ dựa trên tiêu đề hiển thị trong kết quả tìm kiếm; chưa
 | Biến sản phẩm "trái mùa" thành có lý do mua? | Đổi từ bán "đồ hè" sang bán "đồ cho dịp": resort capsule, layering, tiệc trong nhà, quà tặng, Tết | Mục 2 của file insight |
 | Ưu tiên gì trên Amazon? | (1) Sửa title và bỏ từ khóa "summer 2025"; (2) ảnh bối cảnh mới; (3) PPC theo từ khóa dịp; (4) coupon nhỏ theo dịp thay vì giảm giá sâu; (5) phân bổ tồn kho theo size | Mục 3.3 tài liệu này |
 | Tiếp cận khách mới? | Nội sàn để chuyển đổi, ngoại sàn để tạo nội dung và nhắm vị trí (FL/TX/CA; khu người Việt) | File insight, mục 1 |
-| Phân bổ ngân sách cho 110 units? | Phần lớn cho Amazon Ops + PPC; ngoại sàn chỉ ở mức thử nghiệm nhỏ có đo bằng Amazon Attribution | Mục 3.1 |
+| Phân bổ ngân sách cho 110 units? | 300 USD nội sàn: ~190 PPC dồn vào đỉnh mùa, ~90 phí coupon, A+ làm bằng AI (0 USD). 100 USD ngoại sàn: tạo UGC qua KOL tặng sản phẩm, Creator Connections trả theo đơn, boost bài có Amazon Attribution | Mục 3.4 |
 | Đo thành công ngoài doanh số? | Sell-through % của 110 units, giá bán trung bình so với giá gốc, % đơn đến từ từ khóa dịp mới, số khách mới (New-to-brand), rating và tỷ lệ hoàn hàng | Yêu cầu 06 |
 
 ---
@@ -100,7 +194,9 @@ _Chỉ dựa trên tiêu đề hiển thị trong kết quả tìm kiếm; chưa
 1. **"Uplift CVR 50%"** là tăng tương đối 50% hay CVR tuyệt đối 50%? CVR nền hiện tại là bao nhiêu?
 2. **110 units** là tổng của cả bộ sưu tập hay của 3 sản phẩm chủ lực? Phân bổ theo size/màu thế nào?
 3. **"Bộ 9 hình ảnh cho danh mục 3 sản phẩm"**: 9 ảnh mỗi sản phẩm hay tổng 9 ảnh?
-4. BTC có cung cấp dữ liệu Helium 10, Business Report, giá vốn, **ngân sách marketing** không? Nếu không, đội thi tự giả định và phải ghi rõ.
+4. BTC có cung cấp dữ liệu Helium 10, Business Report, giá vốn không? (Ngân sách đã rõ: 300 + 100 USD.) Nếu không, đội thi tự giả định và phải ghi rõ.
+6. Units tặng KOL/Vine có được tính vào 110 units không, và có được coi là chi phí marketing không?
+7. Hoa hồng Affiliate/Creator Connections và phí coupon có tính vào ngân sách 400 USD không, hay trừ vào doanh thu?
 5. "3 sản phẩm" do BTC chỉ định hay đội thi tự chọn?
 
 ---
@@ -132,3 +228,11 @@ _Chỉ dựa trên tiêu đề hiển thị trong kết quả tìm kiếm; chưa
 - [Titan Network – Amazon Conversion Rates 2026](https://titannetwork.com/amazon-conversion-rates-guide/)
 - [Wikipedia – Cruise collection](https://en.wikipedia.org/wiki/Cruise_collection)
 - [Accio – Women's Resort Fashion Trend Report](https://www.accio.com/business/womens-resort-fashion-trend-report)
+- [Keywords.am – Amazon CPC benchmarks 2026](https://keywords.am/blog/amazon-cpc-benchmarks/)
+- [Ad Badger – Amazon PPC cost 2026](https://www.adbadger.com/blog/amazon-ppc/)
+- [SupplyKick – Amazon Coupons 2026: How they work & what they cost](https://www.supplykick.com/blog/amazon-coupons-marketing-features)
+- [Novadata – Amazon coupon fee cap](https://novadata.io/resources/news/amazon-coupon-fee-cap)
+- [Amazon Seller Central – Vine enrollment fee](https://sellercentral.amazon.com/help/hub/reference/external/G4GZ9J4UZ35VEH6G)
+- [SalesDuo – Amazon Vine program guide 2026](https://salesduo.com/blog/amazon-vine-program-guide/)
+- [SalesDuo – Amazon Creator Connections 2026](https://salesduo.com/blog/amazon-creator-connections-for-brands/)
+- [Velocity Sellers – Brand Referral Bonus 2026](https://www.velocitysellers.com/2026/05/12/amazon-brand-referral-bonus-2026-playbook/)

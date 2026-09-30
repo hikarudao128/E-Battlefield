@@ -1,7 +1,7 @@
 # SIXDO trên Amazon US: Kế hoạch bán hàng xuyên mùa (bản tổng hợp)
 ### Bán tiếp bộ sưu tập Xuân/Hè trong mùa Thu/Đông (Q4/2026 – Q1/2027)
 
-_Bản tổng hợp và rà soát Phần 1, 2, 3 theo barem điểm. Cập nhật 30/09/2026._
+_Bản tổng hợp và rà soát Phần 1, 2, 3 theo barem điểm. Cập nhật 30/09/2026 (lần rà soát thứ 2: cập nhật ngân sách 400 USD do BTC cung cấp)._
 
 Tài liệu này gộp kết quả của các session làm việc trước:
 - Phân tích đề bài (`phan-tich-de-bai.md`)
@@ -31,7 +31,7 @@ Tài liệu này gộp kết quả của các session làm việc trước:
    - **SP1 Jumpsuit** là sản phẩm chủ lực cho chiến dịch "Winter Escape".
    - **SP3 Flared Dress** (đen/hồng) dùng cho tiệc cuối năm và Tết, đồng thời kéo traffic.
 4. **Không đổi sản phẩm, không xả giá.** Chỉ sửa listing (bỏ chữ "Summer 2025" và mã màu "G-"), làm ảnh theo dịp bằng AI, và chỉ giảm giá nhỏ, có thời hạn.
-5. **Ngân sách tỷ lệ với quy mô 110 sản phẩm** (doanh thu tối đa khoảng 4.400 USD): khoảng 1.000 USD, trong đó 70% dành cho quảng cáo PPC trên Amazon.
+5. **Ngân sách BTC cho chỉ 400 USD** (300 USD trên Amazon, 100 USD ngoài Amazon), tức khoảng 3,6 USD mỗi sản phẩm. Vì vậy **đòn bẩy chính là CVR, không phải mua traffic**. Tiền mặt dành cho PPC (khoảng 210 USD) và phí coupon; A+, Brand Store, Posts, thử A/B, bundle, Amazon Live đều miễn phí, còn hình ảnh làm bằng AI.
 6. **Thước đo chính:** CVR tăng tương đối 50% (mục tiêu của đề bài), sell-through 100% trước 31/03/2027, giá bán trung bình ≥ 95% giá gốc.
 
 ### Đối chiếu với barem
@@ -52,12 +52,16 @@ Tài liệu này gộp kết quả của các session làm việc trước:
 | 1 | "Chưa thấy SIXDO trên Amazon US", đề xuất đăng ký Brand Registry qua IP Accelerator | **SIXDO đã có Brand Store** (Collections, Dresses & Skirts, New Arrivals), tức đã có Brand Registry. Bài toán là **tối ưu listing đang có**, không phải ra mắt | Session phân tích thương hiệu và đề bài |
 | 2 | Phần 3 giả định 3 sản phẩm giá 69–119 USD (maxi, midi lụa, sơ mi) | **3 sản phẩm thật theo slide:** SP1 Floral Woven Long Jumpsuit (51,99 USD), SP2 Voile Floral Flared Maxi Dress (51,99 USD), SP3 Raw Flared Dress (25,99 USD) | Session phân tích sản phẩm |
 | 3 | Định vị giá 60–150 USD, "tránh cạnh tranh ở nhóm dưới 40 USD" | Giá thật là 26–52 USD, **nằm trong vùng giá của fast fashion Amazon**. Lợi thế phải đến từ "thiết kế sàn diễn với giá ngang fast fashion", không phải từ phân khúc giá cao hơn. SP3 ở mức 25,99 USD đang cạnh tranh trực tiếp về giá | Session phân tích sản phẩm |
-| 4 | Doanh thu dự kiến khoảng 10.150 USD, ngân sách marketing 2.900 USD | Doanh thu tối đa **khoảng 4.420 USD**, nên ngân sách giảm còn **khoảng 1.000 USD** | Tính lại |
+| 4 | Doanh thu dự kiến khoảng 10.150 USD, ngân sách marketing 2.900 USD (lần rà soát 1 hạ xuống khoảng 1.000 USD) | Doanh thu tối đa **khoảng 4.420 USD**. **BTC cho ngân sách 400 USD** (300 trên Amazon, 100 ngoài Amazon) | Session phân tích đề bài (lần cập nhật 02:48) |
 | 5 | 110 sản phẩm chia đều | **110 sản phẩm cho 22 biến thể** (SP1: 1 màu × 4 size; SP2: 2 × 4; SP3: 2 × 5), khoảng 5 chiếc mỗi biến thể, nên rủi ro hết size rất cao | Session phân tích sản phẩm |
 | 6 | Dùng "haute couture" làm thông điệp | Chữ "haute couture" được bảo hộ tại Pháp. Giữ "Accessible Haute Couture" làm **định vị nội bộ**; ra thị trường dùng "runway-designed", "shown at New York Fashion Week" | Session phân tích thương hiệu |
 | 7 | Chưa có mục tiêu CVR | Đề bài yêu cầu **"uplift CVR 50%"**, hiểu là tăng tương đối, ví dụ từ 6% lên 9% (cần hỏi lại BTC) | Session phân tích đề bài |
 | 8 | Thông điệp "hoa hồng" áp cho cả 3 sản phẩm | SP1 là hoa xanh lam trên nền trắng, SP2 là hoa nhí nền vàng/xanh, SP3 trơn màu. Hoa hồng là DNA thương hiệu, không phải họa tiết của 3 sản phẩm này | Slide sản phẩm |
 | 9 | Độ tuổi 25–55 | Theo slide thương hiệu, **lõi là 25–45**, mở rộng tới 55 cho nhóm Sun Belt và snowbirds | Session phân tích thương hiệu |
+| 10 | Kênh quảng bá chưa có Livestream | Đề bài liệt kê thêm **Livestream**, nên bổ sung **Amazon Live** (miễn phí) | Session phân tích đề bài |
+| 11 | `phan-tich-de-bai.md` tính doanh thu và ACoS với giá giả định 89 USD | Giá thật trung bình khoảng 40 USD, nên ACoS thực tế cao hơn (khoảng 16–23% thay vì 8–12%). Bản này dùng giá thật | Đối chiếu giữa các session |
+| 12 | `phan-tich-de-bai.md` ghi phụ phí tồn kho từ 181 ngày | Hàng quần áo được **miễn ở mức 181–270 ngày**, bắt đầu tính từ **ngày 271** | Nguồn phí Amazon 2026 |
+| 13 | Các session chưa thống nhất về Vine và Creator Connections | **Vine:** có nguồn nói 0 USD cho tối đa 2 đánh giá, có nguồn nói miễn phí cho sản phẩm dưới 100 USD từ 03/2026. **Creator Connections:** có nguồn nói chỉ trả hoa hồng theo đơn, có nguồn nói hoa hồng tối thiểu 10% và ngân sách chiến dịch tối thiểu 5.000 USD. ⇒ **Cả hai phải kiểm tra trong Seller Central**; kế hoạch không phụ thuộc vào 2 công cụ này | Đối chiếu giữa các session |
 
 ---
 
@@ -68,6 +72,8 @@ Tài liệu này gộp kết quả của các session làm việc trước:
   - Không ra sản phẩm mới, không đổi sản phẩm vật lý.
   - Giữ DNA "Accessible Haute Couture", không giảm giá sâu.
   - Tồn kho 110 sản phẩm.
+  - **Ngân sách 400 USD cho 26 tuần:** 300 USD trên Amazon (PPC, làm lại A+, Coupon/Bundle) và 100 USD ngoài Amazon (Meta, Google, TikTok, Affiliate, KOL).
+  - Thị trường Mỹ, kênh bán chính là Amazon. Kênh quảng bá: Google, Meta, TikTok, Affiliate, KOL/Influencer, Livestream.
 - **3 mục tiêu của đề bài:**
   - Kinh doanh: tăng CVR 50%.
   - Marketing: tối ưu hình ảnh, content, styling, thông điệp.
@@ -98,7 +104,8 @@ Tài liệu này gộp kết quả của các session làm việc trước:
 > 2. CVR hiện tại, để tính mục tiêu "uplift 50%".
 > 3. Base cost đã gồm phí giới thiệu 17% chưa.
 > 4. "Bộ 9 ảnh" là 9 ảnh cho mỗi sản phẩm hay tổng cộng 9 ảnh.
-> 5. Ngân sách marketing.
+> 5. Sản phẩm tặng KOL/Vine có tính vào 110 sản phẩm và vào ngân sách không?
+> 6. Hoa hồng affiliate và phí coupon có tính vào 400 USD không, hay trừ vào doanh thu?
 
 ---
 
@@ -269,9 +276,9 @@ Bảng dưới phủ đủ 4 tình huống barem gợi ý:
 
 | Phân khúc | Sản phẩm | Nhóm từ khóa | Kênh chính |
 |---|---|---|---|
-| 🅐 Escapers | **SP1**, SP2 | ③ | Amazon PPC, Meta nhắm bang lạnh, Pinterest |
-| 🅑 Sun Belt | **SP2**, SP1 (phối blazer) | ① | Amazon PPC, Meta nhắm Sun Belt |
-| 🅒 Guests | **SP3 đen**, SP2 | ② | Amazon PPC, Sponsored Brands |
+| 🅐 Escapers | **SP1**, SP2 | ③ | Amazon PPC, boost UGC nhắm bang lạnh, Pinterest |
+| 🅑 Sun Belt | **SP2**, SP1 (phối blazer) | ① | Amazon PPC, Amazon Posts |
+| 🅒 Guests | **SP3 đen**, SP2 | ② | Amazon PPC, Amazon Live |
 | 🅓 Tết | **SP3 hồng**, SP2 | ② | Meta/TikTok nhắm Orange County, San Jose, Houston; KOL gốc Việt |
 | 🅔 Layerers | SP2 (tay dài), SP3 đen + tất | ① | Ảnh phối lớp trong listing |
 | 🅕 Planners | SP1, SP2 | ③ ② | Amazon PPC tháng 2–3, Brand Tailored Promotions |
@@ -332,7 +339,14 @@ Mỗi insight theo cấu trúc: **Sự thật → Mâu thuẫn → Insight → H
 - Nếu đạt mục tiêu CVR 9%: chỉ cần **khoảng 1.220 lượt**, tức khoảng 7 lượt/ngày.
 - ⇒ **Tăng CVR quan trọng hơn tăng traffic.** Phần lớn nguồn lực dồn vào listing, ảnh và đánh giá.
 
-Nguồn đơn dự kiến: PPC khoảng 45%, tự nhiên khoảng 40%, ngoài Amazon khoảng 15%.
+Nguồn đơn dự kiến (ngân sách 400 USD):
+
+| Nguồn | Số đơn | Cách tính |
+|---|---|---|
+| PPC | ~20–28 | 210 USD ÷ CPC khoảng 0,9 USD ≈ 230 lượt click × CVR quảng cáo 8–12% |
+| Tự nhiên (listing mới, thứ hạng từ khóa theo dịp, Brand Store, Posts) | ~70 | Phần lớn đơn đến từ đây, nên listing và CVR là việc quan trọng nhất |
+| Ngoài Amazon (KOL, UGC, Amazon Live, affiliate) | ~10–15 | Gắn link Amazon Attribution |
+| Tặng KOL/Vine (nếu BTC cho phép lấy từ 110 sản phẩm) | tối đa ~5 | Lấy từ biến thể dư nhiều nhất của SP3; ưu tiên gửi hàng mẫu từ Việt Nam |
 
 ### B. Listing và Keyword/SEO
 
@@ -396,17 +410,23 @@ Nhớ thêm alt text cho mọi ảnh, vì AI của Amazon không đọc chữ tr
 
 | Chiến dịch | Nội dung | % ngân sách PPC |
 |---|---|---|
-| SP – Exact theo dịp | Từ khóa chính ở mục B; tách theo sản phẩm | 45% |
-| SP – Khám phá (Auto, Phrase, bid thấp) | Tìm từ khóa mới; chuyển từ khóa ra đơn sang Exact mỗi tuần | 15% |
+| SP – Exact theo dịp | Từ khóa chính ở mục B; tách theo sản phẩm | 60% |
+| SP – Khám phá (Auto, bid thấp) | Tìm từ khóa mới; chuyển từ khóa ra đơn sang Exact mỗi tuần | 20% |
 | SP – Nhắm sản phẩm đối thủ | ASIN PRETTYGARDEN, ZESICA cùng kiểu dáng, rating ≤ 4,2 sao; danh mục Jumpsuits cho SP1 | 20% |
-| Sponsored Brands (+ Video từ runway) | *"Runway-designed. Winter-ready."*, dẫn về các Edit | 10% |
-| Sponsored Display | Nhắm lại người đã xem hoặc thêm vào giỏ | 10% |
+| Sponsored Brands Video, Sponsored Display | *"Runway-designed. Winter-ready."* | Chỉ bật khi còn dư ngân sách |
 
 - **Phân bổ theo sản phẩm:** SP2 45%, SP1 35%, SP3 20%.
 - **Mục tiêu ACoS:** SP1, SP2 ≤ 30%; SP3 ≤ 25% (vì hòa vốn chỉ khoảng 37%).
 - **Từ khóa phủ định:** cheap, kids, girls, sweater, wool, plus size.
 - **Quản lý theo size:** **tắt quảng cáo biến thể nào còn ≤ 1 chiếc**, dồn sang size còn nhiều.
-- **Ngân sách:** khoảng 700 USD / 6 tháng. CPC tham khảo khoảng 0,85–0,95 USD → khoảng 740 lượt click × CVR quảng cáo 7% ≈ 50 đơn.
+- **Ngân sách PPC:** **210 USD / 26 tuần** (khoảng 1,2 USD/ngày; ngân sách ngày tối thiểu của Sponsored Products là 1 USD). Dồn vào các đỉnh mùa:
+
+  | Tháng | 10 | 11 | 12 | 01 | 02 | 03 | Tổng |
+  |---|---|---|---|---|---|---|---|
+  | USD | 20 | 40 | 45 | 50 | 35 | 20 | 210 |
+
+- **Hiệu quả dự kiến:** khoảng 230 lượt click → 19–28 đơn, ACoS khoảng 16–23% (giá trung bình của đơn quảng cáo khoảng 48 USD vì PPC dồn vào SP1, SP2).
+- **Với ngân sách nhỏ như vậy**, toàn bộ PPC dồn vào Sponsored Products, nơi chuyển đổi trực tiếp.
 
 ### E. Giá, Coupon và Bundle
 
@@ -415,7 +435,7 @@ Nhớ thêm alt text cho mọi ảnh, vì AI của Amazon không đọc chữ tr
 | Công cụ | Khi nào | Áp cho | Mức | Chi phí |
 |---|---|---|---|---|
 | Prime Exclusive Discount | BFCM 27–30/11 | SP1, SP2 | 10–15% | Hiện chưa thu phí _(kiểm tra lại trong Seller Central)_ |
-| Coupon | Tết, Valentine 01–14/02 | SP3 hồng | 10% | 5 USD + 2,5% doanh số dùng coupon |
+| Coupon theo dịp (khoảng 5 đợt, gắn tên dịp, không gắn "xả hàng") | "Fall Layers" (20/10–10/11, SP2) · "Holiday Party" (01–20/12, SP3 đen) · "Cruise Ready" (05–25/01, SP1) · "Tết & Valentine" (25/01–14/02, SP3 hồng) · "Spring Break" (01–15/03, size lẻ) | Như tên đợt | 10% | 5 USD/đợt + 2,5% doanh số dùng coupon; tổng khoảng 60 USD |
 | Brand Tailored Promotions | Tháng 1–3 | Người theo dõi thương hiệu, người bỏ giỏ | 10% | Không giảm giá công khai |
 | Virtual Bundle / "Mua 2 giảm 10%" | Cả mùa | "Winter Escape": SP1 + SP3 hồng; "Fall Layers": SP2 + SP3 đen | 10% | Tăng giá trị đơn hàng mà không phải giảm giá từng món |
 | **Không dùng** | Lightning Deal (70 USD/ngày + 1%); giảm SP3 quá 10% (lợi nhuận về gần 0); các chữ "clearance", "sale" | | | |
@@ -435,9 +455,9 @@ Nhớ thêm alt text cho mọi ảnh, vì AI của Amazon không đọc chữ tr
 |---|---|---|---|
 | 0. Chuẩn bị | 01–14/10 | Nền tảng | Kiểm kê tồn kho; sửa tiêu đề, bullet, tên màu; bộ ảnh AI; A+, Store; gửi hàng mẫu cho KOL |
 | 1. Fall Layers | 15/10–15/11 | SP2, SP3 đen; 🅑 🅒 🅔 | Bật PPC; ảnh phối lớp lên vị trí số 2; KOL đợt 1 |
-| 2. Holiday & Escape | 16/11–31/12 | SP3 đen → SP1; 🅒 🅐 | Prime Exclusive Discount dịp BFCM; Sponsored Brands; nhắc hạn giao trước Giáng sinh |
-| 3. Winter Escape | 01–31/01 | SP1, SP2; 🅐 | Dồn ngân sách cho SP1; Meta, Pinterest nhắm bang lạnh |
-| 4. Tết & Valentine | 01–20/02 | SP3 hồng; 🅓 | Coupon 10%; Meta/TikTok nhắm Orange County, San Jose, Houston |
+| 2. Holiday & Escape | 16/11–31/12 | SP3 đen → SP1; 🅒 🅐 | Prime Exclusive Discount dịp BFCM; coupon "Holiday Party"; Amazon Live buổi 1; nhắc hạn giao trước Giáng sinh |
+| 3. Winter Escape | 01–31/01 | SP1, SP2; 🅐 | Dồn PPC cho SP1; coupon "Cruise Ready"; boost bài UGC nhắm bang lạnh; Pinterest; Amazon Live buổi 2 |
+| 4. Tết & Valentine | 01–20/02 | SP3 hồng; 🅓 | Coupon "Tết & Valentine"; boost UGC của KOL gốc Việt nhắm Orange County, San Jose, Houston; Amazon Live buổi 3 |
 | 5. Spring Preview | 21/02–31/03 | SP1, SP2; 🅕 | Góc listing "Spring Preview", giữ giá gốc; xử lý size lẻ |
 
 ### H. Dự phòng và hiệu quả tài chính
@@ -457,8 +477,8 @@ Nhớ thêm alt text cho mọi ảnh, vì AI của Amazon không đọc chữ tr
 | Phí giới thiệu (17%; hàng ≤ 15 USD là 5%) | −714 | −298 |
 | Base cost (theo slide) | −1.400 | −1.400 |
 | Dự phòng hoàn hàng (8%) | −336 | −177 |
-| Marketing (được hoàn khoảng 10% qua Brand Referral Bonus) | −1.000 + 63 | −200 |
-| **Lợi nhuận góp** | **≈ +810** | **≈ +135** |
+| Marketing (ngân sách BTC; được hoàn khoảng 10% doanh số ngoài Amazon qua Brand Referral Bonus) | −400 + 40 | −100 |
+| **Lợi nhuận góp** | **≈ +1.390** | **≈ +230** |
 | Tài sản còn lại | Đánh giá, người theo dõi, từ khóa, bộ ảnh, dữ liệu cho mùa sau | Đánh giá từ khách săn sale; khách quen chờ giảm giá |
 
 _Chưa tính thuế nhập khẩu và cước biển nếu base cost chưa gồm (thuế MFN tham khảo: sợi tổng hợp khoảng 16%, cotton khoảng 8–9%, cộng thuế đối ứng đang biến động). Cần xác minh với broker hải quan._
@@ -496,34 +516,34 @@ _Chưa tính thuế nhập khẩu và cước biển nếu base cost chưa gồm
 
 | Ưu tiên | Kênh | Vai trò | Phân khúc | Cách làm | Ngân sách |
 |---|---|---|---|---|---|
-| 1 | **Amazon** (PPC, Brand Store, Posts, Vine, Brand Tailored Promotions) | Chốt đơn, giữ chân | Tất cả | Mục 3.1; Posts miễn phí, 2–3 bài/tuần | **700 USD** |
-| 2 | **Meta** (Facebook, Instagram) | Nhắm vị trí, nhắm lại người đã tương tác | 🅐 bang lạnh; 🅓 Orange County, San Jose, Houston | Reels "One outfit, three winters"; dẫn về Brand Store | 100 USD |
-| 3 | **KOL / KOC** (micro 10k–50k người theo dõi) | Tạo niềm tin, nội dung thật | 🅐 creator du thuyền; 🅒 creator phong cách; 🅓 creator gốc Việt | 4–5 creator; tặng sản phẩm (gửi từ kho Việt Nam), hoa hồng 10% qua link Attribution; được dùng lại nội dung | 100 USD (hàng mẫu, vận chuyển) |
-| 4 | **TikTok** | Lan tỏa | 🅐 #cruiseoutfits, 🅓 #tetoutfit | Spark Ads đẩy video của KOL | 50 USD |
-| 5 | **Pinterest** (tự nhiên) | Lên kế hoạch chuyến đi | 🅐 🅕 | Pin các Edit, miễn phí | 0 |
-| 6 | **Google** (tự nhiên, PR) | Bắt nhu cầu tìm kiếm thương hiệu | Người biết SIXDO qua NYFW | Bài PR, trang thương hiệu; chưa chạy quảng cáo | 0 |
-| 7 | **Affiliate** (blog du lịch, cưới hỏi) | Nội dung bền, bằng chứng xã hội | 🅐 🅒 🅕 | Trả hoa hồng theo link Attribution. **Chưa dùng Creator Connections** (tối thiểu 5.000 USD) | Theo hoa hồng |
+| 1 | **Amazon** (PPC, coupon, A+, Brand Store, Posts, Brand Tailored Promotions) | Chốt đơn, giữ chân | Tất cả | Mục 3.1; Posts miễn phí, 2–3 bài/tuần | **300 USD** |
+| 2 | **KOL / KOC** (nano/micro 5k–50k người theo dõi) | Tạo nội dung thật (UGC) cho listing, A+ và quảng cáo | 🅐 creator du thuyền; 🅒 creator phong cách; 🅓 creator gốc Việt | 3–5 creator; tặng sản phẩm, trả thù lao nhỏ, hoa hồng qua link Attribution; được dùng lại nội dung | 45 USD (vận chuyển, thù lao nhỏ) |
+| 3 | **Meta + TikTok** | Boost 1–2 bài UGC tốt nhất; nhắm vị trí | 🅐 bang lạnh; 🅓 Orange County, San Jose, Houston | Chỉ boost nội dung đã có sẵn, không mua traffic đại trà (100 USD quảng cáo Meta chỉ ra khoảng 2–5 đơn) | 40 USD |
+| 4 | **Livestream: Amazon Live** | Thử đồ trực tiếp, trả lời câu hỏi về size | 🅐 🅒 | 2–3 buổi (BFCM, tháng 1, Tết); miễn phí | 0 |
+| 5 | **Affiliate** (blog du lịch, cưới hỏi; Amazon Influencer) | Nội dung bền, bằng chứng xã hội | 🅐 🅒 🅕 | Chỉ trả hoa hồng khi có đơn, qua link Attribution | 15 USD (dự phòng hoa hồng) |
+| 6 | **Pinterest** (tự nhiên) | Lên kế hoạch chuyến đi | 🅐 🅕 | Pin các Edit, miễn phí | 0 |
+| 7 | **Google** (tự nhiên, PR) | Bắt nhu cầu tìm kiếm thương hiệu | Người biết SIXDO qua NYFW | Bài PR. **Không chạy Google Ads**: CPC cao và cạnh tranh với chính Amazon | 0 |
 
 **Hành trình khách hàng:**
 
 ```
-NHẬN BIẾT (TikTok, KOL, Reels) → CÂN NHẮC (Meta retarget, Pinterest, tìm "SIXDO")
+NHẬN BIẾT (TikTok, KOL, Reels) → CÂN NHẮC (boost UGC, Pinterest, Amazon Live, tìm "SIXDO")
 → CHUYỂN ĐỔI (Amazon PPC, Brand Store, A+, coupon, bundle) → GIỮ CHÂN (Follow brand, Posts, Brand Tailored Promotions)
 ```
 
 **Tổng ngân sách:**
 
-| Hạng mục | USD |
-|---|---|
-| PPC | 700 |
-| Meta | 100 |
-| TikTok | 50 |
-| KOL | 100 |
-| Công cụ AI | 25 |
-| Vine (gói miễn phí) | 0 |
-| **Tổng** | **≈ 975–1.000** |
+| | Hạng mục | USD | Ghi chú |
+|---|---|---|---|
+| **Trên Amazon (300)** | PPC | 210 | Lịch theo tháng ở mục 3.1.D |
+| | Phí coupon | 60 | Khoảng 5 đợt × 5 USD + 2,5% doanh số dùng coupon (khoảng 30 đơn × 40 USD) |
+| | Làm lại A+ bằng AI, dự phòng Vine | 30 | A+, Brand Store, Posts, thử A/B, Virtual Bundle, Amazon Live đều **0 USD** |
+| **Ngoài Amazon (100)** | KOL/UGC (vận chuyển, thù lao nhỏ) | 45 | |
+| | Boost bài UGC trên Meta/TikTok | 40 | |
+| | Dự phòng hoa hồng affiliate | 15 | Chỉ phát sinh khi có đơn |
+| | **Tổng** | **400** | Khoảng 9,5% doanh thu dự kiến (TACoS) |
 
-Tương đương khoảng 23% doanh thu (TACoS). Tỷ lệ này hợp lý cho giai đoạn định vị lại listing.
+**Amazon Creator Connections:** chỉ cân nhắc sau khi kiểm tra điều kiện tối thiểu trong Seller Central, vì các nguồn chưa thống nhất.
 
 ## 3.4 AI tạo sinh cho bộ hình 3 sản phẩm (5 điểm)
 
@@ -622,7 +642,7 @@ Dàn slide khoảng 15–18 trang:
 
 | Ưu tiên | Việc | Ai |
 |---|---|---|
-| 1 | Xác nhận 5 câu hỏi với BTC (tồn kho theo SKU, CVR nền, base cost, số ảnh, ngân sách) | Nhóm |
+| 1 | Xác nhận 6 câu hỏi với BTC (tồn kho theo SKU, CVR nền, base cost, số ảnh, sản phẩm tặng, cách tính phí coupon và hoa hồng) | Nhóm |
 | 2 | Lấy dữ liệu Helium 10 cho khoảng 20 từ khóa; đọc rating, số đánh giá, BSR của 3 ASIN | Nhóm (Claude không truy cập được Amazon, H10 qua proxy) |
 | 3 | Ảnh gốc 3 sản phẩm để làm bộ ảnh AI và mockup | Nhóm → có thể làm tiếp bằng Canva |
 | 4 | Khảo sát nhanh (PickFu hoặc Google Form) để kiểm chứng insight | Nhóm |
