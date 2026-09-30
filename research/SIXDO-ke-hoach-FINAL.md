@@ -270,6 +270,232 @@ Kiểm chứng: dùng cùng khung mã hóa cho 100 đánh giá tháng 11–12 c�
 
 # PHẦN 3 – KẾ HOẠCH TRIỂN KHAI (55 điểm theo barem; các mục con cộng lại là 50)
 
+## Tóm lược dễ hiểu
+
+_Phần này giải thích toàn bộ Phần 3 bằng ngôn ngữ đơn giản, dùng để đọc nhanh và tập thuyết trình. Số liệu chi tiết nằm ở các mục 3.1–3.5 phía sau._
+
+**Ý tưởng chính trong một câu:** SIXDO không đổi sản phẩm và không giảm giá sâu. Chỉ đổi **cách giới thiệu** 3 sản phẩm Xuân/Hè, để người Mỹ thấy chúng hợp với những dịp mùa đông họ thật sự cần: đi du lịch vùng ấm, dự tiệc, Valentine, Phục sinh.
+
+Phần 3 gồm 5 mảng: vận hành trên Amazon, tái định vị sản phẩm, marketing, bộ hình AI và đo lường.
+
+### A. Vận hành trên Amazon: phần quan trọng nhất
+
+**1. Bán được bao nhiêu?**
+
+Cần phân biệt **mục tiêu** và **dự báo**. Mục tiêu là bán hết 110 sản phẩm từ tháng 10/2026 đến tháng 3/2027. Dự báo thực tế chia 3 kịch bản:
+
+| Kịch bản | Bán được | Tỷ lệ bán hết |
+|---|---|---|
+| Thận trọng (mọi thứ kém) | 48 | 44% |
+| **Cơ sở (khả năng cao nhất)** | **86** | **78%** |
+| Mục tiêu (mọi thứ thuận lợi) | 110 | 100% |
+
+Nói thẳng với giám khảo rằng 110 là mục tiêu, còn 86 là con số dự báo. Như vậy bài làm đáng tin hơn là hứa bán hết.
+
+**2. Số sản phẩm bán ra được tính thế nào?**
+
+> **Số sản phẩm bán ra = Số lượt khách vào xem listing × Tỷ lệ mua**
+
+Ví dụ: 100 người vào xem, tỷ lệ mua 8% thì bán được 8 sản phẩm. Có 3 nguồn khách vào xem:
+
+| Nguồn | Nghĩa là gì | Kịch bản cơ sở |
+|---|---|---|
+| **Tự nhiên** | Khách tự tìm thấy trên Amazon, không qua quảng cáo | 740 lượt × 8% ≈ **59 sản phẩm** |
+| **Quảng cáo PPC** | Khách bấm vào quảng cáo của SIXDO trên Amazon | 233 lượt × 9% ≈ **21 sản phẩm** |
+| **Ngoài Amazon** | Khách đến từ Instagram, creator | 120 lượt × 5% ≈ **6 sản phẩm** |
+| **Tổng** | | **≈ 86 sản phẩm** |
+
+**Câu hỏi giám khảo chắc chắn sẽ hỏi: "Lượng khách tự nhiên từ đâu ra?"**
+- Mức mục tiêu chỉ cần khoảng **4,6 lượt xem/ngày cho cả 3 listing**, tức mỗi listing khoảng 1,5 lượt/ngày.
+- **Sửa tiêu đề** để listing xuất hiện khi khách gõ "cruise outfits" hay "holiday party dress". Tiêu đề hiện tại gắn chữ "Summer" nên khó được tìm thấy vào mùa đông.
+- **Quảng cáo kéo theo tự nhiên:** sản phẩm bán được nhờ quảng cáo sẽ leo hạng tìm kiếm, nên càng có nhiều khách tự tìm thấy.
+- **Instagram và creator** giúp nhiều người tìm chữ "SIXDO" hơn.
+- **Điểm yếu cần nói trước:** chưa biết hiện tại listing có bao nhiêu lượt xem. Ngày 01/10 nhóm phải lấy số này. Nếu hiện có 3 lượt/ngày thì cần tăng thêm khoảng 52%.
+
+**3. Mỗi sản phẩm bán cho ai, vào lúc nào?**
+
+| Sản phẩm | Tồn kho (giả định) | Bán cho ai | Thời điểm chính | Dự báo cơ sở |
+|---|---|---|---|---|
+| **SP1** Jumpsuit hoa xanh (51,99 USD) | 20 | Người đi du thuyền, nghỉ dưỡng vùng ấm | Tháng 1–3 | 16 |
+| **SP2** Maxi voan tay dài (51,99 USD) | 40 | Mặc mùa thu (vì có tay dài), sau đó cho chuyến đi | Tháng 10–11, rồi tháng 1–3 | 34 |
+| **SP3 đen** (25,99 USD) | 25 | Người đi tiệc cuối năm | Tháng 11–12 | 20 |
+| **SP3 hồng** (25,99 USD) | 25 | Valentine, Phục sinh (hồng là màu truyền thống của Phục sinh), Tết nếu đủ điều kiện | Tháng 2–3 | 16 (+4 nếu chạy Tết) |
+
+Cách chia này giúp **mỗi tháng đều có một sản phẩm "đang vào mùa"**, không để hàng nằm im.
+
+**4. Sửa listing: thay đổi dễ thấy nhất**
+
+Ví dụ với SP1:
+- **Trước:** *"SIXDO G White Blue Floral Woven Long Jumpsuit for Women 2026 … Beach and Summer Events"*
+- **Sau:** *"SIXDO Women's Blue Floral Cotton Halter Jumpsuit – Wide Leg Resort Wear for Cruise, Tropical Vacation & Beach Dinner"*
+
+Đã sửa gì:
+- **Bỏ mã màu nội bộ "G-"**: khách Mỹ không hiểu, trông thiếu chuyên nghiệp.
+- **Bỏ chữ "Summer"**: vào mùa đông ít ai tìm "đồ mùa hè", nhưng rất nhiều người tìm "đồ đi du thuyền".
+- **Thêm đúng từ khóa khách gõ**, theo dịp sử dụng.
+- **Đổi tên "Raw Flared Dress" của SP3**: chữ "Raw" trong tiếng Anh gợi nghĩa "thô, chưa hoàn thiện".
+
+Phần mô tả (bullet) cũng có quy tắc: **chỉ ghi điều kiểm chứng được.** Không ghi "đúng size Mỹ" khi chưa có số đo thật. Không nói "mẫu này từng lên sàn diễn NYFW"; chỉ nói "**thương hiệu** từng trình diễn ở NYFW", vì đó mới là sự thật.
+
+**5. Quảng cáo PPC: tiền ít thì chạy theo đợt**
+
+Ngân sách quảng cáo chỉ có **210 USD cho 6 tháng**. Chia đều thì mỗi ngày chưa tới 1,2 USD, không đủ tạo hiệu quả. Vì vậy kế hoạch **dồn tiền theo từng đợt, mỗi đợt tập trung vào một sản phẩm đang vào mùa**:
+
+| Đợt | Thời gian | Quảng cáo cho | Tiền |
+|---|---|---|---|
+| 1 | 15/10–15/11 | SP2 (maxi mùa thu) | 45 USD |
+| 2 | 16/11–31/12 | SP3 đen (tiệc) | 55 USD |
+| 3 | 01/01–14/02 | SP1 và SP2 (du thuyền) | 90 USD |
+| 4 | 01–20/03 | SP3 hồng (Phục sinh) | 20 USD |
+
+- **Mỗi chiến dịch đặt 1 USD/ngày** (mức tối thiểu Amazon cho phép), nên **không bao giờ tiêu quá ngân sách**.
+- **Cùng lúc chạy tối đa 2 chiến dịch.**
+- **Size nào sắp hết thì tắt quảng cáo size đó**, không trả tiền để dẫn khách tới sản phẩm hết hàng.
+- **Giữ chi phí quảng cáo ≤ 30% doanh số từ quảng cáo.** Mức hòa vốn thấp nhất là 37%, nên vẫn có lãi.
+
+**6. Giảm giá: nhỏ, ngắn, có lý do**
+
+Nguyên tắc: **không bao giờ gọi là "xả hàng"**, mà gắn mỗi đợt giảm với một dịp.
+
+| Đợt coupon 10% | Thời gian | Sản phẩm |
+|---|---|---|
+| Holiday Party | 01–20/12 | SP3 đen |
+| Winter Escape | 05/01–05/02 | SP1, SP2 |
+| Pink Edit – Valentine | 01–14/02 | SP3 hồng |
+| Pink Edit – Phục sinh | 15–28/03 | SP3 hồng |
+
+- **Bán theo bộ:** mua 2 món giảm 10%, ví dụ SP1 + SP2 thành "bộ đồ du lịch".
+- **Không dùng:** Prime Exclusive Discount (100 USD mỗi đợt, bằng 1/4 tổng ngân sách), Lightning Deal (70 USD/ngày), giảm giá trên 15%.
+- **Chi phí coupon có 2 phần khác nhau:** phí trả Amazon (khoảng 51 USD) trừ vào ngân sách 400 USD; tiền giảm cho khách (khoảng 136 USD) làm doanh thu thấp đi, không trừ vào ngân sách.
+
+**7. Công cụ Amazon: dùng gì, bỏ gì**
+
+| Công cụ | Quyết định | Lý do |
+|---|---|---|
+| A+ Content, Brand Store | ✅ Dùng | Miễn phí, SIXDO đã có Brand Store |
+| Amazon Posts | ❌ Bỏ | Amazon đã ngừng từ 07/2025 |
+| A/B test của Amazon | ❌ Không trông vào | Chỉ mở cho listing nhiều traffic. Thay bằng so sánh số liệu trước/sau khi đổi ảnh |
+| Amazon Attribution | ✅ Dùng | Công cụ đo xem khách từ Instagram có mua hay không |
+| Brand Referral Bonus | ✅ Đăng ký | Amazon hoàn khoảng 10% doanh số đến từ ngoài Amazon. Chỉ coi là phần thưởng thêm, không đưa vào dự báo |
+
+**8. Tiền: có lời không?**
+
+Kịch bản cơ sở (bán 86 sản phẩm), sau khi trừ mọi chi phí và 400 USD marketing:
+
+| | Base cost đã gồm phí Amazon | Base cost chưa gồm phí 17% |
+|---|---|---|
+| **Kế hoạch này** | **+1.580 USD** | **+1.009 USD** |
+| Xả giá 50% toàn bộ | +533 USD | +235 USD |
+
+3 điểm cần nhấn mạnh khi thuyết trình:
+1. **Kế hoạch này lời gấp 3–4 lần so với xả giá**, lại không làm hỏng hình ảnh thương hiệu.
+2. **Kể cả kịch bản xấu nhất** (chỉ bán 48 sản phẩm) vẫn lời hơn xả giá.
+3. **Hàng chưa bán hết không cần xả:** để tới mùa Xuân/Hè 2027 bán tiếp đúng mùa.
+
+Tính 2 cột vì đề chưa nói rõ base cost đã gồm phí 17% của Amazon hay chưa. Cả 2 trường hợp đều cho cùng kết luận.
+
+**9. Quy tắc ra quyết định**
+
+| Khi nào | Nếu thấy | Thì làm |
+|---|---|---|
+| 01/10 | Listing hiện có dưới 2 lượt xem/ngày | Báo trước kịch bản thận trọng; dồn quảng cáo vào SP1, SP2 (2 sản phẩm lời nhất) |
+| 30/11 | Bán chưa được 70% kế hoạch | Chuyển tiền dự phòng sang quảng cáo; bật bán theo bộ |
+| 15/01 | SP3 hồng còn ≥ 10 chiếc và có creator gốc Việt nhận lời | Chạy thêm chiến dịch Tết; nếu không thì bỏ |
+| 31/03 | Còn hàng | Không xả, bán tiếp mùa sau |
+
+### B. Tái định vị sản phẩm
+
+**Nguyên tắc: "Cùng sản phẩm, đổi bối cảnh."** Chiếc váy vẫn vậy, chỉ thay đổi 4 thứ:
+
+| Thay đổi | Ví dụ |
+|---|---|
+| **Nội dung** | Từ "đồ đi biển mùa hè" thành "đồ cho chuyến trốn đông" |
+| **Hình ảnh** | Từ bãi biển nắng gắt thành boong du thuyền lúc hoàng hôn, tiệc trong nhà ánh đèn vàng |
+| **Cách phối** | Thêm lớp khoác mùa đông: cardigan, áo khoác denim, blazer, boot, tất mỏng |
+| **Thông điệp** | ***"Runway-inspired style for your winter escape"***: phong cách sàn diễn cho chuyến trốn đông |
+
+Mỗi sản phẩm có một "danh tính" mới:
+- **SP1:** *The Escape Jumpsuit*, bộ jumpsuit cho chuyến trốn đông.
+- **SP2:** *The Vacation-to-Fall Maxi*, từ bữa tối mùa thu đến chuyến đi biển.
+- **SP3 đen:** *The Party Dress*, váy dự tiệc.
+- **SP3 hồng:** *The Pink Edit*, dành cho Valentine và Phục sinh.
+
+**Những điều không được làm, để giữ đúng DNA thương hiệu:** không dùng chữ "haute couture" với khách Mỹ (dễ bị xem là nói quá); không dùng chữ "clearance"; không giảm quá 15%; không để ảnh AI làm sai màu hoặc sai họa tiết; không hứa những gì chưa kiểm chứng.
+
+Không dùng chữ **"Winter-ready"** vì khách có thể hiểu là "mặc được khi trời lạnh". Thực tế đây là đồ mỏng, dùng cho nơi ấm hoặc trong nhà.
+
+### C. Marketing trong và ngoài Amazon
+
+**Nguyên tắc: ít kênh nhưng làm tới nơi, và kênh nào cũng đo được hiệu quả.**
+
+| Kênh | Vai trò | Tiền | Vì sao chọn |
+|---|---|---|---|
+| **Amazon** | Nơi khách mua | 300 USD | Mọi đơn hàng đều chốt ở đây |
+| **Instagram** | Đẩy 1–2 video ngắn tới phụ nữ 28–45 tuổi ở các bang lạnh (NY, NJ, MA, IL) thích du thuyền | 40 USD | Nhắm được theo vị trí và độ tuổi, đúng nhóm khách chính |
+| **2 creator du lịch** | Quay video, chụp ảnh thật với sản phẩm; dùng lại cho listing và Instagram | 45 USD | Nội dung thật giúp khách tin hơn |
+| Dự phòng | | 15 USD | |
+
+**Chưa làm TikTok, Google Ads, affiliate trả phí.** Với 100 USD, chia cho nhiều kênh thì kênh nào cũng quá ít tiền để có kết quả.
+
+**Hành trình của khách:**
+
+> Thấy video trên Instagram → bấm link → vào trang "Winter Escape" trên Amazon → xem listing, thấy coupon → mua → theo dõi thương hiệu
+
+Mọi link đều gắn **Amazon Attribution**, kể cả link trong trang Beacons, để biết chính xác bao nhiêu người bấm và bao nhiêu người mua.
+
+**Điều kiện với creator:** chỉ tính vào kế hoạch khi đã có **thỏa thuận bằng văn bản** (nội dung giao nộp, thời hạn, quyền dùng lại nội dung). Nếu đến 31/10 chưa có, 45 USD vẫn giữ cho các kênh ngoài Amazon (dùng để đẩy nội dung của chính thương hiệu). Không tự ý chuyển sang quảng cáo Amazon khi BTC chưa cho phép.
+
+### D. Bộ hình AI
+
+**Quy định của Amazon:** ảnh chính (ảnh đầu tiên) phải là **ảnh chụp thật** trên nền trắng. AI chỉ dùng cho **ảnh phụ**: đặt sản phẩm thật vào bối cảnh mới như du thuyền hay tiệc.
+
+| # | Ảnh | Nguồn |
+|---|---|---|
+| 1 | Ảnh chính, nền trắng | Ảnh thật |
+| 2 | Bối cảnh chính (du thuyền / resort / tiệc) | AI |
+| 3 | Phối thêm lớp khoác mùa đông | AI |
+| 4 | "Một bộ, ba dịp" | AI + Canva |
+| 5–6 | Chi tiết và chất liệu (ví dụ voan có lót không) | Ảnh thật |
+| 7 | Bảng size bằng inch | Canva |
+| 8 | Ảnh trình diễn NYFW của thương hiệu | Ảnh thật |
+| 9 | Gợi ý mua theo bộ | AI + Canva |
+
+**Tình trạng:** đã có kịch bản ảnh, câu lệnh (prompt) cho AI và checklist kiểm tra. **Còn thiếu ảnh gốc của 3 sản phẩm** để làm thành bộ hình thật.
+
+### E. Đo lường: làm sao biết kế hoạch đang chạy tốt?
+
+| Câu hỏi | Chỉ số theo dõi | Mục tiêu |
+|---|---|---|
+| Có bán được không? | Số sản phẩm bán theo từng SKU | Theo bảng dự báo |
+| Listing có thuyết phục hơn không? | Tỷ lệ mua (Unit Session %) | Tăng 50% so với trước (mục tiêu của đề) |
+| Ảnh có hút khách không? | Tỷ lệ bấm vào ảnh chính | Tăng ≥ 20% |
+| Có được tìm thấy không? | Số từ khóa mùa đông mà listing lên trang 1 | ≥ 10 |
+| Khách có hài lòng không? | Rating; tỷ lệ trả hàng | ≥ 4,3 sao; < 20% |
+| Có giữ giá không? | Giá bán trung bình so với giá gốc | ≥ 95% |
+| Có lãng phí tiền không? | Tiền quảng cáo cho size đã hết | 0 USD |
+
+### F. Tóm tắt lịch triển khai
+
+| Giai đoạn | Thời gian | Việc chính |
+|---|---|---|
+| Chuẩn bị | 05–14/10 | Sửa listing, đăng ảnh mới, A+, Brand Store; liên hệ creator |
+| Mùa thu | 15/10–15/11 | Quảng cáo SP2 |
+| Tiệc cuối năm | 16/11–31/12 | Quảng cáo SP3 đen; coupon Holiday Party |
+| Trốn đông | 01/01–14/02 | Quảng cáo SP1, SP2; coupon Winter Escape; Instagram và creator; coupon Valentine |
+| Mùa xuân | 15/02–31/03 | Quyết định chạy Tết (từ 15/01); quảng cáo SP3 hồng dịp Phục sinh; tổng kết |
+
+### G. Nếu chỉ có 1 phút để thuyết trình Phần 3
+
+> "Chúng tôi không đổi sản phẩm và không xả giá. Chúng tôi đổi bối cảnh: jumpsuit thành đồ đi du thuyền, maxi tay dài thành váy mùa thu, váy đen thành váy tiệc, váy hồng thành váy Valentine và Phục sinh.
+>
+> Với 400 USD, chúng tôi sửa listing và làm ảnh bằng công cụ miễn phí và AI, dồn quảng cáo theo từng đợt vào sản phẩm đang vào mùa, và chỉ giảm 10% gắn với từng dịp.
+>
+> Dự báo bán 86/110 sản phẩm, lãi 1.000–1.600 USD, gấp 3–4 lần so với xả hàng. Hàng còn lại bán tiếp vào mùa hè năm sau mà không mất giá."
+
+---
+
+
+
 ## 3.1 Amazon Operations & Commercial (25 điểm)
 
 ### A. Định nghĩa thống nhất
