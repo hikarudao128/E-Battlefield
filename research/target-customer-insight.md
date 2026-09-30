@@ -1,7 +1,7 @@
 # SIXDO trên Amazon US: khách hàng mục tiêu và insight
 ### Bài toán: bán tiếp bộ sưu tập Xuân/Hè trong mùa Thu/Đông
 
-_Tiêu chí 2 của barem (22 điểm) gồm Đối tượng mục tiêu (10 điểm) và Insight (12 điểm). Cập nhật 30/09/2026._
+_Tiêu chí 2 của barem (22 điểm) gồm Đối tượng mục tiêu (10 điểm) và Insight (12 điểm). Cập nhật 30/09/2026. Tiếp nối [Phần 1 – Nghiên cứu tổng quan](part1-nghien-cuu-tong-quan.md)._
 
 ---
 
@@ -9,14 +9,17 @@ _Tiêu chí 2 của barem (22 điểm) gồm Đối tượng mục tiêu (10 đi
 
 Đề bài yêu cầu tìm những người **thật sự cần** đồ Xuân/Hè trong mùa lạnh. Vì vậy chúng tôi không chia khách theo độ tuổi hay thu nhập mà theo **nhu cầu**, dựa trên 2 trục:
 
-- **Trục 1 – Nơi mặc có ấm không?** Khách có thể sống ở vùng ấm, hoặc sống ở vùng lạnh nhưng sắp tới vùng ấm.
-- **Trục 2 – Mặc vào dịp gì?** Đi du lịch, dự tiệc/sự kiện, hay mặc hằng ngày.
+- **Trục 1 – Nơi mặc có ấm không?** Có 3 khả năng: khách sống ở vùng ấm; sống ở vùng lạnh nhưng sắp tới vùng ấm; hoặc sống ở vùng lạnh nhưng mặc trong không gian có sưởi (văn phòng, nhà, tiệc trong nhà).
+- **Trục 2 – Mặc vào dịp gì, khi nào?** Đi du lịch, dự tiệc/sự kiện, mặc hằng ngày, hoặc mua ngay bây giờ cho một dịp đã lên kế hoạch ở mùa sau.
 
-|  | **Du lịch** | **Dự tiệc / sự kiện** | **Mặc hằng ngày** |
-|---|---|---|---|
-| **Sống ở vùng lạnh, đi tới vùng ấm** | 🅐 Winter Escapers | 🅒 Destination Guests | – |
-| **Sống ở vùng ấm (Sun Belt)** | – | 🅒 Holiday / Event Guests | 🅑 Sun Belt Women |
-| **Cộng đồng gốc Việt/Á** | – | 🅓 Tết Diaspora | – |
+Barem gợi ý 4 tình huống (vùng khí hậu ấm, đi du lịch, mua trước cho mùa sau, mặc layer trong nhà). Cả 4 tình huống đều được bao phủ trong bảng dưới:
+
+|  | **Du lịch** | **Dự tiệc / sự kiện** | **Mặc hằng ngày** | **Mua trước cho mùa sau** |
+|---|---|---|---|---|
+| **Sống ở vùng lạnh, đi tới vùng ấm** | 🅐 Winter Escapers | 🅒 Destination Guests | – | 🅕 Early Planners |
+| **Sống ở vùng ấm (Sun Belt)** | – | 🅒 Holiday / Event Guests | 🅑 Sun Belt Women | – |
+| **Sống ở vùng lạnh, mặc trong nhà có sưởi** | – | 🅒 (tiệc trong nhà) | 🅔 Indoor Layerers | – |
+| **Cộng đồng gốc Việt/Á** | – | 🅓 Tết Diaspora | – | – |
 
 Bộ lọc chung cho mọi phân khúc là **độ phù hợp với SIXDO**:
 - Phụ nữ 25–55 tuổi, thu nhập trung bình khá trở lên.
@@ -25,7 +28,7 @@ Bộ lọc chung cho mọi phân khúc là **độ phù hợp với SIXDO**:
 
 ---
 
-## 1. Chân dung 4 phân khúc
+## 1. Chân dung 6 phân khúc
 
 ### 🅐 Winter Escapers (phân khúc chính)
 | | |
@@ -58,18 +61,50 @@ Bộ lọc chung cho mọi phân khúc là **độ phù hợp với SIXDO**:
 | **Quy mô** | Khoảng **2,3 triệu** người Mỹ gốc Việt, trong đó **34%** ở California (San Jose, Orange County) và **14%** ở Texas (Houston). Cả hai đều là bang ấm. **Tết 2027 rơi vào ngày 06/02/2027.** |
 | **Hành vi** | Mua đồ mới diện Tết, đi chùa, dự hội chợ Tết, chụp ảnh gia đình. Thích màu đỏ, hồng, họa tiết hoa, và muốn mặc đồ "hiện đại" chứ không chỉ áo dài truyền thống. |
 
-### Ma trận ưu tiên (chấm từ 1 đến 5)
-| Tiêu chí | 🅐 Escapers | 🅑 Sun Belt | 🅒 Guests | 🅓 Tết |
-|---|---|---|---|---|
-| Quy mô | 4 | 5 | 3 | 2 |
-| Mức độ cần sản phẩm "trái mùa" | **5** | 4 | 4 | 4 |
-| Sẵn sàng trả 60–150 USD | 4 | 3 | **5** | 4 |
-| Hợp với DNA SIXDO | 4 | 3 | 4 | **5** |
-| Mức cạnh tranh trên Amazon (5 = ít đối thủ) | 3 | 2 | 3 | **5** |
-| **Tổng** | **20** | 17 | 19 | 20 |
-| **Vai trò** | Tạo doanh số chính | Duy trì doanh số nền | Nâng giá trị đơn hàng và biên lợi nhuận | Tạo khác biệt và câu chuyện thương hiệu |
+### 🅔 Indoor Layerers (phân khúc bổ trợ)
+| | |
+|---|---|
+| **Là ai** | Phụ nữ 28–50 tuổi làm văn phòng ở vùng lạnh (NY, Chicago, Boston, Seattle…). Ngoài trời lạnh nhưng phần lớn thời gian trong ngày ở văn phòng, nhà hàng, nhà riêng có sưởi. |
+| **Bằng chứng** | Nghiên cứu đăng trên *Nature Climate Change* (Kingma & van Marken Lichtenbelt, 2015) cho thấy nhiệt độ văn phòng được đặt theo công thức dành cho **nam giới 40 tuổi, nặng khoảng 70 kg**. Nữ giới thấy dễ chịu ở khoảng **24–25°C**, còn nam giới ở khoảng 21–22°C. Vì vậy phụ nữ vừa thấy lạnh khi ngồi yên, vừa thấy bí khi mặc len dày cả ngày. Người châu Á còn nhạy lạnh hơn. |
+| **Hành vi** | Mặc theo kiểu "củ hành": váy hoặc sơ mi mỏng bên trong, blazer/cardigan ở giữa, áo khoác dày bên ngoài, cởi ra khi vào nhà. Tìm các từ khóa "work dresses", "long sleeve midi dress", "blouse for layering", "dress with tights". |
+| **Vai trò** | Không phải nhóm mua nhiều nhất, nhưng giúp **sơ mi voan và midi lụa** của SIXDO bán được ở cả những bang lạnh, thay vì chỉ ở miền Nam. |
 
-Nhóm 🅓 tổng điểm bằng nhóm 🅐 nhưng quy mô nhỏ và mùa bán chỉ khoảng 4 tuần. Vì vậy chọn 🅐 làm phân khúc chính, 🅒 và 🅑 làm phân khúc phụ, còn 🅓 là chiến dịch ngách theo mùa.
+### 🅕 Early Planners (mua trước cho mùa sau – bán cuối mùa đông)
+| | |
+|---|---|
+| **Là ai** | Phụ nữ 25–45 tuổi đã lên lịch cho các dịp đầu Xuân: đi spring break (tháng 3), Lễ Phục sinh (**28/03/2027**), đám cưới mùa xuân, du lịch đầu hè. Họ mua sớm để chắc có size, có thời gian thử và đổi trả. |
+| **Bằng chứng** | Theo khảo sát của point.me, **61%** người chưa đặt chuyến đi cho năm 2026 dự định đặt vào **tháng 1 hoặc tháng 2**. Khi đã đặt vé thì bắt đầu mua sắm cho chuyến đi. Theo The Knot, tháng 6 là một trong 2 tháng có nhiều đám cưới nhất (16%), và khách mời thường tìm váy trước vài tháng. |
+| **Khác với "khách săn sale cuối mùa"** | 🅕 mua **vì đã có một dịp cụ thể**, nên chấp nhận giá đầy đủ nếu thấy đáng. Khách săn sale thì mua vì giá rẻ và chưa có dịp để mặc (xem phần "Ý tưởng cần tránh"). |
+| **Vai trò** | Là "lối thoát" cho số hàng còn lại vào tháng 2–3, **bán theo hình thức "Spring Preview"/mua sớm với giá đầy đủ** thay vì xả giá. |
+
+### Ma trận ưu tiên (chấm từ 1 đến 5)
+| Tiêu chí | 🅐 Escapers | 🅑 Sun Belt | 🅒 Guests | 🅓 Tết | 🅔 Layerers | 🅕 Planners |
+|---|---|---|---|---|---|---|
+| Quy mô | 4 | 5 | 3 | 2 | 4 | 3 |
+| Mức độ cần sản phẩm "trái mùa" | **5** | 4 | 4 | 4 | 2 | 3 |
+| Sẵn sàng trả 60–150 USD | 4 | 3 | **5** | 4 | 3 | 3 |
+| Hợp với DNA SIXDO | 4 | 3 | 4 | **5** | 3 | 4 |
+| Mức cạnh tranh trên Amazon (5 = ít đối thủ) | 3 | 2 | 3 | **5** | 2 | 4 |
+| **Tổng** | **20** | 17 | 19 | 20 | 14 | 17 |
+| **Vai trò** | Tạo doanh số chính | Duy trì doanh số nền | Nâng giá trị đơn hàng và biên lợi nhuận | Tạo khác biệt và câu chuyện thương hiệu | Mở rộng sang các bang lạnh cho sơ mi, midi | Bán nốt hàng còn lại cuối mùa mà không xả giá |
+
+**Kết luận chọn phân khúc:**
+- **Phân khúc chính: 🅐 Winter Escapers.** Nhóm 🅓 có tổng điểm bằng 🅐 nhưng quy mô nhỏ và mùa bán chỉ khoảng 4 tuần, nên không chọn làm chính.
+- **Phân khúc phụ: 🅒 và 🅑.**
+- **Chiến dịch ngách theo mùa: 🅓.**
+- **Nhóm bổ trợ: 🅔 và 🅕.** Hai nhóm này không cần ngân sách quảng cáo riêng. Chỉ cần thêm từ khóa và ảnh phối đồ phù hợp để đón khách (🅔), và mở lại listing theo góc "Spring Preview" vào tháng 2–3 (🅕).
+
+### Mỗi phân khúc tìm gì, mua gì, và được tiếp cận ở đâu
+Bảng dưới nối phân khúc với 3 nhóm từ khóa ở Phần 1 (① theo mùa, ② theo dịp, ③ theo chuyến đi), với danh mục sản phẩm của SIXDO và kênh tiếp cận chính:
+
+| Phân khúc | Nhóm từ khóa | Từ khóa tiêu biểu | Dòng sản phẩm SIXDO | Kênh chính |
+|---|---|---|---|---|
+| 🅐 Escapers | ③ | cruise outfits for women, resort wear, vacation dresses | Maxi voan, váy trễ vai, set lụa | Amazon PPC, Pinterest, TikTok (#cruiseoutfits) |
+| 🅑 Sun Belt | ① ② | fall dresses, midi dress for layering, work dresses | Midi lụa hoa hồng, sơ mi voan | Amazon PPC nhắm bang, Meta |
+| 🅒 Guests | ② | wedding guest dress, cocktail dress, holiday party dress | Midi lụa hoa hồng, váy trễ vai | Amazon PPC, Sponsored Brands, Google Shopping |
+| 🅓 Tết | ② | lunar new year outfit, red floral dress, tet dress | Thiết kế hoa hồng đỏ/hồng | Meta/TikTok nhắm vị trí, KOL gốc Việt |
+| 🅔 Layerers | ① | blouse for layering, long sleeve midi dress, work dress with tights | Sơ mi voan, midi lụa | Amazon PPC (bid thấp), ảnh phối đồ trong listing |
+| 🅕 Planners | ③ ② | spring break outfits, easter dress, spring wedding guest dress | Maxi voan, midi hoa | Amazon PPC tháng 2–3, email/remarketing |
 
 ---
 
@@ -128,11 +163,36 @@ Mỗi insight đi theo cấu trúc: **Sự thật quan sát được (có số l
   - Kể câu chuyện nhà thiết kế Việt và 6 người con (tinh thần gia đình, trùng với ý nghĩa của Tết).
   - Chạy quảng cáo nhắm theo vị trí San Jose, Orange County, Houston trên Meta/TikTok, dẫn về trang Amazon.
 
-### Insight chung cho cả 4 nhóm
+### Insight 🅔 – "Ngoài trời 0°C, nhưng trong văn phòng tôi vẫn muốn mặc váy"
+- **Sự thật:**
+  - Văn phòng ở Mỹ đặt nhiệt độ theo chuẩn cơ thể nam giới, nên nữ giới thấy lạnh khi ngồi yên (Nature Climate Change, 2015).
+  - Nhưng phần lớn thời gian là ở trong nhà có sưởi, nên mặc len dày cả ngày lại thấy bí.
+- **Mâu thuẫn:** Khách muốn vẫn nữ tính, thanh lịch ở chỗ làm, nhưng mặc đồ mỏng thì lạnh, mặc đồ dày thì nặng nề.
+- **Insight:** *"Tôi không cần một chiếc váy mùa đông. Tôi cần một chiếc váy đẹp mà mặc được với blazer và tất, để khi cởi áo khoác ra tôi vẫn là mình."*
+- **Hệ quả cho chiến lược:**
+  - Chụp ảnh listing theo kiểu "3 lớp": váy/sơ mi SIXDO + blazer + boot, kèm dòng "chỉ cần thêm 1 lớp là đi làm được".
+  - Bullet ghi rõ chất liệu: lụa thoáng, không bí khi ở trong nhà có sưởi.
+
+### Insight 🅕 – "Tôi mua sớm không phải vì rẻ, mà vì không muốn phải lo vào phút chót"
+- **Sự thật:**
+  - Phần lớn chuyến spring break được đặt vào tháng 1–2; Lễ Phục sinh 2027 rơi vào 28/03.
+  - Hàng Xuân/Hè mới thường về cửa hàng muộn, lại dễ hết size đẹp.
+- **Mâu thuẫn:** Khách muốn chuẩn bị xong sớm và có thời gian đổi trả, nhưng đầu năm cửa hàng vẫn đang bán đồ đông hoặc hàng mới còn ít.
+- **Insight:** *"Chuyến đi đã đặt, ngày cưới đã có. Tôi muốn mua xong từ bây giờ để yên tâm là có size vừa và kịp đổi nếu không hợp."*
+- **Hệ quả cho chiến lược:**
+  - Tháng 2–3 đổi góc listing sang "Spring Preview": bán giá đầy đủ, nhấn thời gian đổi trả và Prime giao nhanh.
+  - **Không** dùng thông điệp "clearance" hay "end of season sale".
+
+### Insight chung cho cả 6 nhóm
 > **Khách hàng không mua theo mùa trên lịch, mà mua theo nơi họ sẽ mặc và dịp họ sẽ mặc.** Vì vậy SIXDO không cần bán "đồ hè trái mùa", mà cần bán **đúng dịp** với đúng người.
 
 ### Ý tưởng cần tránh
-Nhóm khách chỉ săn đồ hè giảm giá cuối mùa để dành cho năm sau thì có thật, nhưng **không nên chọn làm mục tiêu chính**. Giảm giá sâu sẽ làm hỏng định vị "thiết kế cao cấp, giá tầm trung" của SIXDO, trong khi đề bài yêu cầu "không làm sai lệch định vị".
+Có một nhóm khác cũng "mua trước cho mùa sau" nhưng khác 🅕: **khách săn sale cuối mùa**, mua đồ hè giảm sâu chỉ vì rẻ và chưa có dịp để mặc. Nhóm này có thật nhưng **không nên chọn làm mục tiêu**:
+- Muốn hút được nhóm này phải giảm giá sâu, và điều đó sẽ làm hỏng định vị "thiết kế cao cấp, giá tầm trung" của SIXDO. Đề bài yêu cầu "không làm sai lệch định vị".
+- Như đã phân tích ở Phần 1, các thương hiệu Việt xả giá tới 75% nhưng khách trẻ vẫn không mua nhiều.
+- Những đánh giá đầu tiên trên Amazon nếu đến từ khách săn sale sẽ kéo thương hiệu xuống thành "hàng giảm giá".
+
+Vì vậy SIXDO nhắm vào **người có kế hoạch** (🅕) chứ không phải **người săn giá**.
 
 ---
 
@@ -143,7 +203,7 @@ Barem khuyến khích có nghiên cứu, không suy đoán chủ quan. Các insi
 | Phương pháp | Cách làm | Ngưỡng để xác nhận |
 |---|---|---|
 | **Định lượng: từ khóa** | Dùng Amazon Brand Analytics (Top Search Terms) và Helium 10/SellerSprite. Xem lượng tìm kiếm theo tháng của "cruise outfits women", "resort wear", "vacation dresses", "wedding guest dress", "fall dresses". Dùng thêm Google Trends 5 năm, lọc theo bang (FL, TX, CA so với NY, IL). | Lượng tìm kiếm tháng 11 đến tháng 3 đạt ít nhất 60% so với đỉnh mùa hè, hoặc có đỉnh thứ hai vào mùa đông |
-| **Định lượng: đọc đánh giá** | Thu thập 500–1.000 đánh giá của các váy bán chạy (PRETTYGARDEN, ZESICA…) viết trong tháng 11 đến tháng 3. Đếm số lần nhắc tới "cruise", "vacation", "wedding", "Florida", "cardigan", "layer". | Ít nhất 25% số đánh giá mùa đông nhắc tới dịp dùng thuộc 🅐, 🅑 hoặc 🅒 |
+| **Định lượng: đọc đánh giá** | Thu thập 500–1.000 đánh giá của các váy bán chạy (PRETTYGARDEN, ZESICA…) viết trong tháng 11 đến tháng 3. Đếm số lần nhắc tới "cruise", "vacation", "wedding", "Florida", "cardigan", "layer", "office", "tights", "spring break", "easter". | Ít nhất 25% số đánh giá mùa đông nhắc tới dịp dùng thuộc 🅐, 🅑, 🅒, 🅔 hoặc 🅕 |
 | **Định lượng: khảo sát** | Khảo sát 150–200 phụ nữ Mỹ 25–55 tuổi qua PickFu/Prolific, lọc người mua quần áo trên Amazon. Hỏi về kế hoạch du lịch và tiệc tùng mùa đông, mức giá chấp nhận, và cho chọn A/B ảnh sản phẩm. | Ít nhất 30% dự định mua đồ mùa hè trong tháng 11 đến tháng 3, và ít nhất 40% chấp nhận mức giá 60 USD trở lên |
 | **Định tính: nghe mạng xã hội** | Đọc các thảo luận trên Reddit (r/Cruise, r/weddingplanning, r/femalefashionadvice), TikTok (#cruiseoutfits, #winterescape, #tetoutfit), và các nhóm Facebook người Việt ở Mỹ. | Tìm những câu nói lặp lại khớp với insight (ví dụ: "can't find summer clothes in stores in January") |
 | **Định tính: phỏng vấn sâu** | Phỏng vấn 8–10 người, 2–3 người cho mỗi phân khúc, mỗi buổi 30 phút qua Zoom. Hỏi về lần mua gần nhất: kích hoạt mua là gì, ngại điều gì, quyết định dựa trên đâu. | Rút ra những điều ngăn khách mua (lo về size, sợ giao trễ…) để đưa vào listing và phần hỏi đáp |
@@ -154,12 +214,12 @@ Barem khuyến khích có nghiên cứu, không suy đoán chủ quan. Các insi
 
 | Tháng | Dịp | Phân khúc |
 |---|---|---|
-| Tháng 10 | Mặc thêm lớp khi vào thu, đám cưới mùa thu ở miền Nam | 🅑 🅒 |
-| Tháng 11 | Lễ Tạ ơn, Black Friday/Cyber Monday, bắt đầu mùa du thuyền | 🅐 🅑 |
+| Tháng 10 | Mặc thêm lớp khi vào thu, đám cưới mùa thu ở miền Nam | 🅑 🅒 🅔 |
+| Tháng 11 | Lễ Tạ ơn, Black Friday/Cyber Monday, bắt đầu mùa du thuyền | 🅐 🅑 🅔 |
 | Tháng 12 | Tiệc cuối năm, giao thừa, du lịch nghỉ đông | 🅐 🅒 |
-| Tháng 1 | Cao điểm du thuyền, đám cưới ở nơi xa, snowbirds | 🅐 🅒 🅑 |
-| Tháng 2 | **Tết (06/02/2027)**, Valentine | 🅓 🅒 |
-| Tháng 3 | Spring break, thời điểm chuyển sang mùa Xuân/Hè mới | 🅐 |
+| Tháng 1 | Cao điểm du thuyền, đám cưới ở nơi xa, snowbirds, đặt chuyến spring break | 🅐 🅒 🅑 🅕 |
+| Tháng 2 | **Tết (06/02/2027)**, Valentine, mua sớm cho spring break | 🅓 🅒 🅕 |
+| Tháng 3 | Spring break, **Lễ Phục sinh (28/03/2027)**, thời điểm chuyển sang mùa Xuân/Hè mới | 🅐 🅕 |
 
 ---
 
@@ -172,6 +232,11 @@ Barem khuyến khích có nghiên cứu, không suy đoán chủ quan. Các insi
 - [UF BEBR – The Florida Elusive Snowbird](https://bebr.ufl.edu/sites/default/files/Research%20Reports/snowbirds_0.pdf)
 - [Forbes – Americans plan to snowbird](https://www.forbes.com/sites/rogersands/2024/01/16/scores-of-americans-plan-to-snowbird-this-winter/)
 - [US Census – State population 2020–2025](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-detail.html)
+- [Phys.org – Office thermostat settings biased against women (Nature Climate Change, 2015)](https://phys.org/news/2015-08-office-thermostat-biased-women.html)
+- [Scientific American – Your thermostat may be sexist](https://www.scientificamerican.com/article/your-thermostat-may-be-sexist1/)
+- [The Knot – Most popular wedding dates 2026](https://www.theknot.com/content/fall-most-popular-wedding-season)
+- [Morning Consult – Spring break travel survey data](https://pro.morningconsult.com/analysis/spring-break-travel-survey-data)
+- [The Everygirl – Why January is the best month for travel planning (point.me survey)](https://theeverygirl.com/january-travel-planning/)
 - [The Knot Worldwide – 2026 Real Weddings Study](https://www.theknotww.com/press-releases/the-knot-worldwide-unveils-2026-real-weddings-study)
 - [The Knot – Average destination wedding cost](https://www.theknot.com/content/average-destination-wedding-cost)
 - [Pew Research – Vietnamese in the U.S.](https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-vietnamese-in-the-u-s/)
