@@ -140,19 +140,20 @@ Quy định title:
 | SKU | Trước (ký tự) | Item Name mới | Item Highlights mới |
 |---|---|---|---|
 | SP1 | SIXDO G White Blue Floral Woven Long Jumpsuit for Women 2026, Feminine Breezy Jumpsuit for Beach and Summer Events (114) | `SIXDO Women's Floral Halter Jumpsuit, Wide Leg Cotton Long Jumpsuit` (67) | `Blue and white print, sleeveless; for vacation, cruise, resort dinners, brunch and wedding guest outfits` |
-| SP2 | SIXDO Voile Floral Flared Maxi Dress for Women 2026, Feminine Sheer-Sleeve Dress for Garden Party and Vacation (110) | A (tay dài): `SIXDO Women's Long Sleeve Floral Maxi Dress, Tie Neck Tiered Voile Dress` (72)<br>B: `SIXDO Women's Floral Maxi Dress, Tie Neck Tiered Flowy Voile Dress` (66) | `Lightweight polyester voile, ditsy print; for fall events, wedding guest, vacation and travel` |
+| SP2 | SIXDO Voile Floral Flared Maxi Dress for Women 2026, Feminine Sheer-Sleeve Dress for Garden Party and Vacation (110) | A (tay dài, ảnh listing đã xác nhận, dùng bản này): `SIXDO Women's Long Sleeve Floral Maxi Dress, Tie Neck Tiered Voile Dress` (72)<br>B: `SIXDO Women's Floral Maxi Dress, Tie Neck Tiered Flowy Voile Dress` (66) | `Lightweight polyester voile, ditsy print; for fall events, wedding guest, vacation and travel` |
 | SP3 | SIXDO Raw Flared Dress for Women, Sleek and Versatile for Work Events and Formal Celebrations (93) | `SIXDO Women's Spaghetti Strap Tiered Fit and Flare Dress` (56) | Đen: `Solid black polyester; for holiday parties, cocktail hour, New Year's Eve; layer with a blazer or cardigan`<br>Hồng: `Solid blush pink polyester; for Valentine's Day, Easter, bridal showers, brunch; layer with a denim jacket` |
 
 ### 3.2 Bullet
-Bản đầy đủ 5 bullet của từng sản phẩm, sửa từ bullet đang có trên Amazon, nằm ở file riêng *SIXDO_YeuCau02_Bullet_LamRo*. Thứ tự: dịp dùng → thương hiệu → chất liệu → size (inch) → cách giặt. Phần [ ] là số liệu thật, phải điền trước khi đăng. Không claim "true to size", "warm" hay "non-see-through" khi chưa kiểm chứng.
+Bullet hiện tại có 3 lỗi. SP2 và SP3 dùng chung y hệt 5 bullet. Không bullet nào ghi vải, lót hay size. Bullet 5 là danh sách từ khóa. Đối thủ giá 30 USD (PRETTYGARDEN, ZESICA) ghi đủ thành phần, "fully lined" và quy đổi size Mỹ. Bản đầy đủ, gồm bullet gốc, phân tích đối thủ và bullet mới, nằm ở file riêng *SIXDO_YeuCau02_Bullet_LamRo*.
 
-Bullet 2 dùng chung cho cả ba sản phẩm: `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese fashion brand whose collections have been shown at New York Fashion Week.` Đây là thành tích của thương hiệu, không phải của từng mẫu.
+Thứ tự bullet mới: dịp dùng → vải, lót, độ xuyên → chi tiết thiết kế và NYFW → size → cách giặt. Phần [ ] là số liệu thật, phải điền trước khi đăng. Không claim "true to size", "warm" hay "non-see-through" khi chưa kiểm chứng.
 
-| Bullet | SP1 (cotton, theo nhãn) | SP2 (100% polyester voile) | SP3 (100% polyester) |
+| Bullet | SP1 | SP2 | SP3 |
 |---|---|---|---|
-| 1. Dịp | `MADE FOR WARM-WEATHER PLANS – For vacations, cruises, travel days, resort dinners and brunch.` | `ONE DRESS FOR FALL EVENTS AND TRIPS – A gentle flare from the waist; for fall gatherings, daytime weddings as a guest, brunch and getaways.` | `DRESS IT UP OR LAYER IT – Sleeveless high-waist A-line, open back; for [holiday parties, New Year's Eve / Valentine's Day, Easter brunch]. Add a blazer or tights when it's cold.` |
-| 3. Chất liệu | `BREATHABLE WOVEN FABRIC – [cotton / rayon-cotton blend] per label. Pull-on, no zip. [Not / slightly] see-through.` | `IS IT SHEER? – Sleeves are sheer voile by design. Body: [lined / unlined]. 100% polyester voile, not a warm winter fabric. Zip closure.` | `SOLID POLYESTER, CLEAR FACTS – 100% polyester, [lined / unlined], [opaque / slightly see-through]. Pull-on, open back.` |
-| 4–5. Size, giặt | `FIND YOUR SIZE IN INCHES – bust, waist, hip, inseam [ ]; model wears [ ].` · `CARE – Hand wash only.` | `FIND YOUR SIZE IN INCHES – S (4–6) to XXL (20–22); chart in images.` · `CARE – Hand wash only.` | `FIND YOUR SIZE IN INCHES – S–XXL [ ].` · `CARE – Hand wash recommended.` |
+| 1. Dịp | `WARM-WEATHER PLANS, DAY TO NIGHT: vacations, cruises, resort dinners, brunch` | `FALL EVENTS AND WARM GETAWAYS: fall gatherings, Thanksgiving, wedding guest, trips` | Đen: `HOLIDAY PARTIES TO NEW YEAR'S EVE`<br>Hồng: `VALENTINE'S DAY TO EASTER` |
+| 2. Vải | `BREATHABLE WOVEN FABRIC: [fiber] per label, [lining], [see-through test], pull-on` | `IS IT SHEER? Sheer voile sleeves by design; body [lined]; 100% polyester` | `SOLID FABRIC, CLEAR FACTS: 100% polyester, [lined], [opaque], pull-on` |
+| 3. Thiết kế | `ONE PIECE, COMPLETE LOOK: border-print hem, wide legs; SIXDO, shown at NYFW` | `RUNWAY DETAILS YOU CAN SEE: balloon sleeves, tie neck, drawstring waist, tiers` | `DESIGNED BY SIXDO: fitted bodice, tiered skirt, NYFW brand at an everyday price` |
+| 4–5. Size, giặt | `FIND YOUR SIZE: US size, choose by hip` · `EASY CARE` | `FIND YOUR SIZE: S (US 4–6) to XXL (20–22), adjustable drawstring` · `EASY CARE` | `FIND YOUR SIZE: choose by bust` · `EASY CARE` |
 
 Hai lưu ý:
 - **SP2 đắt hơn khoảng 70%** so với maxi hoa của PRETTYGARDEN (khoảng 30 USD). Lý do đáng tiền phải được chứng minh bằng ảnh macro vải, ảnh lật lót, ảnh cận tay bồng và dây cổ, và video 15–30 giây, không bằng tính từ.

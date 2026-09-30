@@ -2,7 +2,7 @@
 
 - `SIXDO_YeuCau02_ChienLuocAmazon.docx`: bản nộp, cùng định dạng với bản Phần 1–2.
 - `SIXDO_YeuCau02_ChienLuocAmazon.md`: bản nguồn để sửa tiếp.
-- `SIXDO_YeuCau02_Bullet_LamRo.docx` / `.md`: mục 3.2: đối chiếu bullet đang có trên Amazon, giữ/sửa/bỏ từng ý, 5 bullet mới mỗi sản phẩm. Sinh lại bằng `python lam-viec/build_bullet.py`.
+- `SIXDO_YeuCau02_Bullet_LamRo.docx` / `.md`: mục 3.2: bullet gốc (ảnh chụp trong `lam-viec/anh-bullet-goc/`), phân tích bullet đối thủ, 5 bullet tối ưu mỗi sản phẩm. Sinh lại bằng `python lam-viec/build_bullet.py`.
 
 ## Thư mục `lam-viec/`
 Các file này là kết quả của các subagent:
