@@ -112,7 +112,8 @@ def convert(md):
         m = re.match(r'(#{1,4}) (.*)', ln)
         if m:
             st = {1: 'Title', 2: 'Heading1', 3: 'Heading2', 4: 'Heading3'}[len(m.group(1))]
-            body.append(para(m.group(2), st)); i += 1
+            sp = {'Heading1': '<w:spacing w:before="280" w:after="60"/>', 'Heading2': '<w:spacing w:before="160" w:after="40"/>'}.get(st, '')
+            body.append(para(m.group(2), st, sp)); i += 1
             if st == 'Title':
                 # subtitle lines directly under the title: one paragraph with line breaks
                 sub = []
