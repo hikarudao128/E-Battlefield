@@ -1,0 +1,77 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>SIXDO Keyword Overview</title>
+<style>
+:root{--navy:#183247;--cream:#F7F4EE;--alt:#FBF9F4;--grid:#E3DDD2;--red:#B75D62;--green:#358475;--text:#1F2A33;--muted:#5A6570;}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1600px;height:1000px;background:var(--cream);overflow:hidden}
+body{font-family:"Liberation Sans","DejaVu Sans",Arial,sans-serif;color:var(--text);padding:30px 40px 24px}
+h1{font-size:34px;font-weight:700;color:var(--navy);letter-spacing:.5px}
+.sub{font-size:16px;color:var(--muted);margin-top:6px}
+.label{font-size:17px;font-weight:700;color:var(--navy);margin:20px 0 7px;letter-spacing:.4px}
+table{width:1520px;border-collapse:collapse;table-layout:fixed;background:#fff;border:1px solid var(--grid)}
+th{background:var(--navy);color:#fff;font-size:15px;font-weight:700;height:37px;padding:0 12px;text-align:right;white-space:nowrap}
+td{font-size:16px;height:37.5px;padding:0 12px;text-align:right;border:1px solid var(--grid);white-space:nowrap;font-variant-numeric:tabular-nums}
+th:first-child,td:first-child{text-align:left}
+th.chart{text-align:center}
+tbody tr:nth-child(even){background:var(--alt)}
+td.kw{font-weight:600;color:var(--navy)}
+td.neg{color:var(--red);font-weight:600}td.pos{color:var(--green);font-weight:600}
+td.chart{padding:0 10px}
+td.chart svg{display:block;margin:0 auto}
+.foot{margin-top:18px;font-size:15.5px;line-height:1.5;color:var(--muted)}
+</style></head><body>
+<h1>SIXDO | AMAZON US KEYWORD OVERVIEW</h1>
+<div class="sub">SellerSprite data • Captured 01 Oct 2026</div>
+<div id="tables"></div>
+<div class="foot">
+<div>Source: User-provided SellerSprite data, captured 01 Oct 2026.</div>
+<div>Reporting window and Growth Rate comparison period are unconfirmed.</div>
+<div>Purchase Rate is a keyword-level tool metric, not SIXDO listing CVR.</div>
+<div>“—” = unreadable source value. *26,883 is from an earlier capture; reconfirm.</div>
+</div>
+<script>
+// Single structured dataset: [keyword, searches, trend(number %), purchase, purchaseRate, impressions, clicks, bid]
+const DATA = [
+ {title:"DRESSES — KEYWORD OVERVIEW", rows:[
+  ["dresses for women","1,118,393",-6.10,"671","0.06%","26,592,376","531,841","$0.46"],
+  ["womens dresses","467,125",19.76,"280","0.06%","11,322,634","218,112","—"],
+  ["women's dresses","182,483",-28.87,"6,551","3.59%","5,355,261","87,009","—"],
+  ["women dresses","114,606",-16.47,"11,220","9.79%","3,170,659","56,726","$0.44"],
+  ["womens dress","105,229",-16.75,"6,493","6.17%","2,743,036","43,520","$0.48"],
+  ["dress for women","74,262",-11.28,"2,258","3.04%","2,064,447","36,569","$0.40"],
+  ["women dress","60,158",-10.85,"4,404","7.32%","1,639,760","23,477","$0.50"],
+  ["women's dress","16,374",-14.25,"2,600","15.88%","404,654","7,908","$0.45"]]},
+ {title:"JUMPSUITS — KEYWORD OVERVIEW", rows:[
+  ["jumpsuits for women","345,168",-18.06,"449","0.13%","8,713,222","140,339","$0.35"],
+  ["jumpsuit","94,082",-17.59,"122","0.13%","2,790,906","36,762","$0.78"],
+  ["womens jumpsuit","67,144",-3.41,"101","0.15%","2,000,791","25,871","$0.35"],
+  ["women's jumpsuits","63,647",-2.68,"2,737","4.30%","1,538,704","25,431","$0.35"],
+  ["women jumpsuit","28,429",-15.57,"719","2.53%","673,434","10,848","$0.35"],
+  ["jumpsuits","26,883*",-12.72,"841","3.13%","802,228","11,160","$0.38"],
+  ["jumpsuit for women","22,765",-12.72,"669","2.94%","600,224","10,116","$0.35"],
+  ["jumpsuit women","5,900",-13.38,"181","3.06%","159,216","2,804","$0.35"]]}
+];
+const COLS=[["Keyword",250],["M. Searches",150],["Trend (%)",130],["Trend Chart",260],["M. Purchase",140],["Purchase Rate",150],["Impressions",160],["Clicks",120],["Suggested Bid",160]];
+const SCALE=30, CW=236, CH=20, HALF=CW/2;
+function fmtPct(v){return (v<0?"−":"+")+Math.abs(v).toFixed(2)+"%";}
+function bar(v){
+  const len=Math.min(Math.abs(v),SCALE)/SCALE*HALF;
+  const x=v<0?HALF-len:HALF, col=v<0?"#B75D62":"#358475";
+  return `<svg width="${CW}" height="${CH}" viewBox="0 0 ${CW} ${CH}">
+   <line x1="0" x2="${CW}" y1="${CH/2}" y2="${CH/2}" stroke="#ECE6DB" stroke-width="1"/>
+   <rect x="${x}" y="3" width="${len}" height="${CH-6}" rx="1.5" fill="${col}" data-v="${v}"/>
+   <line x1="${HALF}" x2="${HALF}" y1="0" y2="${CH}" stroke="#6B7680" stroke-width="1.2"/></svg>`;
+}
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;");
+let html="";
+for(const t of DATA){
+  html+=`<div class="label">${t.title}</div><table><colgroup>${COLS.map(c=>`<col style="width:${c[1]}px">`).join("")}</colgroup>`;
+  html+=`<thead><tr>${COLS.map(c=>`<th${c[0]==="Trend Chart"?' class="chart"':''}>${c[0]}</th>`).join("")}</tr></thead><tbody>`;
+  for(const r of t.rows){
+    const [kw,s,tr,p,pr,im,cl,bid]=r;
+    html+=`<tr><td class="kw">${esc(kw)}</td><td>${s}</td><td class="${tr<0?'neg':'pos'}">${fmtPct(tr)}</td><td class="chart">${bar(tr)}</td><td>${p}</td><td>${pr}</td><td>${im}</td><td>${cl}</td><td>${bid}</td></tr>`;
+  }
+  html+=`</tbody></table>`;
+}
+document.getElementById("tables").innerHTML=html;
+</script></body></html>
