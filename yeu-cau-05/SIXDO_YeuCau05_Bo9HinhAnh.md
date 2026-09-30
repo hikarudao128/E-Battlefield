@@ -22,11 +22,11 @@ Những gì đã có trong bài nộp:
   - Ô 9 (thương hiệu).
   - Khung và chữ của ô 4, 5, 6.
   - Size chart ô 7, chỉ còn chờ điền số đo.
-- **Ảnh AI minh họa:** 3 ảnh bối cảnh, để thấy hướng hình ảnh.
-- **Khung chờ ảnh thật:** các ô còn lại, mỗi khung ghi rõ yêu cầu chụp.
+- **Ảnh Canva AI cho ô 1–6:** đủ 18 ảnh cho cả 3 sản phẩm (link ở mục 5).
+- **Khung chờ ảnh thật:** chỉ còn ô 8, vì ô này theo quy tắc không dùng AI.
 - **Bộ prompt ChatGPT:** để thay khung bằng ảnh thành phẩm.
 
-Chưa có ảnh sản phẩm thật, vì trang Amazon bị chặn trong môi trường làm bài. Vì vậy các ô dùng ảnh thật đang là khung chờ.
+Ảnh AI được dựng từ mô tả sản phẩm, vì trang Amazon bị chặn trong môi trường làm bài nên chưa lấy được ảnh thật. Trước khi đăng, cần đối chiếu với hàng thật.
 
 ## 1 Quy định áp dụng
 - **Ảnh chính (ô 1)** [1]:
@@ -60,7 +60,7 @@ Hai bối cảnh:
 
 Ô 4 phối cardigan kem, trench coat, giày bệt. Ô 6 gồm cổ yếm, họa tiết, ống rộng.
 
-![SP1 – bộ 9 ảnh. Ô 1 và ô 2 là ảnh AI minh họa bối cảnh, chưa phải sản phẩm thật](anh/SP1_storyboard.png)
+![SP1 – bộ 9 ảnh. Ô 1–6 tạo bằng Canva AI](anh/SP1_storyboard.png)
 
 ### 3.2 SP2 – Floral Maxi Dress
 Hai bối cảnh:
@@ -69,7 +69,7 @@ Hai bối cảnh:
 
 Ô 4 phối áo khoác denim và boots da lộn. Ô 5 bắt buộc có ảnh lật lót và soi độ xuyên của tay voan, vì đây là điểm review SP2 phàn nàn.
 
-![SP2 – bộ 9 ảnh](anh/SP2_storyboard.png)
+![SP2 – bộ 9 ảnh. Ô 1–6 tạo bằng Canva AI](anh/SP2_storyboard.png)
 
 ### 3.3 SP3 – Tiered Fit and Flare Dress
 Hai bối cảnh:
@@ -78,7 +78,7 @@ Hai bối cảnh:
 
 Mỗi màu có ảnh chính riêng. Ô 4 phối blazer lạc đà và tất mỏng. Không ghi "mini/midi" khi chưa đo chiều dài.
 
-![SP3 – bộ 9 ảnh. Ô 2 là ảnh AI minh họa bối cảnh Party Season](anh/SP3_storyboard.png)
+![SP3 – bộ 9 ảnh. Ô 1–6 tạo bằng Canva AI](anh/SP3_storyboard.png)
 
 ## 4 Quy trình sản xuất
 | Bước | Việc | Công cụ | Hạn |
@@ -99,19 +99,24 @@ Checklist kiểm tra (chi tiết trong bộ prompt, mục 7):
 
 Ảnh không đạt một dòng nào thì làm lại hoặc dùng ảnh thật.
 
-## 5 Trạng thái và việc còn lại
+## 5 Trạng thái và link ảnh
 | Hạng mục | Trạng thái |
 |---|---|
-| Khung 9 ô, 27 ảnh 2000×2000 px, 3 bảng tổng hợp | Xong |
-| Ô 9 thương hiệu; chữ của ô 4, 5, 6 | Xong, dùng được |
+| Ô 1–6 của cả 3 sản phẩm (18 ảnh) | Xong bằng Canva AI; bản đầy đủ mở qua link bên dưới |
 | Ô 7 size chart | Xong khung; chờ số đo thật |
-| Ảnh AI minh họa: SP1 ô 1–2, SP3 ô 2 | Xong, chỉ để minh họa hướng bối cảnh; bản đầy đủ nằm trên Canva |
-| Ô 1, 2, 3, 8 và phần ảnh của ô 4, 5, 6 | Chờ ảnh thật, sau đó chạy prompt ChatGPT |
+| Ô 9 thương hiệu; chữ của ô 4, 5, 6 | Xong (2000×2000 px, trong thư mục `anh/`) |
+| Ô 8 ảnh thật không chỉnh | Chờ chụp, vì ô này không dùng AI |
 
-Ảnh AI minh họa (độ phân giải đầy đủ trên Canva):
-- SP1 ô 1: https://www.canva.com/M/MAHWsE_0AEg
-- SP1 ô 2: https://www.canva.com/M/MAHWsLlZqWE
-- SP3 ô 2: https://www.canva.com/M/MAHWr5nt5qo
+Lưu ý khi dùng ảnh Canva AI:
+- Váy trong ảnh do AI dựng theo mô tả sản phẩm, nên mỗi ảnh có thể lệch một chút về họa tiết, dáng hoặc độ dài so với hàng thật. Trước khi đăng lên Amazon, phải so từng ảnh với hàng thật theo checklist ở mục 4.
+- Ảnh có người do AI tạo cần gắn nhãn theo quy định [KC]. Cách an toàn nhất: dùng bộ ảnh này làm hướng bối cảnh, rồi thay người mẫu và sản phẩm bằng ảnh thật theo bộ prompt [N3].
+- Chữ của ô 4 ("Add a layer for cooler evenings"), ô 5 (chú thích chất liệu) và ô 6 (nhãn chi tiết) lấy từ các file khung trong `anh/`, rồi đặt lên ảnh trong Canva.
+
+| SKU | Ô 1 Main | Ô 2 Occasion 1 | Ô 3 Occasion 2 | Ô 4 Layer it | Ô 5 Fabric | Ô 6 Details |
+|---|---|---|---|---|---|---|
+| SP1 | canva.com/M/MAHWsE_0AEg | canva.com/M/MAHWsLlZqWE | canva.com/M/MAHWsEXQkAg | canva.com/M/MAHWsDggrF8 | canva.com/M/MAHWsK4bnng | canva.com/M/MAHWsJyw51w |
+| SP2 | canva.com/M/MAHWsH3f0lI | canva.com/M/MAHWsJbjoiE | canva.com/M/MAHWsNul1rk | canva.com/M/MAHWsEVS0K4 | canva.com/M/MAHWsPeaEtI | canva.com/M/MAHWsEEzXzg |
+| SP3 | canva.com/M/MAHWsOUxTzI | canva.com/M/MAHWr5nt5qo | canva.com/M/MAHWsBeYz0g | canva.com/M/MAHWsBgql_8 | canva.com/M/MAHWsAn8TJM | canva.com/M/MAHWsNpgw7c |
 
 ## Nguồn
 [N1] SIXDO – Phần 1–2: mã hóa review SIXDO và đối thủ.

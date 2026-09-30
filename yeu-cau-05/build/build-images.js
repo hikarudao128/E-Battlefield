@@ -25,7 +25,7 @@ const PRODUCTS = [
     layer: 'Cardigan kem, trench coat gấp, giày bệt, túi cói',
     callouts: ['Woven cotton', 'Lining: ___', 'Hand wash cold'],
     details: ['Halter neckline', 'Floral print', 'Wide leg'],
-    ai: { '01': 'SP1_01_main.jpg', '02': 'SP1_02_resort.jpg' },
+    ai: { '01': 'SP1_01_main.jpg', '02': 'SP1_02_resort.jpg', '03': 'SP1_03_brunch.jpg', '04': 'SP1_04_flatlay.jpg', '05': 'SP1_05_fabric.jpg', '06': 'SP1_06_details.jpg' },
   },
   {
     id: 'SP2', name: 'Floral Maxi Dress', fabric: 'Polyester voile', accent: '#B8862B',
@@ -38,7 +38,7 @@ const PRODUCTS = [
     layer: 'Áo khoác denim, boots da lộn màu lạc đà, túi da đeo chéo',
     callouts: ['Lightweight polyester voile', 'Sheer sleeves by design', 'Body lining: ___'],
     details: ['Tie neckline', 'Sheer sleeves', 'Tiered skirt'],
-    ai: {},
+    ai: { '01': 'SP2_01_main.jpg', '02': 'SP2_02_fall.jpg', '03': 'SP2_03_cruise.jpg', '04': 'SP2_04_flatlay.jpg', '05': 'SP2_05_fabric.jpg', '06': 'SP2_06_details.jpg' },
   },
   {
     id: 'SP3', name: 'Tiered Fit and Flare Dress', fabric: 'Solid polyester', accent: '#1E1E1E',
@@ -51,7 +51,7 @@ const PRODUCTS = [
     layer: 'Blazer lạc đà, tất mỏng đen, giày cao gót, clutch vàng',
     callouts: ['Solid polyester', 'Lining: ___', 'Opacity: ___'],
     details: ['Spaghetti straps', 'Fitted bodice', 'Tiered flared skirt'],
-    ai: { '02': 'SP3_02_party.jpg' },
+    ai: { '01': 'SP3_01_main.jpg', '02': 'SP3_02_party.jpg', '03': 'SP3_03_brunch.jpg', '04': 'SP3_04_flatlay.jpg', '05': 'SP3_05_fabric.jpg', '06': 'SP3_06_details.jpg' },
   },
 ];
 
@@ -161,7 +161,7 @@ const LABELS = { '01': 'Main', '02': 'Occasion 1', '03': 'Occasion 2', '04': 'La
     const cells = SLOTS.map(n => {
       const img = p.ai[n] ? path.join(AI, p.ai[n]) : path.join(dir, `${p.id}_${n}_${LABELS[n].replace(/\W+/g, '-')}.png`);
       const src = 'data:image/' + (img.endsWith('.png') ? 'png' : 'jpeg') + ';base64,' + fs.readFileSync(img).toString('base64');
-      const badge = p.ai[n] ? `<div style="position:absolute;right:10px;top:10px;background:${INK};color:#fff;font-size:22px;padding:6px 12px">AI minh họa</div>` : '';
+      const badge = p.ai[n] ? `<div style="position:absolute;right:10px;top:10px;background:${INK};color:#fff;font-size:22px;padding:6px 12px">Canva AI</div>` : '';
       return `<div style="position:relative;border:2px solid ${LINE};background:#fff">
         <img src="${src}" style="width:100%;height:560px;object-fit:cover;display:block">${badge}
         <div style="padding:14px 18px;font-size:30px"><b>${n}</b> · ${LABELS[n]}</div></div>`;
