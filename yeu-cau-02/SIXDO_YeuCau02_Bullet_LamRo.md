@@ -1,100 +1,145 @@
-# Làm rõ phần bullet listing – Yêu cầu 02
-SIXDO trên Amazon US – 5 bullet cho mỗi sản phẩm
-Tài liệu đi kèm Yêu cầu 02, mục 3.2  |  Bản đầy đủ từng câu, nghĩa tiếng Việt, lý do và cách điền số liệu
+# Chỉnh sửa bullet listing – Yêu cầu 02
+SIXDO trên Amazon US – 5 bullet cho mỗi sản phẩm, sửa từ bullet đang có
+Tài liệu đi kèm Yêu cầu 02, mục 3.2  |  Đối chiếu bullet hiện tại, giữ ý tốt, sửa ý sai mùa, bổ sung thông tin khách cần
 
 ### Kết luận chính
-Trong bản Yêu cầu 02, mục 3.2 chỉ có bảng rút gọn. File này ghi đầy đủ 5 bullet của từng sản phẩm để đăng thẳng lên Seller Central.
-- **Mỗi bullet trả lời một câu hỏi của khách**, theo thứ tự khách cần biết: dùng vào dịp nào → thương hiệu là ai → vải có xuyên, có lót không → mặc size nào → giặt ra sao.
-- **Bullet 3 và 4 là quan trọng nhất.** Trong 40 review đối thủ, 32 review nhắc chất liệu và 30 review nhắc size [N1]. SP2 có 5/8 review lệch kỳ vọng về hình ảnh.
-- **Chỉ ghi điều đã kiểm chứng.** Phần trong [ ] là số liệu phải đo hoặc xem trên hàng thật rồi điền, không được để trống khi đăng.
-- **SP3 có hai bản bullet 1**, một cho màu đen (tiệc cuối năm) và một cho màu hồng (Valentine, Phục sinh).
-- Tất cả bullet đều dưới 250 ký tự sau khi điền (dài nhất 205 ký tự).
+File này không viết lại từ đầu. Mỗi sản phẩm đi theo 3 bước: đọc bullet đang có trên Amazon → quyết định giữ, sửa hay bỏ từng ý → viết 5 bullet mới.
+
+Ba vấn đề chung của bullet hiện tại:
+- **Bán theo mùa hè.** SP1 ghi "ideal for warm summer days", SP2 ghi "warm-weather companion for the summer season". Ở Q4 khách không tìm "summer dress" (YC02 mục 2).
+- **Thiếu điều khách hỏi nhiều nhất.** Không bullet nào ghi lót, độ xuyên hay số đo inch, trong khi 32/40 review đối thủ nhắc chất liệu và 30/40 nhắc size [N1]. SP2 có 5/8 review lệch kỳ vọng.
+- **Có claim chưa kiểm chứng hoặc mâu thuẫn.** SP3 ghi "ideal for fall and winter weather" cho váy không tay, hở lưng. SP3 bullet ghi "machine wash" nhưng thuộc tính ghi "Hand Wash Only".
+
+Những ý tốt được giữ lại: "all-in-one look" của SP1, "gentle flare from the waist" của SP2, "từ văn phòng đến sự kiện" của SP3, và bảng quy đổi size số của SP2.
+
+Dữ kiện mới lấy từ listing, đã đưa vào bullet:
+- SP1: mặc kiểu chui (pull-on), chỉ giặt tay.
+- SP2: 100% polyester, khóa kéo, 5 size S–XXL.
+- SP3: 100% polyester, dáng chữ A cạp cao, hở lưng, mặc kiểu chui.
+
+Tất cả bullet mới đều dưới 250 ký tự sau khi điền (dài nhất 215 ký tự).
+
+**Giới hạn:** môi trường làm bài bị chặn truy cập Amazon. Nội dung bullet hiện tại được tái dựng từ kết quả tìm kiếm ngày 30/09/2026 [1]–[3], không phải bản chép nguyên văn [KC]. Trước khi đăng, mở Seller Central (Edit listing) để đối chiếu lại.
 
 ## 1 Vai trò của từng bullet
-| Bullet | Câu hỏi của khách | Nội dung | Vì sao | Viết thế nào |
-|---|---|---|---|---|
-| 1 Dịp dùng | "Mặc vào dịp nào?" | Dịp, nơi mặc và cách phối lớp khi trời lạnh | Q4 khách tìm theo dịp ("holiday dress", "vacation dress"), không tìm "summer dress" (YC02 mục 2) | Mở đầu bằng cụm chữ in hoa nêu lợi ích; nêu 3–5 dịp cụ thể; câu cuối là cách phối lớp |
-| 2 Thương hiệu | "SIXDO là ai, sao giá cao hơn?" | SIXDO từng trình diễn tại NYFW; chi tiết thiết kế nhìn thấy được | Tạo lý do đáng tiền, nhất là SP2 (đắt hơn khoảng 70% so với PRETTYGARDEN) | Chỉ nói thành tích của thương hiệu, không nói mẫu này từng lên sàn diễn |
-| 3 Chất liệu | "Vải gì, có xuyên, có lót không?" | % sợi, lót, độ xuyên, cách mặc vào | 32/40 review đối thủ nhắc chất liệu | Trả lời thẳng như câu hỏi của khách; nói rõ cả điểm yếu (vd. tay voan xuyên) |
-| 4 Size | "Tôi mặc size nào?" | Số đo inch từng size, chiều cao và size của người mẫu | 30/40 review nhắc size; hoàn hàng do size tốn phí | Dùng inch, không dùng cm; không ghi "true to size" |
-| 5 Giặt | "Giặt thế nào?" | Chép theo nhãn giặt | Tránh hoàn hàng do co rút, hỏng vải | Ngắn, đúng nhãn |
+| Bullet | Câu hỏi của khách | Nội dung | Bullet hiện tại đã có chưa |
+|---|---|---|---|
+| 1 Dịp dùng | "Mặc vào dịp nào?" | Dịp, nơi mặc, cách phối lớp khi trời lạnh | Có, nhưng gắn mùa hè hoặc quá chung |
+| 2 Thương hiệu | "SIXDO là ai, sao giá cao hơn?" | SIXDO từng trình diễn tại NYFW; chi tiết thấy được | Chưa có |
+| 3 Chất liệu | "Vải gì, có xuyên, có lót không?" | Thành phần, lót, độ xuyên, kiểu mặc | Chỉ có tính từ chung ("lightweight, durable") |
+| 4 Size | "Tôi mặc size nào?" | Số đo inch, người mẫu | Chỉ có trong bảng size, không có trong bullet |
+| 5 Giặt | "Giặt thế nào?" | Chép theo nhãn | Chỉ SP3 có, và mâu thuẫn với thuộc tính |
 
-Ngoài khách, bullet còn được **trợ lý Alexa for Shopping (trước là Rufus)** đọc để trả lời câu hỏi của khách, vì phần Q&A không còn nổi bật trên trang sản phẩm [KC]. Bullet ghi rõ "có lót", "hơi xuyên" thì trợ lý trả lời đúng.
+Bullet còn được trợ lý **Alexa for Shopping** (trước là Rufus) đọc để trả lời khách, vì phần Q&A không còn nổi bật [4] [KC]. Bullet ghi rõ "có lót", "hơi xuyên" thì trợ lý trả lời đúng.
 
-## 2 SP1 – Floral Halter Jumpsuit (cotton, 51,99 USD)
+## 2 SP1 – Floral Halter Jumpsuit (51,99 USD)
+### 2.1 Bullet hiện tại (ASIN B0GRGWVHWC) và hướng sửa
+| Nội dung | Đang ghi trên Amazon | Quyết định | Lý do |
+|---|---|---|---|
+| Thiết kế | Cổ yếm, không tay, hoa trắng xanh; "polished, all-in-one look without the guesswork of outfit coordination" | **Giữ** | Ý "một món là xong bộ" rất tốt, đưa vào bullet 2 |
+| Dịp dùng | Office wear, casual outings, travel, dinners, social events | **Sửa** | Quá chung, không có dịp nào nổi bật. Bỏ "office wear" (cổ yếm, không tay khó mặc đi làm mùa lạnh); thêm vacation, cruise, resort dinner, brunch |
+| Mùa | "Breezy construction … ideal for warm summer days" | **Sửa** | Gắn với mùa hè, trái mùa Q4. Đổi thành "warm-weather plans" và cách phối lớp |
+| Chất liệu | "Breathable, durable … smooth, maintains its structure after washing"; thuộc tính: Cotton (một nguồn ghi rayon pha cotton) | **Sửa** | Giữ ý thoáng, giữ form; thêm thành phần theo nhãn, độ xuyên, kiểu mặc pull-on |
+| Size, giặt | Không có số đo trong bullet; thuộc tính: Hand Wash Only, pull-on | **Thêm** | Thêm bullet size bằng inch và bullet giặt |
+### 2.2 Bullet sau khi sửa
 | # | Bullet đăng lên Amazon (tiếng Anh) | Nghĩa tiếng Việt | Cần điền / kiểm tra | Ký tự* |
 |---|---|---|---|---|
-| 1 | `MADE FOR WARM-WEATHER PLANS – A halter wide-leg jumpsuit for vacations, cruises, resort dinners, brunch and daytime wedding celebrations. Add a cropped cardigan or denim jacket when the evening turns cool.` | Jumpsuit cổ yếm, ống rộng cho kỳ nghỉ, du thuyền, bữa tối ở resort, brunch và tiệc cưới ban ngày. Buổi tối trời mát thì khoác thêm cardigan ngắn hoặc áo denim. | Không có ô trống. Kiểm tra ảnh thật đúng là cổ yếm và ống rộng. | 205 |
-| 2 | `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese fashion brand whose collections have been shown at New York Fashion Week. This jumpsuit is part of its contemporary casual line.` | SIXDO là thương hiệu thời trang Việt Nam từng trình diễn các bộ sưu tập tại New York Fashion Week. Mẫu jumpsuit này thuộc dòng thường ngày hiện đại của hãng. | Không có ô trống. | 179 |
-| 3 | `WOVEN COTTON, HONEST DETAILS – [100]% cotton woven fabric. Lining: [yes – body only / no]. In bright light the fabric is [not see-through / slightly see-through]. Closure: [back zip / tie at neck].` | Vải cotton dệt [100]%. Lót: [có, chỉ phần thân / không]. Dưới ánh sáng mạnh vải [không xuyên / hơi xuyên]. Cách mặc vào: [khóa kéo sau lưng / buộc dây ở cổ]. | % cotton (theo nhãn mác) · có lót không · độ xuyên · loại khóa | 155 |
-| 4 | `FIND YOUR SIZE IN INCHES – S: bust [ ]", waist [ ]", hip [ ]", inseam [ ]" · M · L · XL: [ ]. Model is [ ] and wears size [ ].` | Chọn size theo số đo inch: vòng ngực, eo, hông, chiều dài ống trong cho từng size S–XL. Người mẫu cao [ ], mặc size [ ]. | 4 số đo × 4 size · chiều cao người mẫu · size người mẫu mặc | 126 |
-| 5 | `CARE – Hand wash cold, [lay flat / hang dry]. Do not bleach. Follow the care label inside the garment.` | Giặt tay nước lạnh, [phơi phẳng / treo]. Không dùng thuốc tẩy. Làm theo nhãn giặt trong áo. | Cách phơi, chép đúng theo nhãn giặt | 89 |
+| 1 | `MADE FOR WARM-WEATHER PLANS – A halter, sleeveless floral jumpsuit for vacations, cruises, travel days, resort dinners and brunch. Add a cropped cardigan or denim jacket when the evening turns cool.` | Jumpsuit hoa cổ yếm, không tay cho kỳ nghỉ, du thuyền, ngày di chuyển, bữa tối ở resort và brunch. Buổi tối trời mát thì khoác thêm cardigan ngắn hoặc áo denim. | Không có ô trống | 198 |
+| 2 | `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese brand whose collections have been shown at New York Fashion Week. This jumpsuit gives a polished all-in-one look with no pieces to coordinate.` | SIXDO là thương hiệu Việt Nam từng trình diễn tại New York Fashion Week. Jumpsuit cho một bộ trang phục chỉn chu chỉ trong một món, không phải phối đồ. | Không có ô trống | 193 |
+| 3 | `BREATHABLE WOVEN FABRIC – [100% cotton / rayon-cotton blend], per the care label. Smooth and breathable, it keeps its shape after washing. Pull-on style, no zip. In bright light: [not / slightly] see-through.` | Vải dệt thoáng khí: [100% cotton / rayon pha cotton] theo nhãn. Mặt vải mịn, thoáng, giữ form sau khi giặt. Mặc kiểu chui, không khóa kéo. Dưới ánh sáng mạnh: [không / hơi] xuyên. | Thành phần theo nhãn · độ xuyên | 184 |
+| 4 | `FIND YOUR SIZE IN INCHES – S: bust [ ]", waist [ ]", hip [ ]", inseam [ ]" · M · L · XL: [ ]. Pull-on waist, so check the hip measurement. Model is [ ] and wears size [ ].` | Chọn size theo inch: ngực, eo, hông, dài ống trong cho từng size. Cạp chui nên cần xem số đo hông. Chiều cao và size người mẫu. | Số đo × size · dải size thật · người mẫu | 171 |
+| 5 | `CARE – Hand wash only in cold water, hang dry. Do not bleach or tumble dry.` | Chỉ giặt tay nước lạnh, phơi treo. Không tẩy, không sấy. | Đối chiếu nhãn giặt | 75 |
 
-## 3 SP2 – Floral Maxi Dress (polyester voile, 51,99 USD)
+## 3 SP2 – Floral Maxi Dress (100% polyester voile, 51,99 USD)
+### 3.1 Bullet hiện tại (ASIN B0FDKS69GR) và hướng sửa
+| Nội dung | Đang ghi trên Amazon | Quyết định | Lý do |
+|---|---|---|---|
+| Dáng | "Beautifully flowing silhouette … gentle flare from the waist creates a flattering shape" | **Giữ** | Mô tả dáng tốt, đưa vào bullet 1 |
+| Dịp dùng | Brunch, casual outing, weekend getaway; "ideal warm-weather companion for the summer season" | **Sửa** | Giữ brunch, getaway; bỏ "summer season"; thêm fall gatherings, wedding guest |
+| Chất liệu | "Lightweight, durable fabric … fresh and comfortable"; thuộc tính: 100% Polyester, zipper | **Sửa** | Không nhắc tay voan xuyên và lót, đúng điểm 5/8 review phàn nàn. Bullet 3 phải trả lời thẳng |
+| Size | Bảng size S (4–6), M (8–10), L (12–14), XL (16–18), XXL (20–22), có ngực, eo, hông | **Giữ** | Đưa quy đổi size số vào bullet 4 |
+| Giặt | Thuộc tính: Hand Wash Only | **Thêm** | Chưa có bullet giặt |
+### 3.2 Bullet sau khi sửa
 | # | Bullet đăng lên Amazon (tiếng Anh) | Nghĩa tiếng Việt | Cần điền / kiểm tra | Ký tự* |
 |---|---|---|---|---|
-| 1 | `ONE DRESS FOR FALL EVENTS AND TRIPS – A tiered floral maxi with a tie neckline for fall gatherings, daytime weddings as a guest, and vacations to warmer places. Layer with a [denim jacket / knit cardigan] on cooler days.` | Một chiếc váy cho các dịp mùa thu và các chuyến đi: váy maxi hoa nhiều tầng, cổ buộc dây, cho buổi họp mặt mùa thu, dự đám cưới ban ngày và kỳ nghỉ ở nơi ấm. Ngày mát thì phối [áo denim / cardigan len]. | Chọn áo khoác phối, khớp với ảnh ô 4 | 203 |
-| 2 | `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese fashion brand whose collections have been shown at New York Fashion Week. Details you can see in the photos: [puff] sleeves, tie neck, [3]-tier skirt.` | Giống SP1 về thương hiệu. Thêm các chi tiết thấy được trong ảnh: tay [bồng], cổ buộc dây, chân váy [3] tầng. | Kiểu tay · số tầng váy | 197 |
-| 3 | `IS IT SHEER? – The sleeves are sheer voile by design. The bodice and skirt are [fully lined / lined to the knee / unlined]. Fabric: [100]% polyester voile. It is a breathable layer, not a warm winter fabric.` | Váy có xuyên không? Tay áo là voan mỏng, cố ý thiết kế xuyên. Thân và chân váy [lót toàn bộ / lót đến gối / không lót]. Vải voan polyester [100]%. Đây là lớp vải thoáng, không phải vải giữ ấm mùa đông. | Mức lót · % polyester | 179 |
-| 4 | `FIND YOUR SIZE IN INCHES – S: bust [ ]", waist [ ]", length [ ]", sleeve [ ]" · M · L · XL: [ ]. Model is [ ] and wears [ ]. Colors shown in daylight: Blue Floral, Mustard Yellow Floral.` | Số đo inch: ngực, eo, dài váy, dài tay cho S–XL. Chiều cao và size người mẫu. Màu trong ảnh chụp dưới ánh sáng ngày: hoa xanh, hoa vàng mù tạt. | 4 số đo × 4 size · người mẫu · xác nhận tên màu | 186 |
-| 5 | `CARE – [Hand wash cold / machine wash cold, gentle], hang dry, [low iron or steam]. Follow the care label inside the garment.` | [Giặt tay nước lạnh / giặt máy nước lạnh, chế độ nhẹ], phơi treo, [là nhiệt thấp hoặc hấp]. Làm theo nhãn giặt. | Cách giặt, cách là theo nhãn | 104 |
+| 1 | `ONE DRESS FOR FALL EVENTS AND TRIPS – A floral maxi with a gentle flare from the waist for fall gatherings, daytime weddings as a guest, brunch and getaways to warmer places. Layer with a [denim jacket / knit cardigan] on cool days.` | Váy maxi hoa xòe nhẹ từ eo cho buổi họp mặt mùa thu, dự đám cưới ban ngày, brunch và chuyến đi đến nơi ấm. Ngày mát thì phối [áo denim / cardigan len]. | Chọn áo khoác phối, khớp ảnh ô 4 | 215 |
+| 2 | `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese brand whose collections have been shown at New York Fashion Week. Details you can see in the photos: sheer voile sleeves and a flowing flared skirt[, tie neck].` | Thương hiệu từng trình diễn tại NYFW. Chi tiết thấy trong ảnh: tay voan mỏng, chân váy xòe bay[, cổ buộc dây]. | Chỉ giữ "tie neck" nếu hàng thật có | 209 |
+| 3 | `IS IT SHEER? – The sleeves are sheer voile by design. The bodice and skirt are [fully lined / lined to the knee / unlined]. 100% polyester voile: light and breathable, not a warm winter fabric. Zip closure.` | Váy có xuyên không? Tay voan xuyên là do thiết kế. Thân và chân váy [lót toàn bộ / lót đến gối / không lót]. Voan 100% polyester: nhẹ, thoáng, không phải vải giữ ấm. Có khóa kéo. | Mức lót | 180 |
+| 4 | `FIND YOUR SIZE IN INCHES – S (4–6), M (8–10), L (12–14), XL (16–18), XXL (20–22). Bust, waist, hip and length for each size are in the size chart image. Model is [ ] and wears [ ].` | Quy đổi size chữ sang size số Mỹ S–XXL. Số đo ngực, eo, hông, dài váy xem trong ảnh bảng size. Chiều cao và size người mẫu. | Người mẫu · thêm dài váy vào bảng size | 180 |
+| 5 | `CARE – Hand wash only in cold water, hang dry. [Steam or low iron]. Do not bleach or tumble dry.` | Chỉ giặt tay nước lạnh, phơi treo. [Hấp hoặc là nhiệt thấp]. Không tẩy, không sấy. | Cách là theo nhãn | 94 |
 
-Lưu ý riêng cho SP2:
-- Bullet 3 mở bằng câu hỏi "IS IT SHEER?" vì đây đúng là điều khách phàn nàn trong review. Thừa nhận tay voan xuyên là do thiết kế tốt hơn để khách tự phát hiện và trả hàng.
-- Nếu đo tay áo không đủ dài, **không** dùng từ "long sleeve" ở bất kỳ bullet nào (title dùng phương án B).
+Lưu ý riêng cho SP2: bullet 3 mở bằng câu hỏi "IS IT SHEER?" vì đây đúng là điều khách phàn nàn. Nếu tay áo không đủ dài, không dùng "long sleeve" ở bất kỳ đâu (title phương án B).
 
-## 4 SP3 – Tiered Fit and Flare Dress (polyester, 25,99 USD)
+## 4 SP3 – A-Line Flared Dress (100% polyester, 25,99 USD)
+### 4.1 Bullet hiện tại (ASIN B0FDKRBQVZ) và hướng sửa
+| Nội dung | Đang ghi trên Amazon | Quyết định | Lý do |
+|---|---|---|---|
+| Dịp dùng | "Sleek and versatile for work events and formal celebrations"; "transitions from casual outings to more formal occasions" | **Giữ, sửa** | Giữ ý đi làm → đi tiệc; nêu dịp cụ thể theo màu (tiệc cuối năm / Valentine, Phục sinh) |
+| Chất liệu | "Durable fabric ideal for fall and winter weather"; "softer and more breathable after a few washes" | **Bỏ** | Váy polyester không tay, hở lưng: "ideal for winter" là claim chưa kiểm chứng, dễ gây review xấu. "Mềm hơn sau vài lần giặt" cũng không chứng minh được |
+| Dáng | Thuộc tính: A-line, high waist, sleeveless, backless, pull-on | **Thêm** | Chưa có trong bullet. Đưa vào bullet 1 và 3 |
+| Size | S: bust 29.3", waist 26.6", length 44.5" | **Giữ, kiểm tra** | Ngực 29.3" là nhỏ so với size S Mỹ, có thể là số đo trải phẳng hoặc số đo vải. Đo lại trước khi đăng |
+| Giặt | Bullet: máy giặt được, khuyên giặt tay, không chất tẩy mạnh, không sấy; thuộc tính: Hand Wash Only | **Sửa** | Hai chỗ mâu thuẫn. Chép đúng nhãn giặt rồi sửa cả bullet lẫn thuộc tính |
+### 4.2 Bullet sau khi sửa
 | # | Bullet đăng lên Amazon (tiếng Anh) | Nghĩa tiếng Việt | Cần điền / kiểm tra | Ký tự* |
 |---|---|---|---|---|
-| 1 | `DRESS IT UP OR LAYER IT – Spaghetti straps and a tiered flared skirt for holiday parties, cocktail hour and New Year's Eve. Add a blazer, cardigan or tights for cooler weather.` | (Bản màu đen) Diện sang hay phối lớp đều được: dây mảnh, chân váy xòe nhiều tầng cho tiệc cuối năm, tiệc cocktail và đêm Giao thừa. Trời lạnh thì thêm blazer, cardigan hoặc tất. | Không có ô trống. Dùng cho ASIN con màu đen | 176 |
-| 1b | `DRESS IT UP OR LAYER IT – Spaghetti straps and a tiered flared skirt for Valentine's Day, Easter brunch and bridal showers. Add a denim jacket or cardigan for cooler weather.` | (Bản màu hồng) Như trên, nhưng cho Valentine, brunch Phục sinh và tiệc chia tay độc thân của cô dâu. Trời mát thì thêm áo denim hoặc cardigan. | Không có ô trống. Dùng cho ASIN con màu hồng | 174 |
-| 2 | `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese fashion brand whose collections have been shown at New York Fashion Week. This style brings the brand's feminine tiered silhouette to an everyday price.` | Giống SP1 về thương hiệu. Thêm: mẫu này đưa dáng váy tầng nữ tính của hãng về mức giá dùng hằng ngày. | Không có ô trống | 203 |
-| 3 | `SOLID POLYESTER, CLEAR FACTS – [100]% polyester, [lined / unlined], [opaque / slightly see-through in Blush Pink]. Adjustable straps: [yes / no]. Closure: [side zip / pull-on].` | Vải polyester trơn, thông tin rõ ràng: polyester [100]%, [có lót / không lót], [không xuyên / màu hồng hơi xuyên]. Dây vai [chỉnh được / không]. Cách mặc: [khóa kéo bên hông / chui đầu]. | % polyester · lót · độ xuyên (thử riêng màu hồng) · dây vai · khóa | 134 |
-| 4 | `FIND YOUR SIZE IN INCHES – S: bust [ ]", waist [ ]", length [ ]" · M · L · XL · XXL: [ ]. Model is [ ] and wears [ ].` | Số đo inch: ngực, eo, dài váy cho S–XXL. Chiều cao và size người mẫu. | 3 số đo × 5 size · người mẫu | 117 |
-| 5 | `CARE – [Machine wash cold, gentle / hand wash], hang dry. Follow the care label inside the garment.` | [Giặt máy nước lạnh, chế độ nhẹ / giặt tay], phơi treo. Làm theo nhãn giặt. | Cách giặt theo nhãn | 85 |
+| 1 | `DRESS IT UP OR LAYER IT – A sleeveless, high-waist A-line dress with an open back for holiday parties, cocktail hour, New Year's Eve and work events. Add a blazer, cardigan or tights when it is cold.` | (Màu đen) Váy chữ A không tay, cạp cao, hở lưng cho tiệc cuối năm, cocktail, Giao thừa và sự kiện công ty. Trời lạnh thì thêm blazer, cardigan hoặc tất. | Dùng cho ASIN con màu đen | 199 |
+| 1b | `DRESS IT UP OR LAYER IT – A sleeveless, high-waist A-line dress with an open back for Valentine's Day, Easter brunch, bridal showers and birthdays. Add a denim jacket or cardigan when it is cool.` | (Màu hồng) Như trên, cho Valentine, brunch Phục sinh, tiệc chia tay độc thân của cô dâu và sinh nhật. Trời mát thì thêm áo denim hoặc cardigan. | Dùng cho ASIN con màu hồng | 195 |
+| 2 | `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese brand whose collections have been shown at New York Fashion Week. This style moves easily from the office to an evening event, at an everyday price.` | Thương hiệu từng trình diễn tại NYFW. Mẫu này chuyển dễ dàng từ văn phòng sang buổi tối, với mức giá dùng hằng ngày. | Không có ô trống | 199 |
+| 3 | `SOLID POLYESTER, CLEAR FACTS – 100% polyester, [lined / unlined], [opaque / slightly see-through in Blush Pink]. Pull-on style with no zip. Open back.` | Polyester trơn, thông tin rõ: 100% polyester, [có lót / không lót], [không xuyên / màu hồng hơi xuyên]. Mặc kiểu chui, không khóa. Hở lưng. | Lót · độ xuyên (thử riêng màu hồng) | 129 |
+| 4 | `FIND YOUR SIZE IN INCHES – S: bust [29.3]", waist [26.6]", length [44.5]" · M · L · XL · XXL: [ ]. Model is [ ] and wears [ ].` | Số đo inch cho S–XXL. Số của size S lấy từ listing hiện tại, cần đo lại. Chiều cao và size người mẫu. | Đo lại size S · điền M–XXL · người mẫu | 120 |
+| 5 | `CARE – Hand wash recommended in cold water. Use a mild detergent; do not bleach or tumble dry. Hang dry.` | Khuyên giặt tay nước lạnh, dùng chất giặt nhẹ, không tẩy, không sấy. Phơi treo. | Chép đúng nhãn giặt; sửa thuộc tính cho khớp | 104 |
 
-Lưu ý riêng cho SP3:
-- Nếu Seller Central chỉ cho một bộ bullet ở ASIN cha, dùng câu gộp cho bullet 1: `for holiday parties, cocktail hour, Valentine's Day and Easter brunch`.
-- Không ghi "mini" hay "midi" khi chưa đo chiều dài váy.
+Lưu ý riêng cho SP3: nếu Seller Central chỉ cho một bộ bullet ở ASIN cha, dùng câu gộp cho bullet 1: `for holiday parties, New Year's Eve, Valentine's Day and Easter brunch`.
 
 *Ký tự: ước tính sau khi điền, lấy phương án dài nhất trong mỗi [ ], mỗi ô số tính 3 ký tự.
 
-## 5 Cách điền các ô [ ]
-Đo trên hàng tồn thật, hạn 03/10 (YC02, Phụ lục B). Làm cho mọi màu và mọi size.
+## 5 Ảnh hưởng tới title và thuộc tính
+Dữ kiện trên listing hiện tại làm lộ ra vài chỗ phải sửa ngoài bullet:
+
+| SKU | Chỗ cần sửa | Việc cần làm |
+|---|---|---|
+| SP1 | Thuộc tính độ dài ghi "Midi" cho một jumpsuit dài | Đổi thành độ dài thật (Ankle hoặc Full length) |
+| SP1 | Title mới có chữ "Cotton" | Nếu nhãn ghi rayon pha cotton, bỏ "Cotton" khỏi title: `SIXDO Women's Floral Halter Jumpsuit, Sleeveless Wide Leg Long Jumpsuit` |
+| SP2 | Bảng size có 5 size (S–XXL), bản nháp cũ chỉ ghi đến XL | Size chart ô 7 (YC05) và bullet 4 dùng đủ 5 size |
+| SP3 | Thuộc tính ghi A-line, high waist, backless; title mới ghi "Spaghetti Strap Tiered" | Kiểm tra hàng thật. Nếu không có dây mảnh và tầng váy, dùng: `SIXDO Women's Sleeveless A-Line Flared Dress, High Waist Open Back Dress` |
+| SP3 | Cách giặt: bullet "machine wash", thuộc tính "Hand Wash Only" | Chép theo nhãn rồi sửa cả hai |
+| SP3 | Size S: ngực 29.3" | Đo lại; nếu là số đo trải phẳng thì ghi rõ hoặc nhân đôi |
+
+## 6 Cách điền các ô [ ]
+Đo trên hàng tồn thật, hạn 03/10 (YC02, Phụ lục B).
 
 | Ô cần điền | Cách làm | Chọn phương án |
 |---|---|---|
-| % sợi | Đọc nhãn thành phần trong áo | Ghi đúng nhãn, vd. `100% cotton` hoặc `95% polyester, 5% spandex` |
-| Lót | Lật mặt trong, xem lót đến đâu | SP2: `fully lined` / `lined to the knee` / `unlined` |
-| Độ xuyên | Mặc lên người mẫu, chụp dưới ánh nắng; hoặc soi vải lên đèn điện thoại cách 10 cm | Không thấy bóng tay: `not see-through`. Thấy mờ: `slightly see-through`. Không bao giờ ghi `non-see-through` khi chưa thử |
-| Số đo inch | Trải phẳng, đo bằng thước dây. Ngực và eo: đo nửa vòng × 2. Dài: từ đỉnh vai đến gấu. Inseam: từ đáy đũng đến gấu | Làm tròn 0,5 inch. 1 inch = 2,54 cm |
-| Người mẫu | Ghi chiều cao theo feet-inch và size đang mặc | Vd. `Model is 5'7" and wears size S` |
-| Khóa / dây | Xem trên hàng thật | SP1: `back zip` / `tie at neck`. SP3: `side zip` / `pull-on`; dây vai `yes` / `no` |
-| Kiểu tay, số tầng (SP2) | Đếm trên hàng thật | Chỉ ghi `puff` nếu tay thật sự bồng |
-| Giặt | Chép nhãn giặt | Không tự thêm "machine washable" nếu nhãn ghi giặt tay |
+| Thành phần | Đọc nhãn trong áo | Ghi đúng nhãn |
+| Lót | Lật mặt trong, xem lót đến đâu | `fully lined` / `lined to the knee` / `unlined` |
+| Độ xuyên | Chụp trên người mẫu dưới nắng, hoặc soi vải lên đèn điện thoại cách 10 cm | Không thấy bóng tay: `not see-through`. Thấy mờ: `slightly see-through` |
+| Số đo inch | Đo trên người mẫu vừa size hoặc trải phẳng × 2. Dài: từ đỉnh vai đến gấu. Inseam: từ đáy đũng đến gấu | Làm tròn 0,5 inch; 1 inch = 2,54 cm |
+| Người mẫu | Chiều cao feet-inch, size đang mặc | Vd. `Model is 5'7" and wears size S` |
+| Giặt, là | Chép nhãn giặt | Không tự thêm "machine washable" |
 
-## 6 Những từ không dùng
-| Không dùng | Lý do | Thay bằng |
+## 7 Những từ không dùng
+| Không dùng | Có trong bullet hiện tại? | Thay bằng |
 |---|---|---|
-| true to size | Chưa có dữ liệu hoàn hàng để chứng minh | Số đo inch và size người mẫu |
-| non-see-through, warm, wrinkle-free | Chưa kiểm chứng; sai thì bị review xấu, hoàn hàng | Kết quả thử thật: `slightly see-through`, `breathable layer` |
-| luxurious, premium quality | Tính từ chung chung, không chứng minh được | Chi tiết nhìn thấy trên ảnh: tay bồng, cổ buộc dây, tầng váy |
-| haute couture | Thuật ngữ được bảo hộ tại Pháp | `runway design house` |
-| this dress walked the runway | Mẫu này chưa chắc từng lên sàn diễn | `collections have been shown at New York Fashion Week` |
-| sale, cheap, giá, khuyến mãi | Amazon không cho nhắc giá và khuyến mãi trong bullet | Coupon theo dịp (YC02 mục 6) |
-| tên đối thủ | Không so sánh với đối thủ trên listing | Tự chứng minh bằng ảnh và số đo |
+| ideal for summer days / summer season | SP1, SP2 | Dịp cụ thể và cách phối lớp |
+| ideal for fall and winter weather | SP3 | "Add a blazer, cardigan or tights when it is cold" |
+| softer and more breathable after a few washes | SP3 | Bỏ; không chứng minh được |
+| lightweight, durable (đứng một mình) | SP1, SP2 | Thành phần, lót, độ xuyên cụ thể |
+| true to size, non-see-through, warm | Không | Số đo inch, kết quả thử thật |
+| haute couture, "this dress walked the runway" | Không | `collections have been shown at New York Fashion Week` |
+| sale, giá, tên đối thủ | Không | Coupon theo dịp (YC02 mục 6) |
 
-## 7 Kiểm tra trước khi đăng
-- [ ] Không còn ô [ ] nào trong bullet.
-- [ ] Số đo trong bullet 4 khớp size chart ở ảnh ô 7 (YC05).
-- [ ] Độ xuyên và lót trong bullet 3 khớp ảnh ô 5 và ô 8.
-- [ ] Dịp ở bullet 1 khớp Item Highlights và ảnh ô 2–3.
-- [ ] SP3: mỗi màu đúng bản bullet 1 của mình.
-- [ ] SP2: nếu tay không dài, đã bỏ "long sleeve" khỏi mọi chỗ.
+## 8 Kiểm tra trước khi đăng
+- [ ] Đã đối chiếu bullet hiện tại nguyên văn trong Seller Central.
+- [ ] Không còn ô [ ] nào.
+- [ ] Số đo bullet 4 khớp size chart ô 7 (YC05); độ xuyên, lót bullet 3 khớp ảnh ô 5 và ô 8.
+- [ ] Thuộc tính (chất liệu, cách giặt, độ dài, kiểu cổ) khớp bullet.
+- [ ] SP3: mỗi màu đúng bản bullet 1 của mình; title khớp dáng thật.
 - [ ] Mỗi bullet dưới 250 ký tự; không có ký tự đặc biệt như ! $ ? { }.
 
 ## Nguồn
-[N1] SIXDO – Phần 1–2: mã hóa 40 review đối thủ và 8 review SP2.
+[N1] SIXDO – Phần 1–2: mã hóa 40 review đối thủ và 8 review SP2; ASIN 3 sản phẩm.
 [N2] SIXDO – Yêu cầu 02, mục 2 (từ khóa) và mục 3 (listing).
-[1] Hướng dẫn listing quần áo của Amazon (Clothing Style Guide): https://m.media-amazon.com/images/G/65/SG3P/SU/Listing/Clothing_Style_Guide_Final.pdf
-[2] Alexa for Shopping và Q&A (nguồn thứ cấp): https://www.stackline.com/news/rufus-is-gone-what-it-means-and-what-it-doesnt
+[1] SP1 – SIXDO White Blue Floral Woven Long Jumpsuit: https://www.amazon.com/SIXDO-Floral-Jumpsuit-Feminine-Breezy/dp/B0GRGWHHKL
+[2] SP2 – SIXDO Voile Floral Flared Maxi Dress: https://us.amazon.com/SIXDO-Floral-Feminine-Sheer-Sleeve-Vacation/dp/B0H6JXKRWV
+[3] SP3 – SIXDO Raw Flared Dress: https://www.amazon.com/SIXDO-Flared-Versatile-Events-Celebrations/dp/B0FKMSCPV8
+[4] Alexa for Shopping và Q&A (nguồn thứ cấp): https://www.stackline.com/news/rufus-is-gone-what-it-means-and-what-it-doesnt

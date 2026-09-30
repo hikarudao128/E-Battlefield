@@ -144,15 +144,15 @@ Quy định title:
 | SP3 | SIXDO Raw Flared Dress for Women, Sleek and Versatile for Work Events and Formal Celebrations (93) | `SIXDO Women's Spaghetti Strap Tiered Fit and Flare Dress` (56) | Đen: `Solid black polyester; for holiday parties, cocktail hour, New Year's Eve; layer with a blazer or cardigan`<br>Hồng: `Solid blush pink polyester; for Valentine's Day, Easter, bridal showers, brunch; layer with a denim jacket` |
 
 ### 3.2 Bullet
-Bản đầy đủ 5 bullet của từng sản phẩm, kèm nghĩa tiếng Việt và cách điền số liệu, nằm ở file riêng *SIXDO_YeuCau02_Bullet_LamRo*. Thứ tự: dịp dùng → thương hiệu → chất liệu → size (inch) → cách giặt. Phần [ ] là số liệu thật, phải điền trước khi đăng. Không claim "true to size", "warm" hay "non-see-through" khi chưa kiểm chứng.
+Bản đầy đủ 5 bullet của từng sản phẩm, sửa từ bullet đang có trên Amazon, nằm ở file riêng *SIXDO_YeuCau02_Bullet_LamRo*. Thứ tự: dịp dùng → thương hiệu → chất liệu → size (inch) → cách giặt. Phần [ ] là số liệu thật, phải điền trước khi đăng. Không claim "true to size", "warm" hay "non-see-through" khi chưa kiểm chứng.
 
 Bullet 2 dùng chung cho cả ba sản phẩm: `FROM A RUNWAY DESIGN HOUSE – SIXDO is a Vietnamese fashion brand whose collections have been shown at New York Fashion Week.` Đây là thành tích của thương hiệu, không phải của từng mẫu.
 
-| Bullet | SP1 (cotton) | SP2 (polyester voile) | SP3 (polyester) |
+| Bullet | SP1 (cotton, theo nhãn) | SP2 (100% polyester voile) | SP3 (100% polyester) |
 |---|---|---|---|
-| 1. Dịp | `MADE FOR WARM-WEATHER PLANS – For vacations, cruises, resort dinners, brunch and daytime weddings.` | `ONE DRESS FOR FALL EVENTS AND TRIPS – For fall gatherings, daytime weddings as a guest and trips to warmer places.` | `DRESS IT UP OR LAYER IT – For [holiday parties, New Year's Eve / Valentine's Day, Easter brunch]. Add a blazer or tights when it's cold.` |
-| 3. Chất liệu | `WOVEN COTTON, HONEST DETAILS – [100]% cotton. Lining: [ ]. In bright light: [not / slightly] see-through.` | `IS IT SHEER? – Sleeves are sheer voile by design. Body: [lined / unlined]. A breathable layer, not a warm winter fabric.` | `SOLID POLYESTER, CLEAR FACTS – [lined / unlined], [opaque / slightly see-through].` |
-| 4–5. Size, giặt | `FIND YOUR SIZE IN INCHES – bust, waist, hip, inseam [ ]; model wears [ ].` · `CARE – Hand wash cold.` | `FIND YOUR SIZE IN INCHES – bust, waist, length, sleeve [ ].` · `CARE – [ ].` | `FIND YOUR SIZE IN INCHES – S–XXL [ ].` · `CARE – [ ].` |
+| 1. Dịp | `MADE FOR WARM-WEATHER PLANS – For vacations, cruises, travel days, resort dinners and brunch.` | `ONE DRESS FOR FALL EVENTS AND TRIPS – A gentle flare from the waist; for fall gatherings, daytime weddings as a guest, brunch and getaways.` | `DRESS IT UP OR LAYER IT – Sleeveless high-waist A-line, open back; for [holiday parties, New Year's Eve / Valentine's Day, Easter brunch]. Add a blazer or tights when it's cold.` |
+| 3. Chất liệu | `BREATHABLE WOVEN FABRIC – [cotton / rayon-cotton blend] per label. Pull-on, no zip. [Not / slightly] see-through.` | `IS IT SHEER? – Sleeves are sheer voile by design. Body: [lined / unlined]. 100% polyester voile, not a warm winter fabric. Zip closure.` | `SOLID POLYESTER, CLEAR FACTS – 100% polyester, [lined / unlined], [opaque / slightly see-through]. Pull-on, open back.` |
+| 4–5. Size, giặt | `FIND YOUR SIZE IN INCHES – bust, waist, hip, inseam [ ]; model wears [ ].` · `CARE – Hand wash only.` | `FIND YOUR SIZE IN INCHES – S (4–6) to XXL (20–22); chart in images.` · `CARE – Hand wash only.` | `FIND YOUR SIZE IN INCHES – S–XXL [ ].` · `CARE – Hand wash recommended.` |
 
 Hai lưu ý:
 - **SP2 đắt hơn khoảng 70%** so với maxi hoa của PRETTYGARDEN (khoảng 30 USD). Lý do đáng tiền phải được chứng minh bằng ảnh macro vải, ảnh lật lót, ảnh cận tay bồng và dây cổ, và video 15–30 giây, không bằng tính từ.
