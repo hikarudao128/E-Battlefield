@@ -101,6 +101,24 @@ def convert(md):
             i += 1; continue
         if ln.strip() == '---pagebreak---':
             body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>'); i += 1; continue
+        if ln.strip().startswith('```'):
+            code = []
+            i += 1
+            while i < len(lines) and not lines[i].strip().startswith('```'):
+                code.append(lines[i].rstrip()); i += 1
+            i += 1
+            rpr = '<w:rPr><w:rFonts w:ascii="Consolas" w:hAnsi="Consolas" w:cs="Consolas"/><w:sz w:val="17"/></w:rPr>'
+            inner = '<w:r>' + rpr + '<w:br/></w:r>'
+            content = inner.join(f'<w:r>{rpr}<w:t xml:space="preserve">{esc(c)}</w:t></w:r>' for c in code)
+            ppr = ('<w:pPr><w:pBdr><w:top w:val="single" w:sz="4" w:space="4" w:color="D9D9D9"/>'
+                   '<w:left w:val="single" w:sz="4" w:space="4" w:color="D9D9D9"/>'
+                   '<w:bottom w:val="single" w:sz="4" w:space="4" w:color="D9D9D9"/>'
+                   '<w:right w:val="single" w:sz="4" w:space="4" w:color="D9D9D9"/></w:pBdr>'
+                   '<w:shd w:val="clear" w:color="auto" w:fill="F6F7F8"/>'
+                   '<w:spacing w:before="60" w:after="160" w:line="240" w:lineRule="auto"/>'
+                   '<w:ind w:left="120" w:right="120"/></w:pPr>')
+            body.append(f'<w:p>{ppr}{content}</w:p>')
+            continue
         if ln.startswith('|'):
             rows = []
             while i < len(lines) and lines[i].startswith('|'):
